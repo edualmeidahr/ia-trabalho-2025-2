@@ -1,0 +1,5001 @@
+ID,Materia,Subtopico,Dificuldade,Tempo_Min
+0,Física,Cinemática,4.0,11
+1,Física,Ondulatória,4.0,14
+2,Português,Gramática,1.1,5
+3,Matemática,Cálculo,1.8,7
+4,Português,Literatura Brasileira,2.8,12
+5,Matemática,Combinatória,4.2,12
+6,História,Medieval,1.9,3
+7,Física,Óptica,1.4,6
+8,História,Contemporânea,1.2,2
+9,Português,Gramática,3.2,11
+10,Geografia,Ambiental,1.8,8
+11,Biologia,Ecologia,4.9,18
+12,Física,Óptica,2.1,6
+13,Química,Orgânica,2.4,10
+14,Física,Eletromagnetismo,3.5,9
+15,Química,Inorgânica,2.5,10
+16,Biologia,Evolução,2.3,4
+17,Biologia,Citologia,4.2,10
+18,Biologia,Botânica,4.5,16
+19,Inglês,Grammar,4.5,12
+20,História,Medieval,2.0,6
+21,Português,Redação,2.6,6
+22,Inglês,Reading,4.0,11
+23,Química,Eletroquímica,2.7,9
+24,Inglês,Vocabulary,2.0,4
+25,Física,Ondulatória,4.5,17
+26,Geografia,Física,2.2,4
+27,História,Brasil República,4.0,10
+28,História,Contemporânea,3.6,9
+29,Geografia,Humana,3.2,11
+30,Matemática,Cálculo,2.3,2
+31,Biologia,Citologia,2.0,4
+32,Física,Ondulatória,2.9,12
+33,Química,Físico-Química,3.6,9
+34,História,Brasil República,4.5,12
+35,Biologia,Evolução,2.2,9
+36,Geografia,Cartografia,4.6,12
+37,Biologia,Citologia,2.4,6
+38,Biologia,Citologia,1.3,2
+39,Física,Cinemática,4.4,12
+40,História,Moderna,2.9,11
+41,Inglês,Reading,4.1,11
+42,Física,Cinemática,3.6,11
+43,Inglês,Vocabulary,1.2,6
+44,Física,Cinemática,2.6,11
+45,Física,Dinâmica,1.8,4
+46,Português,Literatura Brasileira,2.1,4
+47,Inglês,Vocabulary,1.4,6
+48,Matemática,Álgebra,4.7,13
+49,Português,Semântica,2.9,6
+50,Química,Inorgânica,1.0,7
+51,Inglês,Grammar,2.7,12
+52,Inglês,Reading,1.8,3
+53,Matemática,Estatística,2.3,7
+54,Química,Atomística,4.8,13
+55,Física,Eletromagnetismo,1.3,4
+56,Física,Eletromagnetismo,2.0,8
+57,Física,Óptica,3.6,10
+58,História,Medieval,3.7,11
+59,Português,Literatura Brasileira,3.7,11
+60,Física,Cinemática,2.8,6
+61,Física,Eletromagnetismo,1.9,5
+62,Física,Dinâmica,2.5,11
+63,História,Brasil República,4.9,16
+64,Matemática,Estatística,4.3,15
+65,Física,Dinâmica,2.1,9
+66,Química,Orgânica,2.1,6
+67,Biologia,Evolução,3.5,11
+68,História,Contemporânea,1.2,7
+69,História,Antiga,1.0,6
+70,História,Medieval,4.0,13
+71,Matemática,Álgebra,1.3,2
+72,Matemática,Combinatória,2.5,8
+73,Química,Atomística,2.2,10
+74,Matemática,Geometria Espacial,1.8,3
+75,Geografia,Ambiental,4.5,15
+76,Química,Físico-Química,4.5,17
+77,Química,Inorgânica,1.1,3
+78,Português,Literatura Brasileira,2.1,4
+79,Português,Gramática,4.4,17
+80,Inglês,Grammar,2.2,5
+81,Biologia,Citologia,3.6,10
+82,Física,Moderna,2.1,7
+83,Geografia,Física,1.5,3
+84,História,Antiga,1.4,7
+85,Geografia,Cartografia,3.4,11
+86,Biologia,Ecologia,1.2,5
+87,Biologia,Ecologia,2.7,8
+88,Geografia,Física,3.9,11
+89,Português,Interpretação de Texto,2.6,6
+90,Biologia,Fisiologia Humana,3.7,14
+91,Química,Estequiometria,3.3,13
+92,Matemática,Geometria Espacial,2.1,8
+93,Geografia,Cartografia,2.8,10
+94,Inglês,Vocabulary,1.7,7
+95,Geografia,Física,4.3,15
+96,História,Medieval,4.2,10
+97,Biologia,Fisiologia Humana,3.4,11
+98,Português,Redação,1.8,6
+99,Português,Literatura Brasileira,1.6,8
+100,Física,Moderna,2.7,11
+101,Inglês,Reading,3.2,7
+102,Inglês,Reading,4.2,14
+103,Geografia,Cartografia,3.5,12
+104,Português,Redação,2.8,12
+105,Inglês,Grammar,2.0,9
+106,História,Contemporânea,4.1,11
+107,História,Brasil Império,1.3,3
+108,Geografia,Geopolítica,4.6,12
+109,Biologia,Fisiologia Humana,3.8,9
+110,Português,Semântica,2.3,4
+111,Biologia,Fisiologia Humana,2.6,10
+112,Matemática,Combinatória,4.5,14
+113,Matemática,Geometria Espacial,2.2,10
+114,Português,Redação,4.0,14
+115,Biologia,Fisiologia Humana,1.9,3
+116,Português,Interpretação de Texto,3.7,14
+117,Química,Inorgânica,4.7,16
+118,Matemática,Trigonometria,3.4,8
+119,Português,Literatura Brasileira,4.5,13
+120,Português,Interpretação de Texto,1.8,9
+121,Português,Interpretação de Texto,4.0,12
+122,Física,Óptica,1.1,3
+123,Biologia,Evolução,1.3,2
+124,Matemática,Geometria Plana,1.8,18
+125,Química,Inorgânica,3.7,10
+126,Inglês,Vocabulary,2.0,8
+127,Física,Moderna,4.3,10
+128,Matemática,Geometria Espacial,3.3,10
+129,Português,Literatura Brasileira,1.3,6
+130,Biologia,Citologia,3.8,14
+131,Física,Moderna,4.9,14
+132,Português,Interpretação de Texto,1.3,2
+133,Português,Semântica,1.4,7
+134,Inglês,Vocabulary,1.6,6
+135,História,Brasil República,4.2,13
+136,Inglês,Grammar,4.3,12
+137,Biologia,Citologia,2.1,10
+138,Inglês,Vocabulary,3.4,8
+139,Inglês,Grammar,1.7,9
+140,História,Brasil Colônia,2.1,6
+141,Matemática,Cálculo,4.8,17
+142,Português,Semântica,3.2,10
+143,Inglês,Grammar,4.2,11
+144,Português,Literatura Brasileira,2.2,7
+145,Geografia,Cartografia,5.0,15
+146,Inglês,Grammar,2.2,9
+147,Biologia,Ecologia,1.5,8
+148,Química,Físico-Química,1.9,8
+149,História,Antiga,4.3,12
+150,Química,Orgânica,1.1,3
+151,Matemática,Álgebra,3.2,8
+152,Inglês,Reading,4.5,14
+153,Inglês,Grammar,2.4,7
+154,Inglês,Reading,4.3,10
+155,Matemática,Geometria Plana,1.6,4
+156,Física,Dinâmica,1.5,6
+157,Biologia,Botânica,2.5,7
+158,Português,Interpretação de Texto,3.3,12
+159,Física,Moderna,1.8,8
+160,Física,Dinâmica,2.0,5
+161,Matemática,Trigonometria,2.8,8
+162,Matemática,Geometria Plana,2.2,10
+163,Inglês,Reading,3.7,15
+164,Biologia,Fisiologia Humana,1.5,3
+165,História,Contemporânea,1.6,8
+166,História,Brasil República,4.0,12
+167,Inglês,Reading,2.9,9
+168,História,Brasil República,3.2,11
+169,Matemática,Trigonometria,3.9,9
+170,Física,Dinâmica,4.8,16
+171,Matemática,Combinatória,3.7,9
+172,Química,Inorgânica,3.1,9
+173,Química,Estequiometria,2.7,6
+174,Inglês,Grammar,2.6,5
+175,Química,Orgânica,2.6,10
+176,Português,Redação,1.1,3
+177,Geografia,Física,4.9,16
+178,Matemática,Estatística,4.5,11
+179,Biologia,Botânica,2.4,10
+180,Inglês,Reading,1.8,5
+181,Inglês,Vocabulary,2.9,20
+182,História,Brasil República,1.1,2
+183,Física,Óptica,4.8,13
+184,Inglês,Vocabulary,2.2,7
+185,Inglês,Grammar,2.0,7
+186,Biologia,Botânica,3.0,13
+187,Física,Termodinâmica,4.1,12
+188,História,Contemporânea,1.0,7
+189,Inglês,Reading,2.8,8
+190,Português,Semântica,4.7,17
+191,Biologia,Botânica,2.5,8
+192,Matemática,Geometria Espacial,4.0,16
+193,Português,Semântica,5.0,18
+194,Química,Inorgânica,4.9,16
+195,Geografia,Física,4.5,15
+196,Inglês,Reading,3.9,14
+197,Química,Atomística,2.9,8
+198,Português,Gramática,4.4,17
+199,Português,Interpretação de Texto,3.5,11
+200,Matemática,Cálculo,1.3,3
+201,Biologia,Evolução,1.4,8
+202,Física,Óptica,1.7,3
+203,Matemática,Geometria Espacial,4.2,12
+204,Português,Literatura Brasileira,2.0,9
+205,Química,Físico-Química,1.7,6
+206,Biologia,Fisiologia Humana,4.7,15
+207,História,Brasil Império,2.0,2
+208,Química,Atomística,2.8,10
+209,História,Moderna,4.8,15
+210,História,Medieval,5.0,13
+211,Biologia,Fisiologia Humana,3.3,12
+212,História,Antiga,4.9,14
+213,Matemática,Cálculo,4.5,11
+214,Inglês,Grammar,4.1,16
+215,Geografia,Humana,3.5,13
+216,Química,Eletroquímica,1.4,2
+217,História,Contemporânea,2.8,11
+218,Química,Atomística,4.6,14
+219,Química,Físico-Química,1.5,4
+220,História,Contemporânea,1.7,6
+221,História,Moderna,4.5,14
+222,Física,Dinâmica,4.0,15
+223,Português,Redação,2.5,5
+224,História,Brasil República,1.5,7
+225,História,Brasil República,2.5,7
+226,Física,Ondulatória,1.9,2
+227,Física,Ondulatória,4.3,12
+228,Português,Gramática,1.6,4
+229,Inglês,Reading,1.4,3
+230,Português,Semântica,2.5,10
+231,Português,Redação,4.0,13
+232,Física,Moderna,3.0,9
+233,Matemática,Estatística,2.5,6
+234,Geografia,Física,4.9,17
+235,Geografia,Física,2.6,5
+236,Inglês,Reading,3.7,13
+237,Matemática,Álgebra,4.1,11
+238,Biologia,Citologia,4.3,14
+239,Biologia,Genética,2.3,8
+240,Matemática,Geometria Espacial,4.4,12
+241,História,Contemporânea,1.7,3
+242,Química,Atomística,2.4,9
+243,Geografia,Física,1.7,8
+244,Português,Redação,1.5,5
+245,Geografia,Ambiental,3.4,9
+246,Matemática,Estatística,4.1,14
+247,História,Brasil Império,3.6,5
+248,Português,Gramática,3.0,7
+249,Física,Termodinâmica,3.4,10
+250,Geografia,Cartografia,5.0,16
+251,Português,Gramática,4.2,15
+252,Biologia,Fisiologia Humana,2.8,8
+253,Inglês,Grammar,2.7,9
+254,Geografia,Geopolítica,2.5,8
+255,Física,Cinemática,4.3,10
+256,Geografia,Humana,3.2,11
+257,Geografia,Física,2.6,11
+258,Português,Gramática,4.9,14
+259,Física,Eletromagnetismo,3.0,10
+260,Biologia,Citologia,2.4,5
+261,História,Brasil República,1.9,7
+262,Matemática,Cálculo,4.7,14
+263,Matemática,Geometria Plana,2.1,6
+264,Geografia,Física,1.7,8
+265,Português,Gramática,1.6,2
+266,Física,Ondulatória,3.1,10
+267,Geografia,Humana,2.5,11
+268,Física,Cinemática,1.6,2
+269,Física,Termodinâmica,2.8,10
+270,Inglês,Grammar,2.1,4
+271,Geografia,Cartografia,1.4,6
+272,Inglês,Vocabulary,3.7,9
+273,Matemática,Geometria Plana,2.2,5
+274,História,Brasil Colônia,2.3,3
+275,Química,Inorgânica,3.1,11
+276,Geografia,Física,2.6,8
+277,Matemática,Trigonometria,4.7,16
+278,Português,Redação,2.6,7
+279,Física,Óptica,1.1,7
+280,Inglês,Vocabulary,4.7,18
+281,Física,Dinâmica,2.7,6
+282,Português,Interpretação de Texto,4.0,16
+283,Química,Atomística,3.0,11
+284,Biologia,Ecologia,2.4,10
+285,Química,Físico-Química,1.4,3
+286,Química,Eletroquímica,1.3,6
+287,Inglês,Grammar,4.0,13
+288,Geografia,Geopolítica,1.6,5
+289,História,Contemporânea,2.1,8
+290,Física,Termodinâmica,2.8,4
+291,Física,Ondulatória,4.5,15
+292,Português,Semântica,3.3,12
+293,Matemática,Trigonometria,4.6,12
+294,Geografia,Ambiental,2.9,6
+295,Inglês,Reading,4.2,15
+296,Física,Eletromagnetismo,3.6,5
+297,Química,Orgânica,2.5,8
+298,Geografia,Ambiental,1.2,3
+299,Física,Termodinâmica,1.4,4
+300,História,Moderna,4.4,15
+301,Química,Orgânica,1.3,3
+302,História,Moderna,3.8,13
+303,Física,Termodinâmica,3.2,9
+304,Química,Eletroquímica,3.8,14
+305,Física,Ondulatória,3.7,9
+306,Geografia,Geopolítica,1.7,9
+307,Inglês,Reading,1.9,3
+308,História,Contemporânea,4.2,14
+309,Matemática,Estatística,2.3,5
+310,Português,Literatura Brasileira,1.6,8
+311,Química,Eletroquímica,2.8,11
+312,Biologia,Fisiologia Humana,3.4,14
+313,Inglês,Reading,3.1,13
+314,Inglês,Reading,2.5,8
+315,Inglês,Grammar,4.1,13
+316,Química,Físico-Química,4.2,12
+317,Matemática,Estatística,2.9,6
+318,Física,Termodinâmica,1.3,4
+319,Química,Inorgânica,1.4,8
+320,Inglês,Grammar,4.7,15
+321,Geografia,Humana,2.5,6
+322,Matemática,Geometria Espacial,4.7,17
+323,Geografia,Humana,1.6,8
+324,Inglês,Vocabulary,4.3,13
+325,Inglês,Vocabulary,1.0,3
+326,Biologia,Genética,3.2,11
+327,Português,Gramática,4.1,10
+328,Matemática,Geometria Plana,2.7,9
+329,Física,Cinemática,4.3,14
+330,Matemática,Estatística,3.1,8
+331,História,Brasil Império,1.0,5
+332,Português,Literatura Brasileira,3.7,11
+333,Física,Eletromagnetismo,3.2,11
+334,Matemática,Trigonometria,4.5,9
+335,História,Moderna,1.1,3
+336,Biologia,Evolução,3.6,12
+337,Geografia,Humana,1.2,7
+338,Química,Eletroquímica,2.9,11
+339,Química,Físico-Química,1.3,4
+340,Matemática,Geometria Espacial,1.8,3
+341,Geografia,Geopolítica,3.1,11
+342,Inglês,Grammar,1.1,3
+343,Geografia,Física,4.5,11
+344,Geografia,Cartografia,4.6,14
+345,Geografia,Humana,3.0,13
+346,História,Contemporânea,1.3,4
+347,Química,Estequiometria,2.2,6
+348,História,Brasil Colônia,2.8,7
+349,Inglês,Grammar,2.8,8
+350,Português,Interpretação de Texto,3.6,8
+351,Física,Ondulatória,3.6,14
+352,Química,Atomística,1.6,8
+353,Inglês,Reading,1.5,7
+354,Geografia,Geopolítica,2.5,9
+355,Química,Eletroquímica,2.8,9
+356,Física,Eletromagnetismo,1.6,4
+357,História,Medieval,4.8,31
+358,Português,Redação,1.5,7
+359,Inglês,Reading,5.0,16
+360,Biologia,Citologia,1.5,3
+361,Inglês,Reading,4.2,12
+362,Geografia,Física,3.2,9
+363,Química,Eletroquímica,3.8,10
+364,Geografia,Ambiental,1.9,9
+365,Química,Físico-Química,4.2,7
+366,Química,Estequiometria,4.5,14
+367,Inglês,Vocabulary,2.6,9
+368,Física,Dinâmica,4.9,15
+369,Inglês,Vocabulary,3.1,13
+370,Química,Físico-Química,2.7,6
+371,Física,Eletromagnetismo,1.6,4
+372,Biologia,Ecologia,4.8,14
+373,Física,Termodinâmica,1.8,5
+374,Química,Eletroquímica,2.2,8
+375,Química,Estequiometria,4.8,17
+376,Geografia,Ambiental,1.2,2
+377,Matemática,Estatística,4.1,11
+378,Português,Redação,3.6,13
+379,História,Moderna,4.8,18
+380,Português,Interpretação de Texto,2.8,7
+381,Inglês,Grammar,2.9,10
+382,Química,Orgânica,4.4,17
+383,Geografia,Cartografia,1.5,6
+384,Física,Termodinâmica,2.0,7
+385,Biologia,Genética,1.4,5
+386,Português,Literatura Brasileira,4.9,18
+387,Geografia,Ambiental,3.9,10
+388,Inglês,Vocabulary,2.9,9
+389,Matemática,Álgebra,4.8,13
+390,Biologia,Botânica,2.4,8
+391,Inglês,Grammar,3.1,10
+392,Química,Orgânica,3.9,11
+393,Matemática,Trigonometria,1.2,3
+394,História,Antiga,2.5,9
+395,História,Contemporânea,5.0,13
+396,Química,Atomística,2.6,7
+397,Geografia,Humana,1.8,7
+398,Matemática,Álgebra,1.2,7
+399,Inglês,Vocabulary,2.8,10
+400,Química,Orgânica,4.7,15
+401,História,Brasil República,2.3,8
+402,Inglês,Vocabulary,3.3,7
+403,Geografia,Geopolítica,3.7,13
+404,História,Contemporânea,4.6,16
+405,Matemática,Cálculo,2.9,12
+406,Biologia,Evolução,1.2,5
+407,Português,Literatura Brasileira,4.3,14
+408,Física,Dinâmica,1.1,2
+409,Português,Literatura Brasileira,2.6,8
+410,Matemática,Estatística,1.6,4
+411,Inglês,Vocabulary,2.5,8
+412,Geografia,Ambiental,2.4,10
+413,História,Brasil República,2.9,8
+414,História,Medieval,4.8,18
+415,História,Moderna,1.8,5
+416,Inglês,Grammar,3.2,12
+417,História,Brasil Colônia,1.5,5
+418,Português,Interpretação de Texto,4.8,14
+419,Matemática,Geometria Espacial,4.8,15
+420,História,Moderna,2.9,10
+421,História,Brasil República,3.8,13
+422,Biologia,Genética,1.2,2
+423,Biologia,Citologia,1.4,5
+424,Física,Ondulatória,4.1,28
+425,Inglês,Grammar,3.6,10
+426,Geografia,Geopolítica,3.6,8
+427,Biologia,Botânica,4.0,10
+428,Química,Inorgânica,4.5,11
+429,Português,Semântica,1.7,9
+430,História,Antiga,1.0,2
+431,Geografia,Geopolítica,2.8,10
+432,Inglês,Reading,4.4,12
+433,Física,Termodinâmica,1.6,4
+434,Química,Atomística,3.9,13
+435,Biologia,Genética,3.4,11
+436,Português,Redação,2.3,4
+437,Química,Físico-Química,2.9,6
+438,História,Brasil Império,1.9,5
+439,História,Brasil República,3.9,8
+440,Matemática,Estatística,1.5,5
+441,História,Moderna,1.5,4
+442,Geografia,Ambiental,1.9,6
+443,Química,Inorgânica,4.0,13
+444,Inglês,Vocabulary,4.2,16
+445,Biologia,Evolução,4.0,10
+446,Inglês,Vocabulary,3.8,13
+447,Física,Cinemática,4.3,11
+448,Química,Físico-Química,2.3,4
+449,Biologia,Evolução,3.3,11
+450,Inglês,Reading,2.8,9
+451,Matemática,Cálculo,2.8,11
+452,Matemática,Trigonometria,2.0,25
+453,Física,Cinemática,2.7,10
+454,Matemática,Álgebra,4.9,14
+455,Português,Literatura Brasileira,4.1,15
+456,Português,Interpretação de Texto,5.0,19
+457,Português,Semântica,1.3,7
+458,Química,Eletroquímica,4.4,15
+459,Português,Redação,1.5,8
+460,Matemática,Combinatória,1.1,6
+461,Português,Redação,2.5,8
+462,Geografia,Humana,2.1,9
+463,Física,Cinemática,4.2,16
+464,Matemática,Geometria Plana,1.8,3
+465,Inglês,Vocabulary,3.7,10
+466,Matemática,Trigonometria,2.8,12
+467,Matemática,Geometria Plana,3.0,13
+468,Geografia,Ambiental,3.4,10
+469,Biologia,Ecologia,4.5,15
+470,Biologia,Fisiologia Humana,2.2,8
+471,Química,Eletroquímica,3.7,9
+472,Geografia,Cartografia,4.1,13
+473,Português,Literatura Brasileira,2.2,8
+474,Inglês,Reading,4.4,16
+475,Química,Inorgânica,4.7,15
+476,Química,Inorgânica,2.0,9
+477,Física,Óptica,4.4,16
+478,Biologia,Citologia,2.1,8
+479,Matemática,Combinatória,1.3,5
+480,Biologia,Fisiologia Humana,1.8,5
+481,Matemática,Geometria Plana,4.7,12
+482,Inglês,Reading,3.8,12
+483,Biologia,Botânica,2.3,7
+484,Geografia,Geopolítica,2.0,7
+485,Inglês,Reading,4.2,16
+486,Geografia,Humana,2.5,9
+487,Biologia,Evolução,1.6,6
+488,Português,Interpretação de Texto,1.6,5
+489,Biologia,Fisiologia Humana,3.2,9
+490,História,Contemporânea,4.3,15
+491,Inglês,Grammar,1.7,4
+492,Química,Eletroquímica,3.2,11
+493,Matemática,Cálculo,1.1,7
+494,Matemática,Combinatória,1.0,6
+495,Biologia,Citologia,3.8,7
+496,Matemática,Cálculo,3.6,11
+497,Inglês,Reading,1.0,2
+498,Matemática,Cálculo,3.9,11
+499,Matemática,Cálculo,4.3,16
+500,Química,Atomística,4.7,13
+501,Biologia,Botânica,3.1,9
+502,Português,Gramática,2.5,9
+503,Biologia,Evolução,1.9,9
+504,Física,Ondulatória,5.0,13
+505,Física,Óptica,2.5,5
+506,Matemática,Estatística,1.7,6
+507,Geografia,Ambiental,4.9,16
+508,Matemática,Geometria Plana,1.8,7
+509,Inglês,Grammar,1.2,3
+510,Matemática,Geometria Plana,4.7,13
+511,Química,Eletroquímica,4.3,12
+512,Química,Estequiometria,2.0,7
+513,Geografia,Cartografia,4.0,15
+514,Física,Eletromagnetismo,4.0,10
+515,Português,Literatura Brasileira,4.4,17
+516,Português,Interpretação de Texto,1.1,4
+517,Inglês,Reading,2.4,8
+518,Química,Eletroquímica,3.3,13
+519,História,Contemporânea,2.0,6
+520,Química,Inorgânica,3.8,14
+521,Português,Interpretação de Texto,2.4,7
+522,Inglês,Grammar,4.0,10
+523,Química,Inorgânica,2.8,9
+524,Física,Cinemática,1.4,6
+525,Geografia,Cartografia,1.0,7
+526,Física,Ondulatória,4.6,12
+527,Química,Eletroquímica,2.5,7
+528,História,Brasil Império,1.6,4
+529,Português,Interpretação de Texto,2.9,8
+530,Biologia,Evolução,3.5,9
+531,Inglês,Reading,1.5,1
+532,Português,Interpretação de Texto,2.8,12
+533,Química,Orgânica,2.3,5
+534,Inglês,Grammar,1.7,5
+535,História,Moderna,3.8,13
+536,Biologia,Ecologia,2.5,8
+537,Geografia,Física,4.7,16
+538,Química,Eletroquímica,4.1,9
+539,Inglês,Grammar,4.3,16
+540,Português,Semântica,1.6,4
+541,Química,Eletroquímica,2.7,9
+542,Inglês,Vocabulary,2.6,11
+543,Português,Redação,1.1,6
+544,Física,Cinemática,4.1,12
+545,Química,Eletroquímica,3.5,13
+546,Português,Interpretação de Texto,4.9,12
+547,Física,Termodinâmica,1.9,7
+548,Biologia,Fisiologia Humana,2.5,10
+549,Química,Orgânica,5.0,15
+550,Português,Gramática,1.5,3
+551,Geografia,Geopolítica,2.4,9
+552,Inglês,Grammar,2.9,11
+553,Inglês,Grammar,1.3,13
+554,Geografia,Física,3.7,14
+555,Biologia,Botânica,1.7,7
+556,Português,Semântica,1.9,4
+557,Química,Eletroquímica,3.6,13
+558,Biologia,Fisiologia Humana,3.4,13
+559,Biologia,Genética,2.1,10
+560,Física,Eletromagnetismo,1.4,3
+561,Geografia,Geopolítica,1.8,8
+562,Inglês,Vocabulary,4.9,15
+563,Português,Redação,1.5,5
+564,Química,Eletroquímica,3.8,13
+565,Física,Ondulatória,1.5,4
+566,Física,Dinâmica,2.5,8
+567,Português,Redação,1.6,3
+568,Inglês,Vocabulary,3.1,8
+569,Química,Inorgânica,2.2,10
+570,Inglês,Vocabulary,1.2,2
+571,Inglês,Reading,1.8,7
+572,Inglês,Grammar,3.7,15
+573,Inglês,Grammar,1.7,9
+574,Biologia,Ecologia,1.1,3
+575,Química,Inorgânica,3.3,10
+576,Física,Eletromagnetismo,1.5,8
+577,Geografia,Ambiental,4.3,9
+578,Português,Gramática,3.9,10
+579,História,Contemporânea,5.0,15
+580,Física,Óptica,4.5,17
+581,Biologia,Genética,4.2,12
+582,Português,Literatura Brasileira,3.5,14
+583,Biologia,Citologia,3.3,11
+584,Química,Orgânica,4.9,16
+585,História,Contemporânea,3.1,13
+586,Física,Dinâmica,4.9,12
+587,História,Contemporânea,3.6,9
+588,Biologia,Genética,3.8,15
+589,Português,Semântica,1.6,7
+590,Português,Semântica,2.8,12
+591,Física,Óptica,3.1,9
+592,Inglês,Grammar,2.3,23
+593,Geografia,Física,4.2,13
+594,Biologia,Fisiologia Humana,2.1,6
+595,Química,Estequiometria,4.4,16
+596,Matemática,Álgebra,1.4,5
+597,Matemática,Álgebra,4.7,15
+598,Matemática,Trigonometria,1.8,4
+599,História,Medieval,4.5,11
+600,Geografia,Geopolítica,1.3,6
+601,Química,Atomística,2.6,10
+602,Biologia,Fisiologia Humana,3.6,8
+603,Biologia,Fisiologia Humana,1.3,5
+604,Inglês,Reading,1.0,2
+605,Português,Literatura Brasileira,2.9,6
+606,Física,Cinemática,2.3,5
+607,Português,Literatura Brasileira,3.6,8
+608,Matemática,Cálculo,3.6,13
+609,Biologia,Evolução,4.0,14
+610,Inglês,Reading,1.3,7
+611,Física,Eletromagnetismo,3.9,12
+612,Geografia,Humana,2.0,5
+613,História,Contemporânea,4.8,11
+614,Biologia,Evolução,2.6,11
+615,Biologia,Fisiologia Humana,2.5,10
+616,Física,Eletromagnetismo,4.6,9
+617,Química,Inorgânica,4.4,13
+618,Química,Inorgânica,4.8,12
+619,Física,Cinemática,2.0,22
+620,História,Moderna,3.9,12
+621,Português,Gramática,3.6,9
+622,História,Antiga,2.2,5
+623,Química,Estequiometria,2.3,10
+624,Física,Termodinâmica,3.8,15
+625,Biologia,Citologia,2.0,4
+626,Inglês,Vocabulary,3.4,13
+627,Química,Atomística,1.1,2
+628,Química,Inorgânica,4.8,18
+629,História,Medieval,2.5,11
+630,História,Moderna,4.5,11
+631,Geografia,Cartografia,2.1,9
+632,Física,Óptica,2.8,9
+633,Química,Orgânica,1.6,6
+634,Física,Dinâmica,4.0,25
+635,Matemática,Trigonometria,2.5,6
+636,Matemática,Cálculo,4.2,15
+637,Português,Literatura Brasileira,2.3,9
+638,Geografia,Geopolítica,4.3,10
+639,Matemática,Geometria Plana,1.9,3
+640,Português,Gramática,4.5,17
+641,História,Brasil Colônia,1.3,3
+642,Biologia,Ecologia,3.3,11
+643,Biologia,Fisiologia Humana,2.5,11
+644,Biologia,Evolução,4.6,12
+645,Química,Atomística,4.7,12
+646,Geografia,Física,4.0,15
+647,História,Antiga,1.8,6
+648,Inglês,Reading,4.9,14
+649,Física,Cinemática,4.7,16
+650,Português,Interpretação de Texto,2.8,10
+651,Física,Eletromagnetismo,1.5,2
+652,Matemática,Trigonometria,3.6,10
+653,História,Contemporânea,2.3,9
+654,Geografia,Geopolítica,2.8,7
+655,Química,Estequiometria,1.4,5
+656,Inglês,Grammar,2.6,11
+657,Biologia,Fisiologia Humana,2.2,4
+658,Física,Dinâmica,4.2,15
+659,Matemática,Geometria Plana,4.3,10
+660,Biologia,Ecologia,2.6,3
+661,Química,Atomística,4.8,16
+662,Biologia,Citologia,2.8,7
+663,Física,Cinemática,1.2,2
+664,Química,Físico-Química,4.3,15
+665,Física,Eletromagnetismo,3.3,7
+666,Matemática,Álgebra,1.8,9
+667,Química,Atomística,4.6,13
+668,Física,Cinemática,4.8,16
+669,Português,Semântica,3.0,10
+670,Química,Orgânica,1.9,5
+671,Inglês,Reading,1.1,2
+672,História,Brasil Império,2.6,5
+673,Física,Termodinâmica,2.5,10
+674,Biologia,Evolução,5.0,13
+675,Português,Interpretação de Texto,2.9,8
+676,Geografia,Cartografia,2.1,16
+677,História,Antiga,4.2,12
+678,Biologia,Genética,1.4,4
+679,Matemática,Combinatória,5.0,19
+680,Português,Interpretação de Texto,4.7,13
+681,Química,Físico-Química,3.4,13
+682,Geografia,Ambiental,1.1,5
+683,Química,Estequiometria,4.8,18
+684,Inglês,Vocabulary,2.2,4
+685,Matemática,Geometria Plana,3.4,8
+686,Geografia,Ambiental,1.8,8
+687,Química,Orgânica,1.2,6
+688,Química,Atomística,4.4,11
+689,Geografia,Cartografia,3.3,9
+690,Química,Físico-Química,3.9,14
+691,Inglês,Vocabulary,2.3,8
+692,Geografia,Humana,3.7,12
+693,História,Moderna,3.8,14
+694,Matemática,Estatística,4.8,18
+695,Matemática,Geometria Plana,3.4,12
+696,Biologia,Evolução,3.3,8
+697,Geografia,Física,2.0,5
+698,Física,Moderna,3.8,11
+699,Inglês,Reading,2.1,4
+700,Geografia,Geopolítica,4.1,10
+701,Português,Semântica,3.9,12
+702,Inglês,Grammar,2.4,11
+703,Inglês,Vocabulary,3.6,9
+704,Inglês,Reading,4.2,27
+705,História,Antiga,1.3,4
+706,Química,Eletroquímica,1.3,2
+707,Geografia,Ambiental,4.9,17
+708,Matemática,Trigonometria,4.8,15
+709,Química,Atomística,1.4,3
+710,Português,Redação,3.9,11
+711,História,Brasil Colônia,2.0,3
+712,Matemática,Geometria Espacial,1.0,7
+713,Inglês,Reading,1.4,7
+714,História,Antiga,2.9,12
+715,Português,Semântica,3.0,7
+716,Português,Literatura Brasileira,2.5,6
+717,Inglês,Reading,2.1,5
+718,História,Brasil República,1.2,6
+719,Física,Cinemática,3.7,12
+720,Biologia,Botânica,1.2,5
+721,Português,Redação,3.7,13
+722,Biologia,Fisiologia Humana,2.2,10
+723,Matemática,Cálculo,3.3,11
+724,Química,Atomística,4.8,13
+725,Biologia,Genética,1.5,7
+726,Português,Literatura Brasileira,5.0,19
+727,História,Brasil Colônia,4.6,11
+728,Física,Óptica,3.2,13
+729,História,Brasil República,2.8,12
+730,Português,Gramática,2.7,10
+731,Física,Cinemática,3.3,9
+732,Geografia,Cartografia,2.1,8
+733,Inglês,Reading,1.7,7
+734,Português,Gramática,2.6,10
+735,Biologia,Citologia,4.0,12
+736,Matemática,Geometria Espacial,4.3,12
+737,Inglês,Vocabulary,3.7,10
+738,Química,Orgânica,4.9,18
+739,Geografia,Geopolítica,3.9,9
+740,Biologia,Fisiologia Humana,1.8,8
+741,Inglês,Vocabulary,4.5,15
+742,Química,Atomística,2.2,5
+743,Matemática,Geometria Plana,1.8,9
+744,Matemática,Geometria Plana,1.1,3
+745,Biologia,Ecologia,2.5,8
+746,Física,Ondulatória,1.1,5
+747,Inglês,Reading,4.8,16
+748,Geografia,Geopolítica,1.7,8
+749,Física,Termodinâmica,1.1,16
+750,Biologia,Evolução,1.8,7
+751,Matemática,Combinatória,4.1,10
+752,Inglês,Reading,3.6,8
+753,Biologia,Ecologia,3.4,13
+754,História,Brasil Império,4.6,14
+755,História,Medieval,2.9,12
+756,Português,Redação,1.4,7
+757,Geografia,Ambiental,3.6,10
+758,Física,Óptica,1.3,6
+759,Geografia,Geopolítica,2.0,9
+760,História,Medieval,1.6,2
+761,Português,Interpretação de Texto,3.7,14
+762,Inglês,Grammar,2.0,7
+763,Matemática,Cálculo,3.8,10
+764,Geografia,Humana,3.7,12
+765,Geografia,Ambiental,2.2,9
+766,Química,Orgânica,1.4,4
+767,Química,Eletroquímica,4.6,12
+768,Geografia,Humana,4.0,16
+769,Geografia,Geopolítica,2.0,10
+770,Física,Óptica,1.2,5
+771,Física,Óptica,4.6,17
+772,Português,Redação,2.2,10
+773,Química,Físico-Química,5.0,17
+774,Inglês,Reading,2.3,10
+775,Física,Óptica,2.3,6
+776,Matemática,Álgebra,2.8,12
+777,Química,Estequiometria,4.1,16
+778,Física,Dinâmica,3.5,11
+779,Português,Semântica,2.5,22
+780,Matemática,Geometria Espacial,4.0,10
+781,Matemática,Estatística,3.9,11
+782,História,Medieval,1.4,4
+783,Química,Atomística,4.3,12
+784,Inglês,Vocabulary,3.1,10
+785,Química,Orgânica,5.0,19
+786,Biologia,Genética,4.8,15
+787,Matemática,Geometria Plana,1.9,4
+788,Matemática,Cálculo,3.0,12
+789,Matemática,Trigonometria,4.5,15
+790,Matemática,Cálculo,5.0,18
+791,Matemática,Álgebra,3.8,12
+792,Física,Eletromagnetismo,2.0,5
+793,Matemática,Geometria Espacial,2.7,10
+794,História,Brasil República,3.4,14
+795,Física,Eletromagnetismo,3.9,9
+796,Física,Óptica,1.8,5
+797,Biologia,Ecologia,3.8,9
+798,Inglês,Reading,3.8,10
+799,Matemática,Álgebra,3.7,15
+800,Inglês,Reading,4.8,12
+801,Física,Termodinâmica,3.6,10
+802,História,Brasil Império,1.2,7
+803,Matemática,Combinatória,2.2,6
+804,Português,Gramática,1.4,2
+805,Matemática,Combinatória,1.6,4
+806,Geografia,Cartografia,4.8,17
+807,Física,Termodinâmica,4.3,13
+808,Português,Semântica,2.1,10
+809,Inglês,Grammar,3.6,8
+810,Química,Eletroquímica,3.9,15
+811,Química,Atomística,2.7,12
+812,Inglês,Reading,3.4,12
+813,Matemática,Combinatória,3.7,10
+814,Inglês,Grammar,1.5,2
+815,Física,Termodinâmica,3.6,30
+816,Geografia,Ambiental,3.1,7
+817,Português,Literatura Brasileira,2.9,11
+818,Português,Literatura Brasileira,4.4,15
+819,Matemática,Álgebra,3.6,14
+820,Inglês,Grammar,4.5,14
+821,Geografia,Humana,2.3,8
+822,Biologia,Botânica,3.6,9
+823,Física,Óptica,2.8,6
+824,Inglês,Grammar,2.3,9
+825,Matemática,Álgebra,2.6,18
+826,História,Brasil República,3.2,10
+827,Geografia,Geopolítica,4.3,16
+828,Inglês,Grammar,3.2,10
+829,Geografia,Cartografia,1.5,3
+830,Matemática,Geometria Espacial,2.4,11
+831,História,Brasil República,3.1,7
+832,Química,Inorgânica,1.6,7
+833,Português,Gramática,2.0,4
+834,Português,Literatura Brasileira,2.8,11
+835,Geografia,Física,4.0,29
+836,Inglês,Vocabulary,3.4,11
+837,Matemática,Cálculo,3.9,12
+838,Inglês,Vocabulary,4.1,15
+839,Química,Eletroquímica,4.3,15
+840,Geografia,Ambiental,4.5,15
+841,Biologia,Ecologia,2.6,7
+842,Inglês,Reading,1.6,7
+843,História,Contemporânea,3.8,14
+844,Biologia,Genética,1.8,8
+845,Geografia,Humana,4.9,13
+846,Geografia,Física,4.0,14
+847,Português,Redação,2.1,10
+848,Matemática,Cálculo,1.4,2
+849,Matemática,Geometria Plana,2.1,6
+850,História,Medieval,4.4,13
+851,Biologia,Botânica,1.1,2
+852,Biologia,Evolução,3.6,12
+853,História,Moderna,3.7,12
+854,Português,Interpretação de Texto,4.9,17
+855,História,Medieval,3.5,14
+856,Inglês,Reading,4.6,16
+857,Geografia,Ambiental,3.2,13
+858,Biologia,Ecologia,2.8,6
+859,Química,Físico-Química,3.9,9
+860,Português,Interpretação de Texto,3.2,11
+861,História,Antiga,2.3,5
+862,Matemática,Geometria Plana,4.7,18
+863,História,Brasil Império,4.2,10
+864,Geografia,Ambiental,1.9,3
+865,Química,Inorgânica,3.2,9
+866,Biologia,Genética,3.7,11
+867,Biologia,Botânica,3.1,13
+868,Matemática,Álgebra,3.7,14
+869,Biologia,Citologia,3.7,15
+870,Física,Óptica,2.0,4
+871,Geografia,Ambiental,4.2,10
+872,História,Moderna,1.8,3
+873,Química,Estequiometria,3.1,8
+874,Biologia,Evolução,2.7,10
+875,Português,Gramática,4.0,13
+876,Geografia,Física,1.4,8
+877,História,Brasil República,1.3,3
+878,Português,Semântica,2.8,8
+879,Matemática,Trigonometria,3.7,14
+880,Física,Moderna,4.0,27
+881,Física,Termodinâmica,4.1,10
+882,História,Contemporânea,4.7,18
+883,Matemática,Trigonometria,1.6,7
+884,Português,Redação,2.2,6
+885,Geografia,Física,3.2,7
+886,Matemática,Álgebra,3.3,11
+887,Física,Termodinâmica,1.8,8
+888,Geografia,Humana,2.7,10
+889,Química,Físico-Química,1.7,5
+890,Biologia,Citologia,1.7,9
+891,Matemática,Combinatória,4.0,14
+892,Inglês,Vocabulary,3.2,7
+893,História,Antiga,1.8,5
+894,Geografia,Humana,3.7,11
+895,Física,Dinâmica,2.3,8
+896,História,Moderna,3.3,9
+897,Geografia,Cartografia,1.7,9
+898,Biologia,Evolução,4.0,16
+899,Geografia,Humana,3.7,12
+900,Inglês,Grammar,2.4,9
+901,Física,Dinâmica,3.6,10
+902,Química,Estequiometria,1.8,8
+903,Física,Ondulatória,1.3,22
+904,Português,Redação,1.9,1
+905,Química,Orgânica,2.6,9
+906,História,Medieval,2.9,9
+907,Geografia,Ambiental,1.0,7
+908,Química,Estequiometria,1.6,6
+909,Química,Eletroquímica,3.9,9
+910,Biologia,Fisiologia Humana,1.9,4
+911,Matemática,Estatística,1.8,5
+912,Português,Semântica,4.7,12
+913,Geografia,Física,3.8,15
+914,História,Contemporânea,4.0,14
+915,Química,Inorgânica,3.6,13
+916,Física,Eletromagnetismo,2.0,5
+917,Português,Interpretação de Texto,4.3,16
+918,Inglês,Vocabulary,1.0,4
+919,Química,Físico-Química,1.3,2
+920,Química,Físico-Química,1.6,8
+921,Física,Ondulatória,1.9,8
+922,Física,Óptica,3.7,13
+923,Química,Eletroquímica,4.3,24
+924,Química,Físico-Química,3.5,20
+925,Química,Orgânica,4.7,15
+926,Matemática,Estatística,3.9,9
+927,Biologia,Fisiologia Humana,3.4,11
+928,Química,Físico-Química,4.3,16
+929,Química,Estequiometria,3.6,13
+930,Geografia,Cartografia,3.4,11
+931,Português,Literatura Brasileira,1.4,8
+932,Português,Literatura Brasileira,3.4,12
+933,Matemática,Combinatória,3.1,7
+934,Inglês,Vocabulary,1.5,8
+935,Matemática,Combinatória,3.7,12
+936,Geografia,Física,3.8,15
+937,Inglês,Grammar,2.4,11
+938,Física,Óptica,1.5,3
+939,Física,Termodinâmica,3.4,10
+940,Biologia,Citologia,3.8,13
+941,Física,Eletromagnetismo,1.0,6
+942,Geografia,Cartografia,2.4,10
+943,História,Brasil Colônia,4.4,13
+944,História,Moderna,2.6,9
+945,Inglês,Reading,2.5,7
+946,História,Brasil República,2.4,10
+947,Química,Eletroquímica,1.5,8
+948,Química,Atomística,1.9,5
+949,Matemática,Geometria Plana,2.6,11
+950,Física,Moderna,1.6,5
+951,Física,Cinemática,2.1,8
+952,Matemática,Estatística,2.5,9
+953,História,Moderna,4.9,18
+954,Química,Eletroquímica,3.0,6
+955,Matemática,Combinatória,3.4,9
+956,Química,Eletroquímica,1.1,2
+957,Química,Atomística,5.0,15
+958,Português,Semântica,3.3,12
+959,Física,Cinemática,3.2,11
+960,Geografia,Geopolítica,4.9,16
+961,Biologia,Fisiologia Humana,4.7,14
+962,Química,Inorgânica,3.0,11
+963,História,Brasil Colônia,4.8,14
+964,História,Moderna,2.8,9
+965,Biologia,Ecologia,4.8,15
+966,Matemática,Trigonometria,1.5,7
+967,Biologia,Evolução,3.8,12
+968,Geografia,Ambiental,3.1,9
+969,Biologia,Ecologia,1.4,8
+970,Geografia,Física,3.2,9
+971,Geografia,Humana,4.6,16
+972,Biologia,Fisiologia Humana,3.9,10
+973,História,Medieval,1.9,9
+974,Geografia,Humana,4.1,10
+975,Inglês,Vocabulary,1.0,2
+976,Inglês,Grammar,3.5,12
+977,História,Brasil Império,1.7,7
+978,História,Brasil Império,1.9,3
+979,Português,Semântica,4.8,9
+980,Química,Inorgânica,4.9,15
+981,Geografia,Física,1.0,5
+982,Física,Termodinâmica,2.4,6
+983,História,Medieval,2.1,6
+984,Geografia,Humana,3.0,12
+985,Geografia,Geopolítica,4.4,12
+986,Química,Estequiometria,3.7,14
+987,História,Contemporânea,1.9,6
+988,Biologia,Genética,4.2,13
+989,Matemática,Geometria Plana,2.7,12
+990,Geografia,Cartografia,2.2,8
+991,Matemática,Trigonometria,1.4,3
+992,História,Brasil Império,4.4,16
+993,Geografia,Geopolítica,2.4,11
+994,História,Brasil Colônia,1.1,7
+995,Biologia,Botânica,3.3,8
+996,História,Brasil Colônia,2.3,10
+997,Inglês,Reading,2.5,10
+998,Química,Físico-Química,3.6,11
+999,Português,Gramática,1.3,3
+1000,Geografia,Geopolítica,3.8,12
+1001,História,Brasil Império,4.1,15
+1002,Inglês,Grammar,1.7,4
+1003,Biologia,Evolução,2.0,9
+1004,Física,Dinâmica,1.7,3
+1005,Inglês,Vocabulary,1.2,5
+1006,Física,Cinemática,2.0,9
+1007,Português,Interpretação de Texto,1.9,6
+1008,Química,Físico-Química,3.1,7
+1009,Geografia,Geopolítica,4.5,17
+1010,História,Brasil República,2.8,11
+1011,Química,Estequiometria,3.4,13
+1012,Português,Redação,3.6,10
+1013,Inglês,Vocabulary,1.9,5
+1014,Geografia,Cartografia,2.0,4
+1015,Química,Orgânica,2.1,9
+1016,Inglês,Grammar,2.2,10
+1017,História,Brasil República,1.9,2
+1018,Português,Redação,2.7,11
+1019,Português,Semântica,1.9,8
+1020,Biologia,Botânica,4.1,16
+1021,História,Brasil Colônia,3.6,10
+1022,Português,Literatura Brasileira,4.4,13
+1023,Física,Ondulatória,2.8,11
+1024,Inglês,Reading,2.3,8
+1025,Matemática,Geometria Plana,4.9,13
+1026,Inglês,Vocabulary,1.0,2
+1027,Inglês,Reading,2.4,11
+1028,Inglês,Grammar,2.9,8
+1029,Física,Moderna,4.0,12
+1030,Português,Gramática,3.2,13
+1031,História,Contemporânea,2.5,23
+1032,Inglês,Reading,4.0,10
+1033,Biologia,Fisiologia Humana,2.6,7
+1034,Química,Eletroquímica,3.9,13
+1035,Física,Termodinâmica,2.9,8
+1036,Matemática,Combinatória,3.7,10
+1037,Português,Interpretação de Texto,1.1,5
+1038,Física,Óptica,4.2,31
+1039,Inglês,Vocabulary,3.4,8
+1040,Biologia,Genética,3.0,9
+1041,Matemática,Álgebra,2.4,9
+1042,Física,Dinâmica,3.0,11
+1043,Geografia,Cartografia,3.9,7
+1044,Química,Orgânica,4.6,14
+1045,História,Brasil República,3.8,10
+1046,Geografia,Geopolítica,3.9,15
+1047,Química,Atomística,3.1,13
+1048,História,Brasil República,2.5,4
+1049,Matemática,Cálculo,4.4,12
+1050,Geografia,Física,3.6,11
+1051,Biologia,Botânica,3.7,10
+1052,História,Brasil Colônia,2.6,5
+1053,Física,Cinemática,4.3,16
+1054,Matemática,Geometria Plana,1.4,2
+1055,Português,Semântica,3.1,9
+1056,Matemática,Geometria Espacial,1.9,3
+1057,Biologia,Evolução,3.0,7
+1058,Inglês,Vocabulary,1.2,4
+1059,Geografia,Física,4.3,10
+1060,Física,Moderna,2.2,8
+1061,Física,Cinemática,3.9,10
+1062,Biologia,Botânica,3.6,9
+1063,Português,Gramática,4.1,15
+1064,Inglês,Vocabulary,3.7,10
+1065,Química,Estequiometria,2.6,6
+1066,Inglês,Grammar,4.6,13
+1067,Geografia,Cartografia,4.1,15
+1068,Geografia,Ambiental,2.0,7
+1069,História,Brasil Colônia,4.8,15
+1070,Matemática,Estatística,1.1,2
+1071,Química,Orgânica,1.0,2
+1072,Geografia,Física,4.1,16
+1073,História,Brasil República,3.0,11
+1074,Química,Atomística,1.2,2
+1075,História,Brasil Colônia,4.6,13
+1076,História,Antiga,3.3,8
+1077,Física,Ondulatória,2.3,7
+1078,Física,Eletromagnetismo,3.6,8
+1079,Matemática,Combinatória,2.3,7
+1080,Português,Gramática,4.5,16
+1081,Matemática,Estatística,4.1,12
+1082,Matemática,Geometria Espacial,3.2,11
+1083,Biologia,Genética,1.2,4
+1084,Inglês,Vocabulary,3.3,10
+1085,História,Contemporânea,2.6,5
+1086,Inglês,Vocabulary,4.0,12
+1087,Física,Óptica,3.0,8
+1088,Química,Inorgânica,3.2,12
+1089,Biologia,Botânica,3.5,9
+1090,Biologia,Citologia,2.1,9
+1091,Física,Cinemática,3.7,11
+1092,Biologia,Ecologia,2.4,11
+1093,História,Medieval,5.0,19
+1094,Inglês,Vocabulary,1.6,17
+1095,Geografia,Humana,4.0,10
+1096,Matemática,Geometria Plana,4.8,18
+1097,História,Antiga,2.4,7
+1098,Inglês,Grammar,1.1,5
+1099,Biologia,Genética,3.2,11
+1100,Inglês,Vocabulary,3.9,14
+1101,Matemática,Trigonometria,3.3,7
+1102,História,Medieval,1.2,6
+1103,História,Antiga,2.9,6
+1104,Português,Interpretação de Texto,3.7,11
+1105,Física,Cinemática,2.2,7
+1106,Biologia,Fisiologia Humana,3.0,9
+1107,Inglês,Vocabulary,3.1,11
+1108,Inglês,Vocabulary,4.7,32
+1109,História,Brasil Colônia,3.0,7
+1110,Geografia,Geopolítica,2.4,9
+1111,História,Contemporânea,1.2,4
+1112,Matemática,Cálculo,4.8,14
+1113,Português,Literatura Brasileira,1.4,7
+1114,Biologia,Fisiologia Humana,2.0,6
+1115,Geografia,Cartografia,3.2,8
+1116,Biologia,Genética,2.2,8
+1117,Química,Inorgânica,5.0,14
+1118,Química,Orgânica,1.3,6
+1119,Física,Dinâmica,2.3,9
+1120,Matemática,Combinatória,2.3,7
+1121,História,Brasil Império,4.0,15
+1122,História,Medieval,4.1,11
+1123,Matemática,Combinatória,4.9,16
+1124,Biologia,Botânica,1.9,5
+1125,Física,Ondulatória,4.1,16
+1126,Inglês,Vocabulary,3.6,11
+1127,Inglês,Grammar,1.6,2
+1128,Português,Gramática,4.7,13
+1129,Biologia,Genética,1.3,4
+1130,Inglês,Vocabulary,2.3,5
+1131,Português,Semântica,4.1,16
+1132,Português,Interpretação de Texto,2.6,9
+1133,Matemática,Cálculo,1.4,2
+1134,Biologia,Botânica,3.2,7
+1135,Português,Redação,4.1,11
+1136,História,Brasil Império,2.6,11
+1137,História,Brasil Império,1.7,3
+1138,Química,Inorgânica,4.3,15
+1139,Física,Dinâmica,4.1,15
+1140,Química,Inorgânica,2.7,7
+1141,Inglês,Vocabulary,4.6,14
+1142,Física,Termodinâmica,2.3,9
+1143,Química,Eletroquímica,3.9,14
+1144,Inglês,Vocabulary,2.5,8
+1145,Química,Inorgânica,3.2,24
+1146,Química,Físico-Química,4.5,16
+1147,Matemática,Trigonometria,2.2,7
+1148,História,Moderna,1.7,4
+1149,Matemática,Cálculo,4.1,7
+1150,Matemática,Cálculo,4.5,15
+1151,Inglês,Grammar,2.6,9
+1152,Matemática,Geometria Plana,4.5,16
+1153,Biologia,Citologia,1.7,5
+1154,Matemática,Geometria Plana,4.4,17
+1155,História,Brasil Colônia,4.7,11
+1156,Química,Eletroquímica,2.1,9
+1157,Química,Inorgânica,4.0,10
+1158,Física,Moderna,2.2,7
+1159,Física,Moderna,2.7,8
+1160,Inglês,Reading,1.5,4
+1161,Português,Redação,1.8,3
+1162,Física,Eletromagnetismo,3.9,9
+1163,Inglês,Vocabulary,3.8,14
+1164,História,Brasil Império,3.4,12
+1165,Geografia,Humana,3.5,13
+1166,Inglês,Grammar,4.2,11
+1167,História,Medieval,1.0,16
+1168,Português,Semântica,1.2,7
+1169,Biologia,Citologia,3.6,10
+1170,Física,Termodinâmica,2.2,10
+1171,Matemática,Álgebra,3.7,14
+1172,Matemática,Combinatória,1.7,5
+1173,Inglês,Grammar,4.2,13
+1174,Química,Eletroquímica,2.8,8
+1175,Inglês,Grammar,4.7,16
+1176,História,Brasil República,3.9,13
+1177,Matemática,Geometria Plana,3.3,13
+1178,Geografia,Física,4.9,12
+1179,Geografia,Cartografia,3.5,12
+1180,Português,Literatura Brasileira,3.4,14
+1181,História,Moderna,4.4,13
+1182,Português,Gramática,3.0,10
+1183,História,Medieval,3.1,9
+1184,Matemática,Combinatória,1.8,7
+1185,Matemática,Combinatória,2.9,7
+1186,Geografia,Cartografia,3.9,15
+1187,Geografia,Humana,4.1,14
+1188,Química,Físico-Química,3.9,14
+1189,Física,Cinemática,2.2,21
+1190,Inglês,Reading,1.4,7
+1191,História,Antiga,3.3,8
+1192,Geografia,Humana,1.8,5
+1193,Inglês,Vocabulary,1.5,4
+1194,Física,Cinemática,4.8,12
+1195,Biologia,Botânica,2.4,6
+1196,História,Brasil República,2.0,8
+1197,Geografia,Ambiental,2.8,9
+1198,Matemática,Álgebra,2.5,8
+1199,Química,Eletroquímica,3.4,14
+1200,Inglês,Vocabulary,2.4,6
+1201,Física,Moderna,4.1,10
+1202,Inglês,Reading,2.8,11
+1203,Inglês,Grammar,1.9,9
+1204,História,Brasil Colônia,2.6,10
+1205,Geografia,Geopolítica,2.8,6
+1206,Geografia,Cartografia,2.8,12
+1207,Geografia,Ambiental,3.3,10
+1208,Física,Termodinâmica,3.2,9
+1209,Inglês,Grammar,3.4,9
+1210,Química,Inorgânica,2.5,11
+1211,Português,Semântica,3.3,12
+1212,Biologia,Genética,3.7,14
+1213,Inglês,Reading,3.4,12
+1214,Física,Moderna,2.8,9
+1215,Física,Eletromagnetismo,1.4,8
+1216,Português,Interpretação de Texto,3.0,7
+1217,Biologia,Genética,4.5,16
+1218,Matemática,Combinatória,1.6,6
+1219,História,Brasil Império,3.5,9
+1220,Geografia,Geopolítica,3.3,9
+1221,Português,Interpretação de Texto,5.0,17
+1222,Português,Literatura Brasileira,4.4,15
+1223,Matemática,Álgebra,3.8,11
+1224,Física,Moderna,2.1,1
+1225,Geografia,Cartografia,2.6,6
+1226,Química,Inorgânica,1.6,8
+1227,Geografia,Cartografia,1.6,7
+1228,Química,Físico-Química,1.0,2
+1229,Inglês,Vocabulary,2.7,6
+1230,Química,Eletroquímica,4.2,16
+1231,Português,Redação,1.7,7
+1232,Inglês,Grammar,2.4,9
+1233,Matemática,Cálculo,3.0,12
+1234,História,Brasil Império,4.7,12
+1235,Matemática,Cálculo,2.9,10
+1236,Inglês,Vocabulary,1.3,5
+1237,História,Brasil Império,3.1,11
+1238,Física,Dinâmica,2.9,11
+1239,Física,Ondulatória,3.5,10
+1240,Matemática,Geometria Espacial,3.1,4
+1241,Geografia,Cartografia,2.4,7
+1242,História,Medieval,1.1,6
+1243,História,Moderna,4.1,15
+1244,Inglês,Vocabulary,1.7,5
+1245,Matemática,Geometria Espacial,2.9,6
+1246,História,Brasil Colônia,1.5,8
+1247,História,Antiga,4.0,14
+1248,Química,Eletroquímica,2.8,8
+1249,Biologia,Fisiologia Humana,1.7,3
+1250,Geografia,Física,4.9,18
+1251,Química,Inorgânica,4.0,13
+1252,Biologia,Evolução,2.8,7
+1253,Geografia,Física,3.6,8
+1254,Matemática,Geometria Plana,2.9,9
+1255,Biologia,Fisiologia Humana,3.7,11
+1256,Química,Estequiometria,4.5,8
+1257,Geografia,Ambiental,3.7,6
+1258,História,Brasil Colônia,2.1,6
+1259,Português,Semântica,4.1,15
+1260,Biologia,Botânica,2.3,5
+1261,Geografia,Ambiental,1.0,13
+1262,Português,Gramática,3.1,9
+1263,Biologia,Evolução,2.1,4
+1264,Física,Cinemática,4.8,18
+1265,Biologia,Botânica,3.6,8
+1266,Física,Moderna,3.4,14
+1267,Química,Atomística,3.8,12
+1268,Física,Ondulatória,2.8,12
+1269,Português,Interpretação de Texto,2.0,6
+1270,Matemática,Trigonometria,2.6,7
+1271,História,Medieval,2.8,7
+1272,Português,Literatura Brasileira,3.6,12
+1273,Português,Literatura Brasileira,3.5,11
+1274,História,Antiga,1.1,6
+1275,História,Contemporânea,2.8,7
+1276,Matemática,Álgebra,3.7,14
+1277,Geografia,Cartografia,3.3,13
+1278,Inglês,Grammar,2.7,12
+1279,Física,Eletromagnetismo,1.9,8
+1280,Inglês,Reading,3.3,9
+1281,Geografia,Geopolítica,2.6,10
+1282,Física,Termodinâmica,3.1,7
+1283,Inglês,Grammar,3.6,8
+1284,Português,Literatura Brasileira,2.2,4
+1285,Geografia,Cartografia,1.3,6
+1286,Biologia,Genética,1.1,20
+1287,Português,Gramática,4.2,13
+1288,Inglês,Reading,1.1,7
+1289,Matemática,Trigonometria,1.5,7
+1290,Inglês,Vocabulary,4.5,16
+1291,Biologia,Citologia,1.1,6
+1292,Matemática,Trigonometria,4.6,12
+1293,Química,Atomística,1.7,3
+1294,Inglês,Vocabulary,1.7,9
+1295,Física,Cinemática,3.0,8
+1296,Física,Moderna,1.8,9
+1297,Português,Interpretação de Texto,1.5,6
+1298,Química,Orgânica,4.3,16
+1299,Matemática,Cálculo,1.7,5
+1300,Química,Inorgânica,1.7,4
+1301,Inglês,Reading,4.7,34
+1302,Português,Literatura Brasileira,1.1,2
+1303,Matemática,Geometria Plana,4.7,16
+1304,História,Brasil Império,3.8,12
+1305,Química,Físico-Química,1.6,5
+1306,Português,Literatura Brasileira,4.8,12
+1307,Química,Eletroquímica,3.0,12
+1308,História,Brasil Colônia,2.7,7
+1309,Física,Eletromagnetismo,4.9,18
+1310,Biologia,Fisiologia Humana,4.1,12
+1311,Matemática,Geometria Plana,1.5,8
+1312,Inglês,Grammar,1.7,3
+1313,Matemática,Estatística,2.5,7
+1314,Geografia,Ambiental,4.2,10
+1315,Física,Ondulatória,1.2,2
+1316,Matemática,Trigonometria,3.1,8
+1317,Inglês,Vocabulary,3.3,12
+1318,Geografia,Humana,4.1,10
+1319,Biologia,Evolução,2.7,7
+1320,Física,Óptica,3.3,10
+1321,Química,Físico-Química,4.7,15
+1322,Geografia,Humana,2.8,8
+1323,História,Medieval,2.3,20
+1324,Química,Atomística,4.4,12
+1325,Geografia,Humana,4.5,17
+1326,Química,Estequiometria,4.9,12
+1327,Português,Redação,3.0,11
+1328,Inglês,Grammar,2.1,9
+1329,Biologia,Genética,2.3,8
+1330,Química,Estequiometria,4.6,11
+1331,Matemática,Trigonometria,3.9,12
+1332,Português,Semântica,4.2,10
+1333,Inglês,Grammar,2.0,4
+1334,Português,Literatura Brasileira,1.5,7
+1335,Física,Cinemática,2.9,11
+1336,Inglês,Vocabulary,4.0,7
+1337,Química,Eletroquímica,2.6,7
+1338,Inglês,Vocabulary,3.5,8
+1339,Português,Interpretação de Texto,3.1,13
+1340,História,Moderna,4.8,18
+1341,Biologia,Evolução,1.3,6
+1342,Matemática,Cálculo,4.8,12
+1343,Física,Óptica,2.5,7
+1344,Geografia,Humana,3.6,12
+1345,Biologia,Genética,4.9,12
+1346,Inglês,Vocabulary,4.8,17
+1347,Biologia,Evolução,4.0,12
+1348,Português,Interpretação de Texto,1.2,4
+1349,Inglês,Vocabulary,3.1,12
+1350,História,Brasil Império,3.5,13
+1351,Física,Dinâmica,4.6,11
+1352,Português,Literatura Brasileira,2.2,4
+1353,Química,Orgânica,1.4,3
+1354,Biologia,Botânica,4.8,11
+1355,Inglês,Grammar,2.7,6
+1356,História,Medieval,1.3,2
+1357,Geografia,Cartografia,3.3,13
+1358,Geografia,Cartografia,3.4,14
+1359,Inglês,Grammar,2.2,10
+1360,História,Medieval,4.2,12
+1361,História,Contemporânea,4.4,13
+1362,Inglês,Reading,3.5,12
+1363,História,Medieval,4.9,17
+1364,Química,Físico-Química,2.0,3
+1365,Inglês,Grammar,2.5,10
+1366,Matemática,Estatística,2.3,6
+1367,Inglês,Vocabulary,4.9,12
+1368,Matemática,Trigonometria,4.7,15
+1369,Geografia,Humana,1.0,5
+1370,Geografia,Geopolítica,2.9,12
+1371,Química,Estequiometria,3.9,11
+1372,Física,Ondulatória,2.9,22
+1373,Matemática,Trigonometria,3.5,10
+1374,Física,Termodinâmica,1.2,5
+1375,Biologia,Ecologia,1.8,9
+1376,Inglês,Vocabulary,3.7,13
+1377,Português,Literatura Brasileira,3.0,11
+1378,Matemática,Estatística,2.4,11
+1379,Português,Interpretação de Texto,2.5,3
+1380,História,Brasil Império,4.5,16
+1381,Inglês,Vocabulary,5.0,15
+1382,Química,Eletroquímica,4.9,15
+1383,Química,Estequiometria,3.4,10
+1384,Inglês,Vocabulary,4.9,16
+1385,Português,Gramática,1.0,3
+1386,Português,Literatura Brasileira,3.2,13
+1387,Química,Físico-Química,1.7,7
+1388,Inglês,Reading,4.3,14
+1389,História,Brasil Império,3.2,7
+1390,Matemática,Geometria Plana,2.1,10
+1391,Inglês,Reading,3.6,11
+1392,Química,Inorgânica,4.6,11
+1393,Física,Moderna,2.1,4
+1394,Geografia,Ambiental,2.9,8
+1395,Inglês,Vocabulary,4.3,15
+1396,Matemática,Combinatória,2.0,5
+1397,Geografia,Cartografia,4.5,12
+1398,Matemática,Geometria Espacial,2.4,7
+1399,Matemática,Geometria Espacial,2.2,4
+1400,Biologia,Evolução,1.7,9
+1401,Química,Estequiometria,2.3,10
+1402,História,Brasil Colônia,3.7,9
+1403,Geografia,Humana,1.1,3
+1404,Inglês,Grammar,2.4,5
+1405,Biologia,Genética,3.0,13
+1406,Física,Óptica,2.8,12
+1407,Química,Atomística,2.9,8
+1408,Química,Inorgânica,4.6,17
+1409,Geografia,Humana,3.8,24
+1410,Química,Eletroquímica,1.6,3
+1411,Biologia,Genética,4.9,18
+1412,Física,Cinemática,1.1,4
+1413,Matemática,Geometria Plana,1.4,6
+1414,Matemática,Trigonometria,1.5,2
+1415,História,Moderna,1.0,2
+1416,Biologia,Botânica,4.6,13
+1417,Matemática,Álgebra,1.6,4
+1418,Geografia,Geopolítica,1.6,7
+1419,Biologia,Botânica,3.3,11
+1420,Matemática,Cálculo,1.9,5
+1421,Química,Estequiometria,1.0,2
+1422,Inglês,Grammar,3.8,14
+1423,Física,Dinâmica,4.3,13
+1424,Biologia,Botânica,1.9,5
+1425,Física,Óptica,1.4,8
+1426,Geografia,Geopolítica,3.2,4
+1427,Física,Óptica,2.1,6
+1428,Inglês,Reading,3.2,13
+1429,Português,Literatura Brasileira,4.4,17
+1430,Inglês,Vocabulary,2.5,5
+1431,Português,Semântica,3.1,7
+1432,Química,Inorgânica,2.6,5
+1433,Química,Atomística,2.5,6
+1434,Português,Gramática,1.9,6
+1435,História,Contemporânea,3.9,11
+1436,Português,Interpretação de Texto,2.9,9
+1437,Inglês,Vocabulary,2.1,4
+1438,Física,Termodinâmica,3.0,8
+1439,Matemática,Álgebra,4.0,13
+1440,Matemática,Geometria Plana,2.5,6
+1441,História,Brasil República,3.5,13
+1442,Inglês,Grammar,1.8,6
+1443,História,Brasil República,2.4,9
+1444,Matemática,Combinatória,1.1,2
+1445,Português,Semântica,2.3,7
+1446,Matemática,Álgebra,1.7,9
+1447,História,Moderna,1.7,5
+1448,Português,Semântica,4.1,13
+1449,Inglês,Grammar,3.2,7
+1450,Português,Interpretação de Texto,3.0,11
+1451,Geografia,Geopolítica,2.3,18
+1452,Geografia,Geopolítica,4.2,16
+1453,Geografia,Cartografia,1.4,4
+1454,Português,Interpretação de Texto,1.2,2
+1455,História,Brasil República,1.3,7
+1456,História,Antiga,2.4,5
+1457,Inglês,Vocabulary,4.5,14
+1458,História,Antiga,3.8,11
+1459,Português,Redação,2.6,11
+1460,Inglês,Reading,3.8,12
+1461,Geografia,Humana,3.5,11
+1462,Biologia,Fisiologia Humana,3.5,8
+1463,Biologia,Ecologia,2.1,8
+1464,Português,Literatura Brasileira,3.5,13
+1465,Física,Eletromagnetismo,2.3,10
+1466,Inglês,Grammar,1.8,8
+1467,História,Brasil República,4.2,14
+1468,Geografia,Humana,2.7,10
+1469,Inglês,Vocabulary,4.1,10
+1470,Química,Estequiometria,3.0,13
+1471,Inglês,Grammar,4.7,16
+1472,Português,Redação,3.9,10
+1473,Geografia,Cartografia,1.6,7
+1474,História,Contemporânea,2.7,12
+1475,Física,Ondulatória,1.8,9
+1476,História,Moderna,1.6,3
+1477,Português,Literatura Brasileira,1.5,3
+1478,História,Brasil Império,2.9,9
+1479,Matemática,Geometria Plana,1.6,4
+1480,História,Moderna,3.2,7
+1481,Inglês,Reading,1.2,3
+1482,História,Contemporânea,1.3,3
+1483,Física,Óptica,4.8,13
+1484,Biologia,Citologia,3.3,7
+1485,História,Brasil Império,4.5,11
+1486,Geografia,Geopolítica,4.3,16
+1487,Biologia,Fisiologia Humana,1.9,4
+1488,História,Brasil Império,2.6,5
+1489,Inglês,Vocabulary,2.5,7
+1490,Português,Semântica,3.7,15
+1491,Química,Orgânica,2.9,8
+1492,Matemática,Estatística,4.9,18
+1493,Matemática,Estatística,4.7,14
+1494,Português,Interpretação de Texto,3.6,14
+1495,Física,Eletromagnetismo,4.5,14
+1496,Matemática,Trigonometria,4.7,14
+1497,Física,Moderna,4.0,16
+1498,Química,Inorgânica,3.5,14
+1499,Português,Gramática,2.1,10
+1500,Inglês,Grammar,3.9,11
+1501,Português,Gramática,4.3,14
+1502,Física,Termodinâmica,2.7,10
+1503,Geografia,Cartografia,3.8,14
+1504,Química,Eletroquímica,2.8,6
+1505,Português,Literatura Brasileira,3.5,8
+1506,Física,Dinâmica,2.0,10
+1507,Química,Estequiometria,3.7,11
+1508,Inglês,Grammar,4.5,12
+1509,Geografia,Geopolítica,1.8,4
+1510,Português,Semântica,4.8,13
+1511,Matemática,Álgebra,4.7,17
+1512,Biologia,Citologia,4.9,17
+1513,Química,Atomística,2.6,7
+1514,Química,Atomística,4.8,16
+1515,Física,Cinemática,3.9,12
+1516,Inglês,Reading,1.9,9
+1517,História,Brasil Colônia,4.0,13
+1518,Biologia,Botânica,1.9,8
+1519,Biologia,Fisiologia Humana,1.7,3
+1520,História,Brasil Colônia,1.9,4
+1521,Geografia,Ambiental,3.7,9
+1522,Inglês,Reading,4.5,14
+1523,Biologia,Evolução,2.5,9
+1524,História,Antiga,1.4,4
+1525,Biologia,Fisiologia Humana,4.6,16
+1526,Matemática,Álgebra,2.0,6
+1527,Português,Interpretação de Texto,1.5,2
+1528,Química,Orgânica,1.7,5
+1529,Inglês,Reading,1.4,5
+1530,Química,Orgânica,1.5,21
+1531,História,Moderna,2.4,7
+1532,História,Brasil República,2.3,6
+1533,Inglês,Reading,3.2,12
+1534,Inglês,Reading,1.8,4
+1535,Matemática,Trigonometria,2.0,7
+1536,Física,Óptica,1.2,6
+1537,Inglês,Grammar,3.0,13
+1538,Química,Atomística,2.4,7
+1539,Química,Físico-Química,4.0,14
+1540,Biologia,Botânica,5.0,31
+1541,Física,Dinâmica,4.1,12
+1542,Matemática,Geometria Espacial,3.7,12
+1543,Geografia,Ambiental,4.7,14
+1544,Química,Atomística,1.3,6
+1545,Inglês,Grammar,3.5,13
+1546,Matemática,Geometria Espacial,4.9,15
+1547,Geografia,Ambiental,1.5,8
+1548,História,Brasil Colônia,4.2,14
+1549,Português,Gramática,2.6,11
+1550,Português,Gramática,1.1,4
+1551,Português,Interpretação de Texto,3.6,9
+1552,Física,Termodinâmica,3.0,13
+1553,História,Moderna,3.4,8
+1554,Geografia,Ambiental,1.8,6
+1555,Inglês,Grammar,3.3,13
+1556,Português,Interpretação de Texto,3.5,11
+1557,Física,Cinemática,3.1,12
+1558,Biologia,Evolução,3.7,12
+1559,Física,Termodinâmica,2.9,12
+1560,Inglês,Grammar,1.6,4
+1561,Biologia,Botânica,2.7,10
+1562,Física,Cinemática,3.1,10
+1563,Física,Óptica,3.6,10
+1564,Geografia,Geopolítica,3.3,7
+1565,Física,Ondulatória,3.6,9
+1566,Português,Gramática,1.3,3
+1567,Geografia,Ambiental,3.9,12
+1568,História,Brasil Colônia,4.9,13
+1569,Biologia,Genética,1.3,3
+1570,Física,Óptica,3.1,19
+1571,Química,Eletroquímica,2.9,12
+1572,Inglês,Grammar,3.5,10
+1573,Português,Interpretação de Texto,1.4,3
+1574,Física,Moderna,1.1,7
+1575,Matemática,Geometria Plana,2.9,7
+1576,Português,Redação,1.8,6
+1577,Química,Inorgânica,2.7,7
+1578,Inglês,Grammar,2.9,10
+1579,Biologia,Genética,2.2,7
+1580,Matemática,Geometria Espacial,1.0,6
+1581,Português,Semântica,4.4,15
+1582,História,Antiga,2.9,10
+1583,Inglês,Reading,3.9,12
+1584,Geografia,Ambiental,1.3,4
+1585,Inglês,Reading,3.0,9
+1586,Inglês,Vocabulary,2.7,11
+1587,Biologia,Fisiologia Humana,2.4,6
+1588,Geografia,Ambiental,4.4,14
+1589,Química,Orgânica,3.9,12
+1590,Geografia,Cartografia,4.2,14
+1591,Biologia,Ecologia,3.8,12
+1592,Química,Físico-Química,1.8,3
+1593,Português,Semântica,2.2,4
+1594,Matemática,Geometria Espacial,4.5,12
+1595,Química,Estequiometria,1.1,4
+1596,Física,Eletromagnetismo,1.9,6
+1597,História,Brasil Colônia,4.1,16
+1598,História,Medieval,4.4,15
+1599,Física,Ondulatória,1.2,7
+1600,Inglês,Reading,4.9,16
+1601,Física,Moderna,3.2,8
+1602,Física,Moderna,1.8,8
+1603,História,Moderna,2.8,11
+1604,Física,Dinâmica,3.6,9
+1605,Física,Moderna,1.8,9
+1606,Matemática,Geometria Plana,4.3,12
+1607,Química,Atomística,2.1,7
+1608,Geografia,Humana,1.6,5
+1609,Biologia,Genética,4.2,13
+1610,Inglês,Vocabulary,4.2,10
+1611,Inglês,Reading,4.1,14
+1612,Física,Cinemática,2.4,11
+1613,Química,Inorgânica,1.2,6
+1614,Química,Estequiometria,1.2,6
+1615,História,Brasil Império,2.6,9
+1616,História,Moderna,4.0,10
+1617,História,Brasil República,3.4,11
+1618,Inglês,Vocabulary,1.8,9
+1619,Inglês,Vocabulary,2.4,10
+1620,Português,Literatura Brasileira,4.5,15
+1621,Geografia,Cartografia,3.9,10
+1622,História,Medieval,1.4,6
+1623,Geografia,Humana,1.1,5
+1624,História,Medieval,4.3,13
+1625,Física,Ondulatória,1.2,6
+1626,Geografia,Física,1.2,2
+1627,Inglês,Grammar,3.3,6
+1628,Biologia,Ecologia,2.2,10
+1629,Química,Eletroquímica,2.5,5
+1630,Geografia,Ambiental,3.3,9
+1631,Inglês,Reading,1.6,5
+1632,Física,Cinemática,1.2,4
+1633,Biologia,Fisiologia Humana,1.3,4
+1634,Português,Interpretação de Texto,3.3,10
+1635,Inglês,Vocabulary,4.9,13
+1636,Química,Inorgânica,3.8,14
+1637,Física,Ondulatória,1.9,8
+1638,Química,Estequiometria,2.5,9
+1639,Português,Gramática,1.5,2
+1640,Química,Atomística,2.5,7
+1641,História,Brasil Império,1.1,7
+1642,Português,Gramática,4.7,14
+1643,Biologia,Genética,4.3,10
+1644,Geografia,Física,4.5,15
+1645,História,Brasil República,2.8,9
+1646,Inglês,Vocabulary,4.3,11
+1647,Inglês,Grammar,3.7,14
+1648,Geografia,Física,4.2,13
+1649,Português,Literatura Brasileira,4.6,11
+1650,Inglês,Vocabulary,2.1,5
+1651,Matemática,Cálculo,3.5,10
+1652,Física,Ondulatória,3.2,11
+1653,Matemática,Cálculo,3.1,11
+1654,Matemática,Álgebra,3.6,8
+1655,História,Contemporânea,1.8,9
+1656,Inglês,Reading,4.2,13
+1657,Matemática,Trigonometria,4.4,10
+1658,Português,Gramática,4.4,13
+1659,Física,Cinemática,4.9,14
+1660,Química,Físico-Química,2.0,6
+1661,Português,Literatura Brasileira,1.2,2
+1662,Matemática,Estatística,1.2,3
+1663,Química,Inorgânica,4.6,17
+1664,Física,Cinemática,1.8,7
+1665,Biologia,Fisiologia Humana,3.0,7
+1666,História,Antiga,2.3,4
+1667,Inglês,Reading,2.6,5
+1668,História,Brasil República,4.9,13
+1669,Química,Orgânica,3.3,13
+1670,Biologia,Genética,2.5,11
+1671,Biologia,Botânica,4.8,16
+1672,Inglês,Reading,1.0,7
+1673,História,Moderna,4.9,10
+1674,História,Contemporânea,3.7,15
+1675,Biologia,Botânica,4.4,12
+1676,Física,Termodinâmica,1.4,8
+1677,Química,Eletroquímica,3.2,10
+1678,Biologia,Botânica,3.0,12
+1679,Geografia,Geopolítica,4.9,14
+1680,Biologia,Evolução,4.9,15
+1681,Geografia,Física,4.7,12
+1682,Inglês,Reading,4.6,14
+1683,Inglês,Grammar,3.2,12
+1684,Física,Eletromagnetismo,1.1,6
+1685,Inglês,Vocabulary,1.5,5
+1686,Geografia,Cartografia,1.7,8
+1687,Matemática,Álgebra,2.9,9
+1688,Matemática,Geometria Plana,4.0,15
+1689,Geografia,Humana,1.4,4
+1690,Biologia,Genética,4.9,12
+1691,História,Brasil Império,4.6,12
+1692,Matemática,Geometria Plana,4.9,12
+1693,História,Brasil República,3.0,8
+1694,Química,Atomística,3.4,9
+1695,História,Brasil República,4.4,16
+1696,História,Medieval,4.4,8
+1697,Matemática,Trigonometria,3.6,8
+1698,Geografia,Cartografia,4.4,11
+1699,Inglês,Grammar,2.4,10
+1700,Biologia,Citologia,2.1,7
+1701,Geografia,Física,2.6,9
+1702,Matemática,Estatística,1.9,3
+1703,Biologia,Genética,1.7,8
+1704,Física,Cinemática,2.9,10
+1705,Geografia,Geopolítica,2.0,6
+1706,Matemática,Combinatória,2.3,4
+1707,Inglês,Reading,3.5,8
+1708,Matemática,Álgebra,2.5,10
+1709,Física,Moderna,1.5,5
+1710,Matemática,Geometria Espacial,3.4,8
+1711,Matemática,Cálculo,1.2,4
+1712,Física,Eletromagnetismo,4.0,14
+1713,Matemática,Trigonometria,2.5,9
+1714,Física,Termodinâmica,3.6,8
+1715,Inglês,Vocabulary,2.3,4
+1716,Matemática,Cálculo,3.9,15
+1717,Biologia,Botânica,1.5,4
+1718,Português,Semântica,3.9,10
+1719,Química,Atomística,1.2,4
+1720,Geografia,Geopolítica,3.3,8
+1721,Química,Inorgânica,2.2,6
+1722,Matemática,Cálculo,3.3,7
+1723,Biologia,Botânica,4.3,10
+1724,Português,Interpretação de Texto,1.8,4
+1725,Física,Termodinâmica,1.8,8
+1726,Inglês,Vocabulary,3.8,13
+1727,Geografia,Ambiental,2.2,4
+1728,Inglês,Reading,3.0,12
+1729,Biologia,Evolução,1.9,4
+1730,Inglês,Vocabulary,4.1,16
+1731,Português,Literatura Brasileira,2.6,5
+1732,Geografia,Física,1.3,15
+1733,História,Brasil Império,1.8,9
+1734,Geografia,Física,4.9,14
+1735,Química,Físico-Química,4.5,13
+1736,Biologia,Genética,1.8,5
+1737,Física,Cinemática,4.3,15
+1738,Física,Termodinâmica,4.7,13
+1739,Geografia,Geopolítica,3.6,14
+1740,Português,Gramática,1.5,3
+1741,Biologia,Genética,3.1,9
+1742,Português,Literatura Brasileira,4.7,16
+1743,Biologia,Botânica,2.2,5
+1744,Matemática,Estatística,4.2,16
+1745,Inglês,Reading,3.9,15
+1746,Física,Dinâmica,3.0,12
+1747,Geografia,Cartografia,3.1,12
+1748,Geografia,Ambiental,3.8,12
+1749,Inglês,Grammar,3.3,13
+1750,Matemática,Geometria Plana,1.9,9
+1751,Biologia,Fisiologia Humana,1.9,6
+1752,Química,Orgânica,2.0,10
+1753,Física,Termodinâmica,2.8,10
+1754,Matemática,Trigonometria,3.0,10
+1755,Inglês,Grammar,2.6,7
+1756,História,Brasil Império,1.1,3
+1757,Física,Termodinâmica,4.6,15
+1758,Física,Moderna,2.1,4
+1759,Física,Termodinâmica,1.2,2
+1760,Geografia,Geopolítica,2.2,9
+1761,História,Medieval,3.8,15
+1762,História,Antiga,4.1,12
+1763,Português,Semântica,4.3,10
+1764,Inglês,Vocabulary,3.1,8
+1765,Português,Literatura Brasileira,1.9,6
+1766,Biologia,Botânica,3.3,10
+1767,Inglês,Grammar,4.2,11
+1768,Português,Semântica,1.8,7
+1769,Matemática,Geometria Espacial,1.6,4
+1770,Matemática,Trigonometria,4.2,12
+1771,Biologia,Fisiologia Humana,2.7,12
+1772,História,Brasil Colônia,3.3,7
+1773,Química,Físico-Química,4.9,16
+1774,Português,Semântica,1.8,7
+1775,Português,Literatura Brasileira,2.9,9
+1776,História,Antiga,1.7,4
+1777,Matemática,Combinatória,3.8,10
+1778,Biologia,Citologia,4.6,12
+1779,Biologia,Ecologia,3.6,8
+1780,Geografia,Ambiental,1.0,4
+1781,Português,Literatura Brasileira,5.0,16
+1782,Inglês,Vocabulary,1.3,7
+1783,Biologia,Genética,4.5,17
+1784,Inglês,Reading,3.4,12
+1785,Biologia,Botânica,3.9,10
+1786,Matemática,Geometria Plana,2.8,10
+1787,Biologia,Botânica,2.3,7
+1788,Inglês,Grammar,3.3,9
+1789,Inglês,Grammar,3.8,11
+1790,Português,Redação,4.3,13
+1791,Biologia,Genética,4.6,14
+1792,Português,Literatura Brasileira,3.8,14
+1793,Matemática,Geometria Plana,4.5,16
+1794,História,Moderna,4.7,17
+1795,Biologia,Fisiologia Humana,2.6,5
+1796,Geografia,Física,4.0,16
+1797,Geografia,Cartografia,2.8,10
+1798,Matemática,Trigonometria,1.1,6
+1799,Inglês,Grammar,2.4,6
+1800,Português,Gramática,1.0,2
+1801,Geografia,Cartografia,2.9,10
+1802,Biologia,Evolução,4.8,18
+1803,História,Contemporânea,1.6,6
+1804,Física,Dinâmica,2.2,7
+1805,Química,Atomística,3.7,8
+1806,Inglês,Grammar,1.7,8
+1807,Biologia,Fisiologia Humana,3.8,15
+1808,Física,Óptica,3.8,13
+1809,Matemática,Álgebra,4.1,11
+1810,Geografia,Humana,1.8,15
+1811,Geografia,Humana,3.7,9
+1812,Química,Eletroquímica,1.7,3
+1813,Geografia,Geopolítica,3.2,8
+1814,Português,Semântica,1.5,4
+1815,Geografia,Humana,1.1,2
+1816,Português,Literatura Brasileira,2.8,12
+1817,História,Moderna,3.5,26
+1818,História,Contemporânea,3.4,8
+1819,Química,Orgânica,4.8,17
+1820,Português,Literatura Brasileira,2.3,9
+1821,Geografia,Cartografia,1.3,1
+1822,Biologia,Botânica,3.3,8
+1823,Matemática,Cálculo,4.0,11
+1824,Português,Literatura Brasileira,3.5,10
+1825,Inglês,Grammar,1.8,8
+1826,Matemática,Geometria Plana,4.7,15
+1827,Geografia,Humana,2.1,10
+1828,Matemática,Cálculo,4.2,16
+1829,História,Contemporânea,1.1,3
+1830,Geografia,Humana,1.8,8
+1831,Biologia,Evolução,3.8,15
+1832,Português,Redação,2.3,4
+1833,Física,Moderna,3.0,7
+1834,Química,Físico-Química,1.5,6
+1835,Biologia,Genética,3.0,10
+1836,História,Medieval,3.9,10
+1837,Biologia,Ecologia,2.1,9
+1838,Biologia,Ecologia,4.4,13
+1839,Português,Semântica,1.7,7
+1840,Português,Literatura Brasileira,4.3,10
+1841,Português,Semântica,4.4,13
+1842,Química,Estequiometria,3.9,12
+1843,História,Brasil Império,2.1,7
+1844,Física,Termodinâmica,1.5,3
+1845,Biologia,Citologia,1.1,6
+1846,Geografia,Cartografia,2.6,8
+1847,Geografia,Cartografia,3.0,11
+1848,Física,Óptica,4.5,11
+1849,Português,Redação,1.6,4
+1850,Geografia,Ambiental,3.8,11
+1851,Matemática,Estatística,2.5,6
+1852,Biologia,Fisiologia Humana,1.1,6
+1853,Matemática,Estatística,3.7,13
+1854,Inglês,Vocabulary,1.6,6
+1855,Química,Atomística,1.5,7
+1856,Português,Semântica,3.8,9
+1857,Biologia,Fisiologia Humana,1.7,8
+1858,História,Brasil República,4.9,15
+1859,História,Moderna,2.6,10
+1860,Física,Cinemática,3.5,10
+1861,Química,Orgânica,4.0,13
+1862,História,Antiga,4.9,12
+1863,Física,Cinemática,4.1,13
+1864,História,Moderna,2.7,7
+1865,Química,Físico-Química,2.9,6
+1866,Inglês,Vocabulary,4.3,10
+1867,Química,Físico-Química,2.0,7
+1868,Inglês,Vocabulary,4.7,17
+1869,Química,Atomística,2.2,6
+1870,Física,Termodinâmica,1.1,4
+1871,Física,Cinemática,1.2,2
+1872,Matemática,Álgebra,1.8,6
+1873,História,Brasil Império,2.9,9
+1874,Geografia,Geopolítica,3.7,11
+1875,Biologia,Ecologia,3.7,9
+1876,Geografia,Geopolítica,4.2,9
+1877,Matemática,Cálculo,1.5,7
+1878,Biologia,Ecologia,2.8,12
+1879,Inglês,Vocabulary,2.7,11
+1880,Geografia,Física,3.5,14
+1881,Geografia,Cartografia,1.9,8
+1882,Física,Termodinâmica,2.7,9
+1883,Física,Ondulatória,2.5,10
+1884,Química,Estequiometria,4.5,16
+1885,Matemática,Geometria Plana,3.0,13
+1886,Inglês,Reading,4.6,14
+1887,Biologia,Genética,1.8,8
+1888,Física,Cinemática,2.7,7
+1889,Geografia,Cartografia,4.1,12
+1890,Inglês,Vocabulary,1.5,6
+1891,Inglês,Reading,4.2,11
+1892,Física,Ondulatória,2.4,10
+1893,Português,Redação,4.9,13
+1894,Biologia,Ecologia,1.5,2
+1895,Geografia,Ambiental,4.7,12
+1896,Geografia,Humana,4.4,15
+1897,Matemática,Geometria Espacial,1.2,7
+1898,Português,Semântica,2.3,9
+1899,Química,Estequiometria,3.7,9
+1900,Português,Gramática,3.2,8
+1901,História,Contemporânea,1.9,4
+1902,História,Medieval,4.0,16
+1903,Matemática,Cálculo,2.3,9
+1904,Física,Termodinâmica,5.0,16
+1905,Biologia,Fisiologia Humana,2.2,4
+1906,Geografia,Humana,4.3,15
+1907,Biologia,Evolução,3.9,15
+1908,Química,Inorgânica,3.9,15
+1909,Química,Atomística,3.2,12
+1910,Inglês,Grammar,4.0,14
+1911,História,Brasil Colônia,3.8,15
+1912,Português,Gramática,1.5,6
+1913,Matemática,Combinatória,4.7,17
+1914,Química,Estequiometria,1.6,4
+1915,Química,Físico-Química,1.9,8
+1916,Matemática,Geometria Espacial,3.9,14
+1917,Química,Inorgânica,4.8,18
+1918,Química,Atomística,1.4,3
+1919,Matemática,Álgebra,4.9,16
+1920,Português,Literatura Brasileira,3.5,8
+1921,Física,Dinâmica,2.6,9
+1922,Química,Eletroquímica,4.0,16
+1923,Física,Moderna,2.9,9
+1924,História,Moderna,3.6,8
+1925,Física,Cinemática,1.5,6
+1926,Biologia,Citologia,3.3,10
+1927,História,Moderna,4.0,11
+1928,Português,Semântica,5.0,15
+1929,Química,Atomística,2.3,10
+1930,Química,Inorgânica,4.3,10
+1931,Física,Moderna,4.0,10
+1932,Química,Estequiometria,3.8,7
+1933,Física,Cinemática,1.5,3
+1934,Física,Eletromagnetismo,2.0,4
+1935,Física,Eletromagnetismo,2.2,5
+1936,Português,Gramática,2.0,1
+1937,Química,Estequiometria,3.0,9
+1938,Biologia,Evolução,1.4,3
+1939,Matemática,Geometria Plana,1.6,3
+1940,Química,Estequiometria,3.2,9
+1941,Química,Eletroquímica,3.5,10
+1942,História,Brasil Império,3.6,11
+1943,Física,Termodinâmica,3.7,10
+1944,Biologia,Citologia,3.5,13
+1945,Biologia,Evolução,2.5,11
+1946,Química,Inorgânica,4.3,16
+1947,Português,Semântica,1.1,2
+1948,História,Antiga,3.1,10
+1949,Física,Termodinâmica,3.6,10
+1950,História,Medieval,4.5,11
+1951,Física,Óptica,4.9,12
+1952,Física,Dinâmica,3.1,11
+1953,Inglês,Reading,3.1,13
+1954,História,Brasil República,2.1,4
+1955,Química,Orgânica,4.8,14
+1956,Português,Semântica,3.4,13
+1957,Química,Eletroquímica,1.5,7
+1958,História,Antiga,4.7,14
+1959,Biologia,Evolução,3.4,9
+1960,Inglês,Grammar,4.2,12
+1961,Português,Redação,4.8,18
+1962,Biologia,Ecologia,3.5,10
+1963,Português,Interpretação de Texto,4.4,11
+1964,Biologia,Citologia,1.7,8
+1965,História,Brasil República,4.7,12
+1966,Português,Redação,4.7,15
+1967,Física,Óptica,1.1,7
+1968,Matemática,Estatística,2.7,8
+1969,Biologia,Evolução,3.6,12
+1970,Matemática,Cálculo,2.8,12
+1971,Biologia,Genética,1.3,5
+1972,Geografia,Física,2.7,8
+1973,Física,Termodinâmica,4.7,16
+1974,Física,Termodinâmica,2.2,5
+1975,Matemática,Estatística,3.5,10
+1976,Matemática,Trigonometria,4.6,11
+1977,Geografia,Física,3.5,10
+1978,Física,Cinemática,2.4,8
+1979,Geografia,Física,1.4,2
+1980,Química,Inorgânica,1.5,3
+1981,História,Medieval,2.9,8
+1982,Português,Literatura Brasileira,3.1,10
+1983,Inglês,Reading,1.6,2
+1984,Geografia,Humana,1.4,3
+1985,Português,Semântica,4.0,11
+1986,Biologia,Fisiologia Humana,4.8,12
+1987,Português,Semântica,3.2,12
+1988,Química,Orgânica,4.0,13
+1989,Português,Literatura Brasileira,1.4,2
+1990,Química,Físico-Química,2.4,17
+1991,Geografia,Cartografia,4.9,15
+1992,Inglês,Grammar,2.1,7
+1993,Biologia,Botânica,1.6,3
+1994,História,Contemporânea,1.5,7
+1995,Biologia,Evolução,4.3,15
+1996,Física,Ondulatória,3.9,10
+1997,Química,Físico-Química,1.5,4
+1998,Biologia,Genética,2.7,6
+1999,Matemática,Trigonometria,2.6,10
+2000,Biologia,Genética,2.3,8
+2001,Português,Gramática,2.2,6
+2002,Geografia,Cartografia,2.0,5
+2003,Matemática,Álgebra,1.2,2
+2004,História,Brasil Império,2.1,7
+2005,Química,Orgânica,4.8,14
+2006,Física,Cinemática,3.7,15
+2007,Química,Orgânica,2.4,10
+2008,Geografia,Humana,3.6,11
+2009,Física,Cinemática,1.5,2
+2010,Matemática,Cálculo,4.9,18
+2011,Biologia,Genética,3.8,9
+2012,Geografia,Geopolítica,3.9,10
+2013,Química,Atomística,1.5,7
+2014,História,Contemporânea,4.4,13
+2015,Geografia,Cartografia,3.5,11
+2016,Física,Óptica,2.7,10
+2017,Matemática,Geometria Plana,3.4,9
+2018,História,Antiga,4.8,17
+2019,Biologia,Evolução,4.3,14
+2020,Física,Dinâmica,2.8,10
+2021,Português,Semântica,3.4,8
+2022,Química,Estequiometria,1.9,9
+2023,Inglês,Vocabulary,3.8,11
+2024,Biologia,Ecologia,3.8,10
+2025,Biologia,Citologia,3.1,12
+2026,Química,Orgânica,4.7,18
+2027,Matemática,Estatística,4.9,13
+2028,Física,Cinemática,3.6,10
+2029,Geografia,Física,4.8,14
+2030,Química,Inorgânica,4.6,11
+2031,Matemática,Combinatória,2.4,7
+2032,Química,Orgânica,4.9,18
+2033,Física,Ondulatória,4.0,15
+2034,História,Contemporânea,3.5,9
+2035,Inglês,Reading,2.3,9
+2036,Português,Literatura Brasileira,2.8,9
+2037,Geografia,Humana,4.6,12
+2038,Inglês,Reading,4.3,14
+2039,Inglês,Vocabulary,1.7,5
+2040,Química,Físico-Química,4.3,11
+2041,Física,Dinâmica,1.3,6
+2042,Português,Gramática,3.9,15
+2043,Matemática,Cálculo,1.4,2
+2044,Matemática,Combinatória,4.3,11
+2045,Biologia,Citologia,2.1,8
+2046,Matemática,Combinatória,4.9,12
+2047,Geografia,Física,1.8,7
+2048,Inglês,Reading,2.2,5
+2049,Matemática,Cálculo,3.8,9
+2050,Matemática,Combinatória,1.2,2
+2051,Português,Literatura Brasileira,1.0,2
+2052,Português,Semântica,1.6,3
+2053,Português,Gramática,3.0,8
+2054,Física,Termodinâmica,2.4,5
+2055,Geografia,Física,4.6,12
+2056,Português,Redação,2.3,7
+2057,Química,Eletroquímica,3.7,11
+2058,Geografia,Física,2.1,6
+2059,História,Contemporânea,4.6,17
+2060,Matemática,Combinatória,4.7,17
+2061,Química,Orgânica,1.6,8
+2062,Inglês,Reading,1.5,7
+2063,História,Medieval,1.4,3
+2064,Português,Interpretação de Texto,2.3,9
+2065,Português,Redação,4.2,16
+2066,Biologia,Fisiologia Humana,2.7,10
+2067,Inglês,Vocabulary,3.1,7
+2068,Português,Redação,3.3,12
+2069,Biologia,Evolução,1.3,2
+2070,Matemática,Geometria Espacial,3.2,7
+2071,Matemática,Geometria Espacial,2.4,11
+2072,Química,Orgânica,2.8,10
+2073,Português,Literatura Brasileira,1.8,8
+2074,Química,Atomística,4.8,15
+2075,Matemática,Estatística,4.9,17
+2076,Física,Ondulatória,3.3,11
+2077,Química,Atomística,1.6,3
+2078,Física,Cinemática,3.3,8
+2079,Química,Inorgânica,4.0,15
+2080,História,Brasil Império,2.6,11
+2081,Matemática,Geometria Espacial,1.4,7
+2082,Matemática,Cálculo,4.0,10
+2083,Português,Semântica,3.7,13
+2084,História,Brasil República,3.0,10
+2085,Química,Orgânica,4.9,13
+2086,Biologia,Fisiologia Humana,3.5,9
+2087,Física,Moderna,3.8,14
+2088,Português,Semântica,1.7,8
+2089,Português,Literatura Brasileira,2.1,6
+2090,Geografia,Física,2.0,4
+2091,Física,Dinâmica,3.4,10
+2092,Biologia,Botânica,1.8,4
+2093,História,Antiga,4.9,16
+2094,Inglês,Reading,1.2,3
+2095,Matemática,Geometria Espacial,4.0,14
+2096,Biologia,Ecologia,4.0,11
+2097,Física,Termodinâmica,2.6,5
+2098,Química,Atomística,3.3,11
+2099,Matemática,Geometria Espacial,1.6,2
+2100,Física,Ondulatória,1.9,8
+2101,Química,Eletroquímica,1.6,6
+2102,Geografia,Cartografia,4.1,12
+2103,Português,Gramática,4.6,14
+2104,Biologia,Genética,5.0,14
+2105,Inglês,Reading,4.2,16
+2106,História,Brasil República,4.5,11
+2107,Inglês,Reading,2.8,8
+2108,Química,Atomística,2.1,4
+2109,Física,Dinâmica,3.8,12
+2110,História,Contemporânea,4.5,12
+2111,Física,Eletromagnetismo,3.0,9
+2112,Português,Semântica,4.4,12
+2113,Inglês,Grammar,3.0,9
+2114,Geografia,Física,3.7,11
+2115,Matemática,Cálculo,4.9,18
+2116,Biologia,Evolução,4.3,26
+2117,Português,Literatura Brasileira,3.3,8
+2118,Português,Semântica,3.7,12
+2119,Inglês,Reading,1.3,4
+2120,Português,Literatura Brasileira,2.6,7
+2121,Inglês,Reading,3.8,11
+2122,Inglês,Reading,3.2,8
+2123,Biologia,Ecologia,3.3,13
+2124,Português,Gramática,4.7,15
+2125,Inglês,Reading,1.2,7
+2126,Português,Interpretação de Texto,2.0,5
+2127,Física,Termodinâmica,2.6,10
+2128,Inglês,Grammar,3.1,9
+2129,Química,Atomística,1.4,4
+2130,História,Medieval,1.8,6
+2131,Inglês,Vocabulary,3.8,14
+2132,Português,Interpretação de Texto,4.7,18
+2133,Matemática,Cálculo,4.1,10
+2134,Química,Orgânica,3.7,14
+2135,Geografia,Física,1.6,3
+2136,Inglês,Grammar,1.5,5
+2137,História,Brasil República,3.9,15
+2138,Química,Eletroquímica,2.8,6
+2139,Matemática,Geometria Plana,4.0,15
+2140,Química,Estequiometria,2.5,6
+2141,Matemática,Geometria Espacial,4.3,10
+2142,Inglês,Vocabulary,5.0,15
+2143,Geografia,Ambiental,2.7,8
+2144,Física,Dinâmica,2.8,10
+2145,Química,Estequiometria,2.7,11
+2146,Português,Interpretação de Texto,3.8,15
+2147,Física,Cinemática,4.2,15
+2148,Matemática,Cálculo,4.7,17
+2149,Física,Ondulatória,2.8,6
+2150,História,Contemporânea,2.7,9
+2151,Português,Gramática,1.8,3
+2152,Geografia,Cartografia,2.7,11
+2153,Português,Gramática,4.8,16
+2154,História,Brasil Colônia,4.5,17
+2155,Português,Literatura Brasileira,1.0,2
+2156,Matemática,Álgebra,1.6,8
+2157,Geografia,Geopolítica,1.7,6
+2158,Biologia,Botânica,4.9,17
+2159,Português,Gramática,4.2,11
+2160,Português,Literatura Brasileira,2.6,6
+2161,Português,Literatura Brasileira,1.4,6
+2162,Física,Ondulatória,3.3,13
+2163,História,Contemporânea,3.2,8
+2164,Física,Cinemática,1.1,13
+2165,Física,Eletromagnetismo,2.5,6
+2166,Inglês,Vocabulary,3.5,9
+2167,Biologia,Ecologia,1.8,8
+2168,Português,Interpretação de Texto,3.6,9
+2169,Matemática,Estatística,4.9,12
+2170,Inglês,Vocabulary,1.5,4
+2171,Química,Atomística,1.3,7
+2172,Biologia,Fisiologia Humana,1.4,5
+2173,Física,Óptica,4.8,17
+2174,Português,Semântica,4.6,14
+2175,Química,Físico-Química,2.2,9
+2176,Matemática,Álgebra,4.9,15
+2177,Matemática,Geometria Plana,3.1,7
+2178,Biologia,Botânica,1.1,16
+2179,Geografia,Física,4.6,26
+2180,Física,Ondulatória,3.8,11
+2181,Inglês,Reading,4.8,16
+2182,História,Brasil Império,4.0,14
+2183,Português,Literatura Brasileira,2.0,10
+2184,História,Brasil Império,1.4,6
+2185,História,Medieval,4.2,13
+2186,Português,Semântica,2.7,12
+2187,Geografia,Ambiental,1.4,3
+2188,Geografia,Geopolítica,4.6,14
+2189,Química,Atomística,4.8,15
+2190,História,Brasil República,4.3,14
+2191,Geografia,Cartografia,1.1,3
+2192,Português,Literatura Brasileira,2.4,10
+2193,Geografia,Geopolítica,1.6,2
+2194,Geografia,Física,3.9,13
+2195,Geografia,Humana,3.2,11
+2196,Biologia,Botânica,1.9,8
+2197,Física,Eletromagnetismo,4.6,17
+2198,Português,Interpretação de Texto,4.3,10
+2199,Inglês,Grammar,1.2,2
+2200,Física,Óptica,1.7,6
+2201,Biologia,Botânica,1.1,20
+2202,História,Medieval,4.4,15
+2203,Matemática,Geometria Espacial,3.6,8
+2204,Português,Interpretação de Texto,2.1,7
+2205,Física,Eletromagnetismo,4.1,10
+2206,Português,Interpretação de Texto,3.8,15
+2207,Física,Moderna,2.5,5
+2208,Biologia,Citologia,4.3,12
+2209,Português,Literatura Brasileira,1.7,9
+2210,Geografia,Ambiental,5.0,19
+2211,Matemática,Geometria Espacial,4.5,27
+2212,Física,Termodinâmica,2.3,10
+2213,Português,Interpretação de Texto,3.8,13
+2214,Inglês,Reading,1.5,8
+2215,Português,Semântica,3.7,10
+2216,Inglês,Vocabulary,3.0,13
+2217,Inglês,Reading,1.4,7
+2218,Física,Termodinâmica,3.2,12
+2219,Biologia,Evolução,1.3,2
+2220,Biologia,Citologia,3.7,12
+2221,Biologia,Fisiologia Humana,1.4,6
+2222,Geografia,Geopolítica,3.8,15
+2223,Física,Dinâmica,1.9,6
+2224,Biologia,Fisiologia Humana,1.8,4
+2225,História,Contemporânea,3.3,10
+2226,Física,Ondulatória,1.4,1
+2227,História,Antiga,2.9,8
+2228,História,Antiga,4.7,15
+2229,Biologia,Genética,2.6,7
+2230,Matemática,Trigonometria,2.1,9
+2231,Português,Semântica,1.8,4
+2232,História,Brasil República,3.4,8
+2233,Matemática,Estatística,2.0,4
+2234,Matemática,Álgebra,3.3,11
+2235,Física,Termodinâmica,1.9,8
+2236,Português,Semântica,2.6,11
+2237,História,Brasil Império,1.8,5
+2238,História,Moderna,3.4,8
+2239,Química,Estequiometria,4.6,16
+2240,História,Contemporânea,4.6,13
+2241,Física,Dinâmica,1.7,4
+2242,Matemática,Estatística,2.9,7
+2243,História,Antiga,1.7,3
+2244,Geografia,Cartografia,3.3,8
+2245,Inglês,Reading,1.2,1
+2246,Química,Físico-Química,4.1,16
+2247,Geografia,Cartografia,3.0,11
+2248,História,Moderna,2.9,6
+2249,Geografia,Geopolítica,3.8,15
+2250,Inglês,Reading,2.1,9
+2251,Matemática,Geometria Plana,4.9,17
+2252,Química,Orgânica,3.0,12
+2253,Português,Interpretação de Texto,1.8,6
+2254,Física,Termodinâmica,4.5,14
+2255,Química,Orgânica,4.6,13
+2256,Português,Redação,2.7,8
+2257,Biologia,Citologia,3.3,13
+2258,Física,Óptica,4.2,16
+2259,Geografia,Geopolítica,1.4,21
+2260,Química,Estequiometria,4.9,17
+2261,Química,Orgânica,2.9,8
+2262,Matemática,Trigonometria,1.2,5
+2263,Física,Cinemática,3.0,7
+2264,Matemática,Geometria Espacial,1.6,8
+2265,Química,Atomística,3.9,14
+2266,Biologia,Fisiologia Humana,3.3,8
+2267,Matemática,Trigonometria,4.7,17
+2268,Português,Semântica,2.6,7
+2269,História,Brasil República,2.2,9
+2270,Geografia,Ambiental,1.6,4
+2271,Química,Inorgânica,3.2,7
+2272,História,Brasil República,4.7,13
+2273,Português,Semântica,1.4,7
+2274,Geografia,Ambiental,4.7,15
+2275,Geografia,Cartografia,2.9,9
+2276,Matemática,Cálculo,1.1,2
+2277,Química,Estequiometria,4.6,15
+2278,Geografia,Humana,3.5,10
+2279,Matemática,Combinatória,4.4,16
+2280,Matemática,Trigonometria,4.2,13
+2281,Matemática,Álgebra,1.2,6
+2282,Física,Termodinâmica,3.4,12
+2283,Inglês,Vocabulary,2.3,9
+2284,Matemática,Estatística,1.8,8
+2285,Inglês,Reading,1.9,9
+2286,Química,Orgânica,3.5,8
+2287,Inglês,Vocabulary,3.8,9
+2288,Química,Estequiometria,4.5,12
+2289,Biologia,Citologia,2.9,9
+2290,Português,Gramática,4.7,15
+2291,Química,Físico-Química,4.4,17
+2292,Inglês,Vocabulary,3.5,13
+2293,Matemática,Geometria Plana,1.6,3
+2294,Química,Estequiometria,4.0,13
+2295,Inglês,Grammar,2.2,8
+2296,Inglês,Grammar,3.7,14
+2297,Física,Óptica,2.7,6
+2298,História,Brasil Império,1.5,6
+2299,História,Antiga,3.6,12
+2300,Inglês,Reading,4.6,12
+2301,Inglês,Vocabulary,2.8,23
+2302,Biologia,Ecologia,4.6,15
+2303,Física,Dinâmica,3.6,13
+2304,Geografia,Cartografia,3.9,11
+2305,História,Brasil Império,1.3,4
+2306,Português,Semântica,3.4,13
+2307,História,Medieval,3.8,13
+2308,Geografia,Ambiental,3.5,8
+2309,Matemática,Combinatória,3.9,14
+2310,Física,Óptica,4.7,18
+2311,Biologia,Evolução,4.2,11
+2312,Português,Semântica,4.7,14
+2313,Física,Cinemática,4.4,17
+2314,Geografia,Ambiental,3.5,25
+2315,Física,Ondulatória,2.8,11
+2316,Biologia,Genética,2.0,6
+2317,Biologia,Genética,4.0,14
+2318,Biologia,Citologia,3.3,12
+2319,Física,Dinâmica,1.1,2
+2320,Geografia,Cartografia,3.3,9
+2321,Química,Eletroquímica,3.9,14
+2322,Inglês,Reading,4.3,13
+2323,Geografia,Geopolítica,3.5,9
+2324,Física,Óptica,2.7,6
+2325,Física,Dinâmica,4.1,10
+2326,Inglês,Reading,1.2,2
+2327,Biologia,Ecologia,4.7,17
+2328,Geografia,Física,4.5,13
+2329,Física,Eletromagnetismo,3.3,11
+2330,História,Brasil Império,3.5,8
+2331,Inglês,Grammar,3.6,6
+2332,Biologia,Ecologia,4.6,12
+2333,Geografia,Física,1.9,7
+2334,Matemática,Geometria Espacial,4.9,16
+2335,Física,Eletromagnetismo,2.9,11
+2336,Matemática,Álgebra,1.1,6
+2337,Geografia,Cartografia,2.9,7
+2338,Matemática,Álgebra,1.1,2
+2339,Português,Gramática,3.2,13
+2340,Português,Literatura Brasileira,2.7,7
+2341,Física,Óptica,1.5,4
+2342,Geografia,Humana,2.4,6
+2343,Biologia,Citologia,3.4,13
+2344,Matemática,Combinatória,1.1,7
+2345,Matemática,Álgebra,1.2,3
+2346,Matemática,Geometria Espacial,2.4,6
+2347,História,Medieval,3.4,8
+2348,Física,Cinemática,2.0,7
+2349,Geografia,Humana,2.8,8
+2350,História,Contemporânea,3.6,10
+2351,Geografia,Ambiental,3.0,10
+2352,Inglês,Grammar,1.3,7
+2353,Biologia,Ecologia,4.0,12
+2354,Química,Atomística,4.9,17
+2355,Inglês,Reading,1.1,3
+2356,História,Brasil República,2.5,5
+2357,Matemática,Geometria Espacial,4.4,11
+2358,Português,Semântica,2.8,9
+2359,Química,Eletroquímica,2.7,8
+2360,Matemática,Cálculo,4.1,14
+2361,Geografia,Geopolítica,4.2,16
+2362,Matemática,Geometria Espacial,3.9,15
+2363,Português,Gramática,4.2,15
+2364,História,Contemporânea,5.0,16
+2365,História,Medieval,4.8,13
+2366,Química,Atomística,2.1,6
+2367,Física,Dinâmica,4.1,14
+2368,Português,Gramática,3.5,13
+2369,História,Contemporânea,3.6,8
+2370,Física,Termodinâmica,3.3,9
+2371,Química,Inorgânica,2.9,9
+2372,Matemática,Geometria Espacial,2.9,7
+2373,Português,Gramática,3.3,11
+2374,Geografia,Física,2.8,12
+2375,História,Brasil Colônia,4.5,16
+2376,Química,Físico-Química,4.5,12
+2377,Física,Ondulatória,1.2,7
+2378,Inglês,Vocabulary,2.3,5
+2379,Matemática,Estatística,5.0,13
+2380,Geografia,Ambiental,3.9,11
+2381,Física,Cinemática,3.0,7
+2382,Biologia,Genética,2.3,10
+2383,Português,Gramática,3.6,9
+2384,Matemática,Geometria Espacial,3.4,11
+2385,Geografia,Cartografia,4.8,12
+2386,Química,Orgânica,1.2,5
+2387,Matemática,Álgebra,3.4,12
+2388,Geografia,Humana,2.5,10
+2389,Química,Inorgânica,4.1,10
+2390,Biologia,Botânica,3.0,11
+2391,Português,Redação,3.9,13
+2392,Matemática,Cálculo,2.9,9
+2393,Geografia,Geopolítica,1.8,4
+2394,Geografia,Humana,4.2,11
+2395,Inglês,Grammar,4.0,11
+2396,Inglês,Vocabulary,4.8,12
+2397,Geografia,Ambiental,3.0,12
+2398,Inglês,Vocabulary,1.9,4
+2399,Química,Estequiometria,2.0,9
+2400,Química,Estequiometria,2.0,6
+2401,Física,Cinemática,2.6,6
+2402,Inglês,Vocabulary,4.5,12
+2403,Inglês,Reading,1.7,9
+2404,Inglês,Vocabulary,1.4,8
+2405,Português,Gramática,3.8,10
+2406,Português,Semântica,2.4,9
+2407,Biologia,Evolução,2.2,10
+2408,Geografia,Ambiental,3.4,13
+2409,Matemática,Álgebra,4.0,13
+2410,Português,Semântica,4.0,16
+2411,Inglês,Vocabulary,1.5,8
+2412,Física,Dinâmica,4.6,13
+2413,Inglês,Grammar,2.3,9
+2414,História,Contemporânea,1.4,4
+2415,Matemática,Cálculo,3.1,11
+2416,Português,Interpretação de Texto,2.3,5
+2417,Química,Atomística,4.3,15
+2418,Biologia,Fisiologia Humana,3.1,11
+2419,Geografia,Física,2.4,7
+2420,História,Brasil Império,2.8,8
+2421,História,Brasil República,4.0,15
+2422,História,Medieval,1.4,6
+2423,Química,Atomística,3.4,20
+2424,Inglês,Reading,2.5,9
+2425,Português,Semântica,3.1,9
+2426,Física,Ondulatória,3.8,12
+2427,Português,Semântica,2.1,6
+2428,Física,Termodinâmica,4.2,11
+2429,Física,Termodinâmica,1.6,5
+2430,Física,Ondulatória,3.8,9
+2431,Português,Gramática,4.7,14
+2432,Biologia,Botânica,3.6,8
+2433,Matemática,Geometria Plana,1.5,3
+2434,Biologia,Ecologia,2.9,7
+2435,Inglês,Grammar,1.5,2
+2436,Biologia,Citologia,2.7,10
+2437,Biologia,Evolução,1.7,5
+2438,Português,Redação,1.9,7
+2439,Química,Orgânica,4.4,16
+2440,Inglês,Grammar,4.2,12
+2441,Inglês,Grammar,1.4,8
+2442,História,Brasil Império,4.9,17
+2443,Português,Gramática,1.7,8
+2444,Física,Termodinâmica,3.8,15
+2445,Inglês,Grammar,3.4,8
+2446,História,Brasil Colônia,3.0,13
+2447,Português,Gramática,3.2,12
+2448,Geografia,Cartografia,2.6,8
+2449,História,Antiga,2.1,6
+2450,Matemática,Geometria Espacial,2.8,7
+2451,Biologia,Evolução,1.4,6
+2452,Geografia,Humana,3.4,26
+2453,Física,Moderna,3.8,15
+2454,Física,Ondulatória,1.2,5
+2455,Biologia,Genética,4.4,16
+2456,Biologia,Ecologia,4.2,12
+2457,Português,Literatura Brasileira,3.2,7
+2458,Matemática,Combinatória,1.1,2
+2459,Português,Semântica,1.2,2
+2460,Biologia,Evolução,4.1,12
+2461,Física,Moderna,4.1,11
+2462,História,Contemporânea,1.3,6
+2463,Português,Gramática,1.1,5
+2464,Química,Atomística,3.9,10
+2465,História,Contemporânea,2.3,4
+2466,História,Brasil Colônia,2.8,11
+2467,Inglês,Grammar,2.2,7
+2468,História,Brasil Império,2.1,8
+2469,Biologia,Fisiologia Humana,1.1,4
+2470,Geografia,Ambiental,3.9,13
+2471,Matemática,Trigonometria,4.1,13
+2472,Física,Ondulatória,2.2,9
+2473,Física,Cinemática,3.2,10
+2474,Biologia,Citologia,1.6,5
+2475,Biologia,Citologia,4.1,12
+2476,Geografia,Humana,1.1,5
+2477,Português,Gramática,2.1,8
+2478,Inglês,Vocabulary,3.0,8
+2479,Geografia,Cartografia,3.8,15
+2480,Física,Cinemática,2.7,7
+2481,Matemática,Geometria Plana,3.1,8
+2482,Inglês,Reading,1.2,2
+2483,Inglês,Reading,4.0,13
+2484,Matemática,Geometria Espacial,1.5,7
+2485,História,Brasil República,2.3,8
+2486,Química,Físico-Química,2.2,10
+2487,Geografia,Ambiental,3.4,9
+2488,Geografia,Humana,1.7,6
+2489,Matemática,Geometria Espacial,2.7,6
+2490,Matemática,Geometria Espacial,3.8,9
+2491,Inglês,Grammar,1.4,6
+2492,Química,Atomística,2.4,6
+2493,Geografia,Física,4.7,18
+2494,Português,Redação,3.9,15
+2495,Português,Interpretação de Texto,3.2,8
+2496,Física,Eletromagnetismo,1.6,4
+2497,Química,Orgânica,3.3,11
+2498,Português,Interpretação de Texto,3.3,11
+2499,História,Contemporânea,3.9,12
+2500,Biologia,Genética,1.0,2
+2501,Física,Moderna,3.5,11
+2502,Matemática,Geometria Espacial,1.3,2
+2503,Inglês,Grammar,3.7,13
+2504,Física,Dinâmica,3.2,10
+2505,Inglês,Grammar,2.2,8
+2506,Física,Eletromagnetismo,4.4,16
+2507,História,Moderna,1.6,5
+2508,Inglês,Vocabulary,4.2,14
+2509,Português,Interpretação de Texto,1.7,9
+2510,Inglês,Vocabulary,2.4,9
+2511,Biologia,Fisiologia Humana,2.5,5
+2512,Biologia,Fisiologia Humana,2.4,9
+2513,História,Brasil Colônia,1.4,4
+2514,Matemática,Cálculo,2.1,9
+2515,Inglês,Grammar,1.2,3
+2516,História,Moderna,1.2,2
+2517,Inglês,Vocabulary,3.5,11
+2518,Física,Cinemática,2.5,10
+2519,Química,Eletroquímica,3.9,10
+2520,Física,Óptica,4.3,13
+2521,Matemática,Geometria Espacial,1.4,8
+2522,Biologia,Evolução,3.5,7
+2523,Geografia,Ambiental,1.1,4
+2524,Matemática,Álgebra,1.8,4
+2525,História,Antiga,1.7,23
+2526,Português,Literatura Brasileira,3.5,8
+2527,História,Brasil Colônia,3.2,10
+2528,Física,Eletromagnetismo,4.7,12
+2529,Química,Eletroquímica,1.3,6
+2530,Matemática,Combinatória,1.7,1
+2531,Física,Ondulatória,4.8,17
+2532,Biologia,Evolução,4.0,10
+2533,Português,Interpretação de Texto,1.7,5
+2534,Português,Literatura Brasileira,4.3,11
+2535,Química,Orgânica,2.0,4
+2536,Inglês,Grammar,3.3,12
+2537,Inglês,Vocabulary,3.7,15
+2538,Português,Literatura Brasileira,3.2,12
+2539,Português,Interpretação de Texto,3.6,10
+2540,Biologia,Ecologia,3.8,15
+2541,História,Antiga,3.1,8
+2542,Inglês,Grammar,1.1,6
+2543,Química,Inorgânica,1.6,4
+2544,Português,Redação,4.6,11
+2545,Geografia,Física,1.6,4
+2546,Física,Dinâmica,4.7,15
+2547,Química,Atomística,2.8,10
+2548,Português,Semântica,2.9,11
+2549,Geografia,Ambiental,2.4,7
+2550,Matemática,Geometria Plana,4.1,14
+2551,Física,Óptica,2.7,10
+2552,Português,Redação,1.1,3
+2553,Biologia,Botânica,4.0,12
+2554,Matemática,Álgebra,2.2,10
+2555,Geografia,Cartografia,2.6,10
+2556,Química,Físico-Química,4.5,11
+2557,Química,Físico-Química,4.4,16
+2558,Biologia,Genética,3.7,11
+2559,Matemática,Trigonometria,1.6,6
+2560,Português,Literatura Brasileira,4.7,18
+2561,Inglês,Vocabulary,2.0,7
+2562,Química,Orgânica,4.1,16
+2563,Geografia,Geopolítica,4.3,13
+2564,Português,Redação,1.3,6
+2565,Matemática,Geometria Plana,4.5,12
+2566,Geografia,Geopolítica,2.4,9
+2567,Português,Gramática,3.6,9
+2568,Matemática,Geometria Plana,2.2,7
+2569,Química,Inorgânica,1.6,7
+2570,Inglês,Reading,2.0,5
+2571,Química,Inorgânica,3.7,12
+2572,Física,Termodinâmica,3.7,15
+2573,Português,Gramática,1.6,6
+2574,Português,Semântica,1.0,6
+2575,Português,Semântica,4.1,12
+2576,Física,Eletromagnetismo,4.2,14
+2577,Geografia,Cartografia,3.8,11
+2578,Física,Moderna,1.7,9
+2579,Português,Gramática,1.6,7
+2580,História,Medieval,3.1,13
+2581,Inglês,Grammar,1.2,2
+2582,Inglês,Grammar,2.5,10
+2583,Geografia,Geopolítica,2.7,12
+2584,Matemática,Cálculo,2.1,7
+2585,Matemática,Trigonometria,2.3,8
+2586,Física,Termodinâmica,3.9,12
+2587,Biologia,Genética,1.3,6
+2588,Química,Eletroquímica,3.0,9
+2589,Inglês,Vocabulary,3.5,14
+2590,Inglês,Reading,1.3,2
+2591,Física,Óptica,3.1,9
+2592,História,Brasil Império,2.6,10
+2593,História,Moderna,3.6,14
+2594,Português,Gramática,4.2,12
+2595,Biologia,Evolução,4.2,13
+2596,Biologia,Fisiologia Humana,2.1,5
+2597,História,Brasil República,3.7,10
+2598,História,Brasil Colônia,1.0,7
+2599,Português,Literatura Brasileira,2.1,10
+2600,Geografia,Física,1.9,2
+2601,Física,Eletromagnetismo,2.2,10
+2602,Inglês,Vocabulary,2.7,10
+2603,Português,Semântica,4.7,10
+2604,Geografia,Cartografia,1.6,5
+2605,Biologia,Botânica,3.8,11
+2606,Português,Gramática,3.6,8
+2607,Inglês,Vocabulary,4.9,17
+2608,Geografia,Geopolítica,2.2,9
+2609,Inglês,Reading,1.6,6
+2610,Geografia,Ambiental,2.7,6
+2611,História,Brasil República,4.0,13
+2612,Química,Inorgânica,3.4,8
+2613,Português,Literatura Brasileira,1.8,5
+2614,Química,Físico-Química,4.1,13
+2615,Português,Interpretação de Texto,4.0,14
+2616,História,Brasil Colônia,4.1,15
+2617,Geografia,Ambiental,3.1,13
+2618,Português,Semântica,4.0,13
+2619,Química,Físico-Química,2.6,2
+2620,Química,Eletroquímica,4.6,16
+2621,Português,Semântica,2.6,9
+2622,Biologia,Genética,3.4,8
+2623,Português,Gramática,2.3,8
+2624,Inglês,Vocabulary,1.4,7
+2625,Português,Redação,3.0,8
+2626,Inglês,Grammar,3.9,12
+2627,Biologia,Ecologia,1.5,2
+2628,Biologia,Botânica,2.8,10
+2629,Inglês,Reading,4.2,14
+2630,Física,Moderna,3.4,9
+2631,Biologia,Fisiologia Humana,3.9,14
+2632,Matemática,Estatística,3.7,12
+2633,Português,Gramática,4.1,15
+2634,Física,Ondulatória,4.1,14
+2635,Matemática,Trigonometria,2.9,8
+2636,Português,Gramática,2.5,9
+2637,Inglês,Grammar,4.1,16
+2638,História,Contemporânea,4.3,10
+2639,Química,Orgânica,2.7,7
+2640,Inglês,Reading,2.1,9
+2641,Física,Óptica,4.6,12
+2642,História,Brasil Colônia,2.2,10
+2643,Inglês,Vocabulary,2.0,4
+2644,Química,Físico-Química,3.1,5
+2645,História,Brasil Colônia,4.8,17
+2646,História,Brasil Império,3.9,10
+2647,Química,Físico-Química,3.4,10
+2648,Biologia,Citologia,4.4,12
+2649,Matemática,Geometria Espacial,2.5,11
+2650,Português,Semântica,3.5,10
+2651,Química,Estequiometria,4.4,13
+2652,Português,Semântica,3.6,11
+2653,Química,Inorgânica,4.6,28
+2654,Biologia,Ecologia,1.8,7
+2655,Física,Ondulatória,1.8,7
+2656,Matemática,Combinatória,4.0,16
+2657,Biologia,Evolução,1.8,6
+2658,Física,Termodinâmica,3.0,11
+2659,Física,Moderna,1.2,2
+2660,Biologia,Ecologia,4.2,15
+2661,Biologia,Genética,3.8,9
+2662,História,Brasil República,2.1,9
+2663,Física,Dinâmica,3.1,8
+2664,Biologia,Botânica,4.0,10
+2665,Matemática,Geometria Espacial,4.2,13
+2666,Física,Óptica,1.3,5
+2667,Biologia,Botânica,2.9,10
+2668,Português,Gramática,3.9,14
+2669,Biologia,Botânica,4.2,13
+2670,Matemática,Geometria Espacial,4.0,13
+2671,Química,Orgânica,3.0,12
+2672,História,Brasil Colônia,4.5,13
+2673,História,Moderna,2.8,7
+2674,Inglês,Reading,2.3,7
+2675,Inglês,Reading,1.7,8
+2676,História,Antiga,4.7,17
+2677,Química,Físico-Química,4.1,11
+2678,História,Brasil República,2.2,7
+2679,Física,Ondulatória,2.2,8
+2680,Química,Orgânica,1.6,8
+2681,Química,Físico-Química,3.4,12
+2682,Inglês,Vocabulary,3.4,13
+2683,História,Medieval,4.7,18
+2684,História,Brasil Colônia,1.6,4
+2685,Geografia,Cartografia,2.2,10
+2686,Português,Gramática,4.0,13
+2687,Geografia,Humana,4.9,12
+2688,Biologia,Genética,3.6,14
+2689,Geografia,Física,2.3,6
+2690,Biologia,Genética,3.5,10
+2691,Física,Cinemática,2.0,7
+2692,Inglês,Reading,4.1,15
+2693,Inglês,Reading,2.1,7
+2694,Matemática,Álgebra,1.2,5
+2695,Geografia,Cartografia,4.7,13
+2696,Física,Termodinâmica,4.9,18
+2697,Química,Físico-Química,3.4,12
+2698,Física,Óptica,2.0,10
+2699,História,Brasil República,3.1,7
+2700,Química,Atomística,4.5,16
+2701,Geografia,Geopolítica,4.6,12
+2702,Química,Orgânica,2.9,8
+2703,Biologia,Evolução,4.9,16
+2704,Matemática,Geometria Plana,1.5,5
+2705,Inglês,Reading,4.3,14
+2706,Geografia,Física,3.3,11
+2707,Geografia,Ambiental,3.0,12
+2708,Física,Ondulatória,1.3,5
+2709,Física,Eletromagnetismo,1.6,8
+2710,Física,Eletromagnetismo,4.7,13
+2711,Física,Moderna,3.7,12
+2712,Inglês,Vocabulary,1.6,3
+2713,Geografia,Cartografia,3.1,13
+2714,Português,Gramática,2.6,9
+2715,Português,Gramática,1.0,2
+2716,História,Contemporânea,1.9,5
+2717,Inglês,Vocabulary,3.7,13
+2718,Geografia,Ambiental,1.6,3
+2719,História,Medieval,1.4,8
+2720,Matemática,Combinatória,1.5,2
+2721,Geografia,Geopolítica,4.7,13
+2722,História,Medieval,2.7,7
+2723,Geografia,Física,1.5,5
+2724,Física,Moderna,4.8,30
+2725,Matemática,Trigonometria,2.8,12
+2726,Português,Redação,4.3,11
+2727,Física,Dinâmica,4.0,13
+2728,Geografia,Geopolítica,2.7,6
+2729,Geografia,Cartografia,2.0,7
+2730,Matemática,Álgebra,2.5,11
+2731,Física,Termodinâmica,2.4,5
+2732,Português,Interpretação de Texto,1.9,8
+2733,Português,Semântica,1.1,6
+2734,Geografia,Física,1.6,6
+2735,Matemática,Geometria Plana,3.1,10
+2736,Matemática,Álgebra,3.4,13
+2737,História,Brasil Colônia,3.5,11
+2738,Química,Físico-Química,4.7,17
+2739,Química,Orgânica,4.5,12
+2740,Matemática,Trigonometria,1.8,5
+2741,História,Brasil República,2.3,6
+2742,Matemática,Trigonometria,1.1,4
+2743,Matemática,Cálculo,2.5,9
+2744,Química,Físico-Química,1.4,3
+2745,Física,Óptica,5.0,16
+2746,Inglês,Grammar,4.4,12
+2747,Matemática,Geometria Espacial,2.9,8
+2748,Química,Orgânica,3.6,12
+2749,Física,Óptica,3.0,11
+2750,Biologia,Genética,1.9,4
+2751,Biologia,Evolução,1.3,4
+2752,História,Brasil República,1.4,3
+2753,História,Brasil Colônia,3.8,13
+2754,História,Contemporânea,4.6,13
+2755,Química,Estequiometria,3.9,14
+2756,Português,Gramática,4.2,10
+2757,Química,Eletroquímica,1.1,2
+2758,Português,Interpretação de Texto,1.0,7
+2759,Geografia,Humana,3.5,12
+2760,Português,Semântica,5.0,15
+2761,Inglês,Reading,4.0,14
+2762,Geografia,Geopolítica,5.0,15
+2763,Inglês,Vocabulary,2.8,12
+2764,Geografia,Ambiental,2.1,7
+2765,Matemática,Cálculo,1.5,5
+2766,Física,Cinemática,3.2,13
+2767,Geografia,Geopolítica,2.8,6
+2768,Química,Inorgânica,4.3,14
+2769,Biologia,Genética,4.4,11
+2770,Biologia,Evolução,4.0,16
+2771,Química,Estequiometria,4.4,17
+2772,Geografia,Ambiental,1.9,7
+2773,Química,Orgânica,1.6,7
+2774,Biologia,Evolução,1.6,6
+2775,Português,Literatura Brasileira,2.1,7
+2776,História,Brasil Império,4.6,14
+2777,Inglês,Grammar,1.5,2
+2778,Física,Termodinâmica,3.8,10
+2779,Física,Cinemática,4.0,13
+2780,Química,Físico-Química,2.6,8
+2781,Português,Redação,1.8,3
+2782,Biologia,Ecologia,1.6,7
+2783,Química,Físico-Química,2.8,12
+2784,Geografia,Física,3.5,12
+2785,Física,Moderna,3.5,13
+2786,Inglês,Grammar,4.3,14
+2787,Inglês,Reading,1.3,6
+2788,Geografia,Geopolítica,4.8,12
+2789,Inglês,Grammar,3.3,12
+2790,Inglês,Grammar,1.9,8
+2791,Geografia,Humana,4.5,17
+2792,Português,Semântica,1.2,7
+2793,História,Contemporânea,3.9,11
+2794,Geografia,Cartografia,3.7,11
+2795,Física,Cinemática,1.4,3
+2796,Inglês,Reading,3.4,8
+2797,Inglês,Vocabulary,3.4,12
+2798,Português,Gramática,3.4,14
+2799,Física,Eletromagnetismo,1.4,3
+2800,Geografia,Ambiental,3.7,12
+2801,Português,Gramática,2.4,11
+2802,Inglês,Vocabulary,4.5,8
+2803,Matemática,Geometria Plana,3.3,7
+2804,História,Brasil Império,4.2,16
+2805,História,Brasil Colônia,4.3,11
+2806,História,Brasil Império,4.1,15
+2807,História,Contemporânea,4.2,16
+2808,Geografia,Cartografia,4.0,11
+2809,Inglês,Reading,2.3,9
+2810,Biologia,Ecologia,4.3,15
+2811,Física,Ondulatória,2.6,10
+2812,Química,Inorgânica,1.8,6
+2813,Geografia,Geopolítica,4.2,16
+2814,Química,Físico-Química,2.3,8
+2815,História,Brasil República,3.8,15
+2816,Química,Inorgânica,3.5,8
+2817,Física,Ondulatória,3.4,11
+2818,História,Medieval,3.9,12
+2819,Química,Inorgânica,1.4,8
+2820,História,Brasil República,3.3,8
+2821,Inglês,Reading,2.0,6
+2822,Matemática,Trigonometria,1.9,4
+2823,Biologia,Genética,2.8,7
+2824,Matemática,Geometria Espacial,2.0,1
+2825,Português,Redação,3.2,10
+2826,Química,Estequiometria,3.3,10
+2827,História,Moderna,4.2,16
+2828,História,Brasil Império,2.5,6
+2829,Geografia,Ambiental,2.4,6
+2830,Geografia,Humana,4.2,10
+2831,Inglês,Vocabulary,2.3,8
+2832,Biologia,Evolução,2.4,9
+2833,Biologia,Fisiologia Humana,2.1,7
+2834,Inglês,Grammar,3.4,9
+2835,Matemática,Cálculo,2.8,8
+2836,Inglês,Vocabulary,1.6,2
+2837,História,Brasil República,2.0,4
+2838,Inglês,Grammar,3.8,12
+2839,Biologia,Evolução,2.8,11
+2840,História,Brasil Colônia,1.9,7
+2841,Português,Literatura Brasileira,4.1,14
+2842,Geografia,Física,4.9,18
+2843,Geografia,Ambiental,1.5,6
+2844,Física,Eletromagnetismo,2.7,7
+2845,Biologia,Botânica,4.1,16
+2846,Química,Atomística,3.6,8
+2847,Geografia,Física,1.4,7
+2848,Português,Semântica,2.5,11
+2849,Geografia,Humana,1.4,7
+2850,Português,Interpretação de Texto,3.0,10
+2851,Biologia,Genética,2.4,5
+2852,Geografia,Cartografia,4.0,10
+2853,Matemática,Cálculo,1.2,2
+2854,Matemática,Cálculo,1.1,3
+2855,Matemática,Combinatória,4.6,17
+2856,Física,Dinâmica,1.8,4
+2857,Biologia,Ecologia,1.4,3
+2858,Geografia,Ambiental,1.7,9
+2859,Química,Estequiometria,1.6,2
+2860,Matemática,Cálculo,4.6,11
+2861,História,Brasil Colônia,1.4,6
+2862,Química,Atomística,3.0,11
+2863,Geografia,Cartografia,4.7,15
+2864,Inglês,Reading,3.7,10
+2865,Geografia,Humana,2.0,5
+2866,Português,Gramática,2.4,8
+2867,Física,Moderna,3.1,9
+2868,Português,Redação,3.6,9
+2869,Inglês,Reading,2.2,7
+2870,Português,Semântica,1.3,18
+2871,Inglês,Vocabulary,2.6,11
+2872,História,Contemporânea,3.7,15
+2873,Matemática,Geometria Plana,4.8,16
+2874,Química,Eletroquímica,2.3,16
+2875,História,Brasil Império,1.8,3
+2876,Português,Redação,3.1,9
+2877,Matemática,Geometria Plana,1.4,3
+2878,Geografia,Física,3.9,13
+2879,Matemática,Álgebra,4.7,17
+2880,Física,Termodinâmica,1.0,7
+2881,Geografia,Humana,4.9,14
+2882,Português,Gramática,1.6,6
+2883,História,Brasil Império,3.7,14
+2884,História,Medieval,4.8,14
+2885,Português,Gramática,2.7,8
+2886,Biologia,Fisiologia Humana,2.0,4
+2887,Inglês,Reading,3.7,14
+2888,Física,Cinemática,1.6,2
+2889,Química,Estequiometria,2.3,6
+2890,Português,Interpretação de Texto,3.1,11
+2891,História,Antiga,4.0,11
+2892,Física,Eletromagnetismo,4.4,15
+2893,Matemática,Trigonometria,2.9,6
+2894,Português,Literatura Brasileira,1.3,2
+2895,Biologia,Fisiologia Humana,3.5,9
+2896,Inglês,Vocabulary,4.1,14
+2897,Biologia,Genética,3.9,23
+2898,Geografia,Geopolítica,4.7,13
+2899,Matemática,Trigonometria,2.5,9
+2900,Física,Dinâmica,1.7,8
+2901,Inglês,Reading,4.5,12
+2902,História,Brasil República,1.6,4
+2903,Matemática,Álgebra,3.7,13
+2904,Matemática,Cálculo,3.9,11
+2905,Geografia,Física,1.6,3
+2906,Matemática,Trigonometria,1.0,4
+2907,Física,Moderna,1.9,7
+2908,Física,Cinemática,3.6,12
+2909,Português,Interpretação de Texto,3.7,14
+2910,Biologia,Evolução,3.0,12
+2911,Inglês,Grammar,4.7,16
+2912,Geografia,Humana,1.6,3
+2913,Português,Interpretação de Texto,4.5,11
+2914,Português,Interpretação de Texto,1.6,7
+2915,Biologia,Fisiologia Humana,1.5,3
+2916,Português,Semântica,4.5,14
+2917,Inglês,Grammar,2.9,11
+2918,Português,Literatura Brasileira,3.9,10
+2919,Biologia,Botânica,1.8,8
+2920,Geografia,Cartografia,3.2,10
+2921,Geografia,Geopolítica,1.9,3
+2922,Inglês,Grammar,4.6,17
+2923,Português,Gramática,1.8,4
+2924,Português,Redação,2.7,6
+2925,Biologia,Fisiologia Humana,3.3,12
+2926,Química,Eletroquímica,2.6,6
+2927,Química,Inorgânica,2.3,9
+2928,Química,Inorgânica,2.3,8
+2929,Matemática,Estatística,1.4,2
+2930,Matemática,Combinatória,4.5,11
+2931,Geografia,Geopolítica,1.8,4
+2932,História,Contemporânea,1.3,3
+2933,Inglês,Grammar,2.4,7
+2934,Física,Moderna,3.2,8
+2935,Química,Inorgânica,1.5,5
+2936,Química,Estequiometria,3.2,9
+2937,Biologia,Citologia,3.7,12
+2938,Física,Moderna,1.2,4
+2939,Português,Semântica,1.7,1
+2940,Química,Inorgânica,4.6,16
+2941,Geografia,Geopolítica,5.0,13
+2942,Química,Físico-Química,3.5,9
+2943,Física,Moderna,4.8,17
+2944,Geografia,Geopolítica,3.8,9
+2945,Geografia,Ambiental,4.9,16
+2946,Português,Literatura Brasileira,2.5,9
+2947,História,Brasil República,4.6,10
+2948,Matemática,Estatística,2.0,7
+2949,Português,Interpretação de Texto,1.2,7
+2950,Inglês,Vocabulary,1.3,2
+2951,Matemática,Estatística,3.3,8
+2952,Inglês,Grammar,2.6,7
+2953,Português,Interpretação de Texto,2.5,11
+2954,Português,Semântica,3.8,11
+2955,História,Brasil República,1.8,3
+2956,Inglês,Vocabulary,1.3,3
+2957,Física,Cinemática,4.2,10
+2958,Biologia,Citologia,1.7,7
+2959,Biologia,Citologia,4.5,28
+2960,Física,Dinâmica,3.3,10
+2961,Geografia,Física,3.5,9
+2962,Biologia,Evolução,4.7,17
+2963,Física,Cinemática,2.7,7
+2964,Matemática,Estatística,1.3,5
+2965,Biologia,Fisiologia Humana,4.3,13
+2966,Química,Inorgânica,2.2,10
+2967,Matemática,Trigonometria,1.7,18
+2968,História,Medieval,4.5,12
+2969,Física,Ondulatória,4.0,16
+2970,Geografia,Humana,1.6,6
+2971,História,Brasil República,2.6,6
+2972,Português,Interpretação de Texto,4.3,14
+2973,Matemática,Estatística,4.6,13
+2974,Química,Atomística,1.2,6
+2975,Matemática,Cálculo,4.0,15
+2976,Inglês,Reading,4.9,14
+2977,Geografia,Ambiental,3.7,11
+2978,Geografia,Cartografia,2.4,7
+2979,Inglês,Grammar,4.1,15
+2980,Biologia,Genética,3.3,4
+2981,Inglês,Grammar,2.3,7
+2982,Inglês,Grammar,2.8,12
+2983,Português,Semântica,4.8,18
+2984,Geografia,Cartografia,5.0,16
+2985,Geografia,Física,2.7,7
+2986,Química,Estequiometria,4.8,12
+2987,Português,Semântica,1.6,2
+2988,Inglês,Grammar,1.6,8
+2989,História,Medieval,1.8,6
+2990,Português,Semântica,4.8,17
+2991,Matemática,Geometria Espacial,4.8,14
+2992,Inglês,Vocabulary,2.2,7
+2993,Biologia,Fisiologia Humana,3.0,12
+2994,Química,Orgânica,3.5,11
+2995,Física,Eletromagnetismo,1.5,7
+2996,Geografia,Humana,2.5,5
+2997,Matemática,Trigonometria,2.5,7
+2998,Biologia,Ecologia,3.5,11
+2999,História,Brasil República,2.4,10
+3000,Biologia,Genética,4.9,16
+3001,Biologia,Evolução,3.4,14
+3002,Biologia,Fisiologia Humana,3.3,9
+3003,Física,Óptica,4.0,10
+3004,Inglês,Grammar,3.4,13
+3005,História,Antiga,2.8,12
+3006,História,Moderna,1.6,2
+3007,Inglês,Reading,1.9,1
+3008,Química,Orgânica,4.8,14
+3009,Biologia,Evolução,1.8,7
+3010,Física,Termodinâmica,3.9,10
+3011,História,Medieval,4.2,16
+3012,Matemática,Geometria Espacial,2.0,4
+3013,Matemática,Estatística,3.6,10
+3014,Inglês,Reading,2.8,7
+3015,Inglês,Grammar,1.4,4
+3016,Biologia,Evolução,3.4,12
+3017,Química,Orgânica,4.8,18
+3018,Geografia,Ambiental,2.9,12
+3019,Português,Redação,1.1,3
+3020,Português,Literatura Brasileira,2.3,4
+3021,História,Brasil Colônia,3.3,11
+3022,Matemática,Estatística,3.9,9
+3023,Física,Dinâmica,1.6,7
+3024,Biologia,Citologia,4.0,12
+3025,Física,Óptica,2.4,8
+3026,Matemática,Cálculo,2.7,11
+3027,Química,Estequiometria,4.3,13
+3028,Química,Atomística,4.1,11
+3029,Biologia,Citologia,3.6,8
+3030,Biologia,Fisiologia Humana,1.2,2
+3031,Química,Físico-Química,3.0,13
+3032,Português,Gramática,3.0,7
+3033,Português,Redação,1.3,2
+3034,Biologia,Genética,3.3,28
+3035,Geografia,Ambiental,4.6,12
+3036,Química,Estequiometria,1.0,5
+3037,História,Brasil Colônia,3.2,8
+3038,Biologia,Botânica,2.0,6
+3039,Português,Gramática,3.6,11
+3040,Português,Literatura Brasileira,1.7,18
+3041,Biologia,Botânica,3.9,14
+3042,Biologia,Botânica,4.3,10
+3043,Biologia,Botânica,4.6,12
+3044,Matemática,Geometria Espacial,1.0,7
+3045,Geografia,Humana,3.0,12
+3046,Geografia,Cartografia,4.9,13
+3047,Inglês,Grammar,3.2,12
+3048,Biologia,Citologia,3.5,14
+3049,Matemática,Cálculo,1.2,1
+3050,História,Brasil Império,2.5,6
+3051,Física,Cinemática,2.5,8
+3052,Geografia,Física,2.1,6
+3053,Matemática,Álgebra,2.2,10
+3054,Biologia,Citologia,4.7,17
+3055,Matemática,Trigonometria,1.7,8
+3056,Biologia,Fisiologia Humana,4.5,15
+3057,História,Brasil Colônia,1.1,2
+3058,Química,Físico-Química,1.3,2
+3059,Matemática,Trigonometria,2.7,7
+3060,Matemática,Cálculo,4.6,17
+3061,História,Moderna,2.1,10
+3062,História,Antiga,3.7,10
+3063,Biologia,Evolução,2.8,27
+3064,Português,Redação,4.8,13
+3065,Matemática,Geometria Espacial,2.5,8
+3066,Inglês,Vocabulary,1.7,5
+3067,Química,Orgânica,3.9,10
+3068,Português,Interpretação de Texto,2.9,8
+3069,Química,Eletroquímica,4.0,14
+3070,Português,Interpretação de Texto,4.8,14
+3071,Química,Orgânica,4.7,15
+3072,Química,Atomística,2.4,10
+3073,Química,Estequiometria,2.4,10
+3074,Química,Estequiometria,1.6,3
+3075,Português,Gramática,4.3,14
+3076,Matemática,Cálculo,1.4,17
+3077,Geografia,Cartografia,1.5,8
+3078,Geografia,Ambiental,4.7,18
+3079,Português,Literatura Brasileira,3.3,12
+3080,Física,Dinâmica,3.6,14
+3081,Biologia,Evolução,1.0,5
+3082,Física,Óptica,1.6,4
+3083,Biologia,Fisiologia Humana,2.2,9
+3084,Física,Moderna,1.8,3
+3085,Biologia,Genética,4.3,10
+3086,História,Brasil Império,4.8,14
+3087,Português,Gramática,3.8,12
+3088,Geografia,Humana,2.2,7
+3089,Matemática,Estatística,3.0,5
+3090,Matemática,Geometria Espacial,3.8,12
+3091,Física,Óptica,3.8,11
+3092,Inglês,Reading,2.5,11
+3093,Física,Óptica,2.0,5
+3094,Física,Óptica,2.5,9
+3095,Inglês,Reading,2.3,9
+3096,Inglês,Reading,3.5,13
+3097,Química,Estequiometria,4.5,15
+3098,Inglês,Reading,3.0,12
+3099,Português,Redação,3.6,28
+3100,Inglês,Reading,4.6,12
+3101,Matemática,Geometria Espacial,3.4,13
+3102,Química,Atomística,1.8,3
+3103,Português,Literatura Brasileira,4.1,25
+3104,Geografia,Ambiental,4.4,14
+3105,Física,Cinemática,1.7,7
+3106,Matemática,Trigonometria,3.0,10
+3107,Matemática,Estatística,3.1,12
+3108,Física,Óptica,2.9,10
+3109,Português,Gramática,1.3,6
+3110,Geografia,Cartografia,2.6,6
+3111,Física,Cinemática,1.6,7
+3112,Biologia,Fisiologia Humana,3.6,12
+3113,História,Brasil Império,1.3,2
+3114,Português,Gramática,3.2,8
+3115,História,Medieval,4.0,12
+3116,Matemática,Cálculo,4.2,15
+3117,História,Brasil República,3.1,13
+3118,Química,Orgânica,4.7,18
+3119,Biologia,Genética,3.7,10
+3120,Física,Dinâmica,2.6,9
+3121,Física,Dinâmica,3.7,10
+3122,Física,Óptica,3.1,11
+3123,Química,Físico-Química,3.5,13
+3124,Geografia,Humana,4.3,16
+3125,Português,Gramática,4.5,11
+3126,Biologia,Evolução,3.9,12
+3127,Biologia,Evolução,4.6,17
+3128,Português,Literatura Brasileira,2.0,7
+3129,Física,Óptica,3.4,12
+3130,Física,Ondulatória,4.6,16
+3131,Matemática,Geometria Espacial,2.1,9
+3132,Geografia,Geopolítica,4.3,12
+3133,Inglês,Vocabulary,3.0,13
+3134,Química,Inorgânica,2.3,6
+3135,Física,Termodinâmica,3.5,14
+3136,História,Brasil República,3.1,9
+3137,Biologia,Botânica,1.8,4
+3138,Geografia,Ambiental,3.7,13
+3139,Português,Literatura Brasileira,4.1,11
+3140,História,Medieval,3.7,13
+3141,Geografia,Humana,4.2,11
+3142,Física,Ondulatória,3.9,10
+3143,Biologia,Botânica,4.2,11
+3144,Inglês,Grammar,2.0,6
+3145,Inglês,Vocabulary,2.4,5
+3146,História,Antiga,4.9,15
+3147,Matemática,Álgebra,1.8,6
+3148,Inglês,Vocabulary,3.3,11
+3149,Português,Literatura Brasileira,2.1,9
+3150,Inglês,Vocabulary,1.4,4
+3151,Física,Dinâmica,1.7,9
+3152,Matemática,Álgebra,4.4,15
+3153,História,Medieval,4.1,15
+3154,Português,Literatura Brasileira,1.2,2
+3155,Matemática,Álgebra,2.4,7
+3156,História,Brasil Império,2.0,8
+3157,História,Brasil República,2.4,5
+3158,Geografia,Humana,1.7,6
+3159,Biologia,Botânica,3.5,8
+3160,História,Contemporânea,2.9,12
+3161,Português,Literatura Brasileira,2.0,5
+3162,Biologia,Ecologia,1.4,4
+3163,Português,Redação,4.4,14
+3164,Biologia,Genética,1.4,7
+3165,Inglês,Grammar,1.6,8
+3166,Português,Gramática,3.2,12
+3167,Inglês,Grammar,4.2,12
+3168,Matemática,Trigonometria,3.0,10
+3169,Biologia,Ecologia,1.6,8
+3170,Português,Literatura Brasileira,4.2,12
+3171,Geografia,Cartografia,2.1,5
+3172,Português,Redação,4.5,16
+3173,Biologia,Evolução,3.8,15
+3174,Matemática,Trigonometria,3.3,7
+3175,Inglês,Grammar,3.9,9
+3176,Português,Interpretação de Texto,2.4,7
+3177,Inglês,Reading,1.7,8
+3178,Biologia,Citologia,4.9,18
+3179,Biologia,Citologia,3.8,13
+3180,Matemática,Geometria Espacial,1.3,4
+3181,Química,Orgânica,1.6,8
+3182,Química,Físico-Química,2.6,5
+3183,Biologia,Citologia,3.5,14
+3184,Química,Orgânica,3.2,8
+3185,Biologia,Citologia,4.2,15
+3186,Física,Cinemática,4.1,16
+3187,Química,Estequiometria,1.5,8
+3188,Geografia,Humana,1.6,3
+3189,Matemática,Geometria Espacial,4.4,15
+3190,Matemática,Cálculo,3.0,8
+3191,Química,Atomística,2.9,7
+3192,Geografia,Ambiental,4.1,13
+3193,Química,Eletroquímica,1.4,7
+3194,Matemática,Álgebra,4.9,14
+3195,Inglês,Vocabulary,4.2,13
+3196,Português,Redação,2.9,10
+3197,Geografia,Ambiental,3.3,10
+3198,História,Brasil República,4.7,18
+3199,Inglês,Reading,4.2,14
+3200,Geografia,Geopolítica,1.5,5
+3201,Português,Interpretação de Texto,2.5,6
+3202,Matemática,Geometria Plana,2.7,7
+3203,Inglês,Vocabulary,4.2,15
+3204,História,Brasil Império,2.0,23
+3205,História,Brasil Império,2.6,7
+3206,Biologia,Fisiologia Humana,1.5,3
+3207,Química,Eletroquímica,4.7,12
+3208,Geografia,Cartografia,4.6,17
+3209,Português,Gramática,3.4,12
+3210,Inglês,Reading,4.7,15
+3211,Física,Termodinâmica,2.3,8
+3212,Química,Atomística,5.0,18
+3213,História,Antiga,1.1,5
+3214,Geografia,Física,2.8,10
+3215,Inglês,Grammar,3.5,8
+3216,Física,Óptica,4.0,14
+3217,Matemática,Estatística,4.1,14
+3218,Física,Dinâmica,4.7,17
+3219,Inglês,Vocabulary,3.9,10
+3220,Biologia,Citologia,3.5,9
+3221,Matemática,Álgebra,2.2,5
+3222,Português,Redação,1.8,4
+3223,Português,Redação,3.3,8
+3224,Matemática,Álgebra,1.7,3
+3225,Biologia,Fisiologia Humana,4.7,17
+3226,Inglês,Reading,1.3,3
+3227,Geografia,Cartografia,4.8,16
+3228,Geografia,Geopolítica,3.1,13
+3229,História,Contemporânea,3.4,9
+3230,Matemática,Trigonometria,2.9,10
+3231,História,Brasil Império,4.9,12
+3232,História,Contemporânea,4.5,12
+3233,Biologia,Genética,4.5,12
+3234,Física,Ondulatória,3.2,12
+3235,Português,Semântica,3.3,8
+3236,Química,Estequiometria,2.9,6
+3237,Geografia,Física,2.7,7
+3238,Português,Semântica,4.9,14
+3239,Física,Termodinâmica,1.9,6
+3240,Português,Redação,1.9,4
+3241,História,Medieval,3.4,9
+3242,Geografia,Ambiental,2.5,5
+3243,Física,Moderna,3.9,12
+3244,Inglês,Reading,4.7,17
+3245,Química,Atomística,1.0,2
+3246,História,Contemporânea,2.5,11
+3247,Geografia,Ambiental,1.4,4
+3248,Geografia,Física,1.2,2
+3249,Matemática,Combinatória,4.7,15
+3250,Inglês,Reading,2.1,10
+3251,Física,Moderna,3.5,11
+3252,História,Medieval,3.6,8
+3253,Inglês,Vocabulary,1.9,6
+3254,Geografia,Humana,3.8,11
+3255,História,Brasil Colônia,3.6,11
+3256,Biologia,Ecologia,3.7,12
+3257,Química,Eletroquímica,1.6,6
+3258,Física,Dinâmica,1.4,3
+3259,Física,Termodinâmica,4.1,14
+3260,Biologia,Evolução,2.9,11
+3261,História,Moderna,1.8,3
+3262,Geografia,Humana,2.6,5
+3263,Matemática,Combinatória,4.4,12
+3264,Inglês,Grammar,3.6,13
+3265,Geografia,Cartografia,1.5,7
+3266,Português,Interpretação de Texto,4.8,18
+3267,Química,Atomística,4.5,13
+3268,Português,Gramática,2.9,7
+3269,Matemática,Geometria Plana,2.0,6
+3270,Biologia,Evolução,1.7,25
+3271,Geografia,Geopolítica,4.2,10
+3272,Física,Óptica,4.1,11
+3273,Biologia,Genética,2.3,9
+3274,História,Brasil República,2.6,9
+3275,Biologia,Fisiologia Humana,4.1,10
+3276,Inglês,Vocabulary,3.4,14
+3277,Inglês,Reading,2.1,23
+3278,Português,Semântica,4.7,13
+3279,Geografia,Ambiental,1.9,8
+3280,Matemática,Combinatória,1.9,5
+3281,Português,Interpretação de Texto,1.0,2
+3282,Inglês,Reading,2.6,5
+3283,História,Brasil República,4.3,13
+3284,Matemática,Cálculo,4.5,17
+3285,História,Contemporânea,3.4,12
+3286,Biologia,Botânica,3.6,8
+3287,Biologia,Fisiologia Humana,3.2,11
+3288,Biologia,Citologia,3.7,14
+3289,Biologia,Fisiologia Humana,1.1,6
+3290,História,Medieval,3.6,11
+3291,Química,Inorgânica,1.8,3
+3292,História,Brasil Colônia,5.0,18
+3293,Física,Cinemática,4.9,18
+3294,Matemática,Geometria Plana,1.3,7
+3295,História,Medieval,1.5,2
+3296,Inglês,Vocabulary,1.5,4
+3297,Física,Termodinâmica,4.2,13
+3298,Biologia,Botânica,4.8,16
+3299,Física,Cinemática,1.6,6
+3300,Biologia,Fisiologia Humana,5.0,15
+3301,Matemática,Geometria Espacial,4.4,14
+3302,Física,Moderna,3.0,8
+3303,Química,Físico-Química,3.5,12
+3304,Física,Ondulatória,1.9,9
+3305,Inglês,Vocabulary,4.1,15
+3306,Geografia,Humana,4.6,23
+3307,Geografia,Física,5.0,18
+3308,Geografia,Cartografia,4.0,7
+3309,Física,Dinâmica,4.4,15
+3310,Física,Eletromagnetismo,1.5,6
+3311,Geografia,Física,3.5,7
+3312,História,Brasil República,4.3,16
+3313,Física,Cinemática,4.8,13
+3314,História,Contemporânea,2.5,7
+3315,Português,Gramática,4.9,15
+3316,História,Moderna,2.2,2
+3317,Química,Eletroquímica,1.4,6
+3318,Física,Termodinâmica,1.5,8
+3319,Geografia,Geopolítica,4.6,12
+3320,Física,Dinâmica,1.2,7
+3321,Física,Moderna,3.9,15
+3322,História,Brasil República,3.6,11
+3323,Matemática,Geometria Espacial,4.7,17
+3324,Geografia,Geopolítica,4.0,10
+3325,Matemática,Álgebra,4.6,8
+3326,Física,Termodinâmica,1.6,8
+3327,Biologia,Citologia,2.3,8
+3328,Física,Ondulatória,4.2,15
+3329,Química,Físico-Química,4.0,15
+3330,Biologia,Fisiologia Humana,1.0,3
+3331,Biologia,Fisiologia Humana,3.2,8
+3332,Português,Literatura Brasileira,4.3,11
+3333,Português,Redação,2.6,7
+3334,Biologia,Botânica,4.4,14
+3335,História,Moderna,3.4,26
+3336,Biologia,Evolução,2.0,5
+3337,Física,Ondulatória,2.0,5
+3338,Biologia,Evolução,1.2,4
+3339,Química,Físico-Química,2.1,4
+3340,Biologia,Evolução,1.4,5
+3341,Física,Termodinâmica,1.8,8
+3342,Física,Moderna,2.5,8
+3343,História,Brasil Império,3.7,10
+3344,Biologia,Fisiologia Humana,2.4,11
+3345,Biologia,Fisiologia Humana,3.0,7
+3346,História,Antiga,2.7,12
+3347,Matemática,Estatística,2.8,9
+3348,Física,Termodinâmica,1.6,5
+3349,Matemática,Trigonometria,4.1,14
+3350,Inglês,Grammar,2.2,5
+3351,História,Contemporânea,2.9,7
+3352,Inglês,Reading,2.8,12
+3353,Biologia,Evolução,2.9,10
+3354,Química,Atomística,2.1,6
+3355,Física,Termodinâmica,4.4,13
+3356,Português,Gramática,1.3,2
+3357,Biologia,Ecologia,2.0,9
+3358,Química,Eletroquímica,3.0,8
+3359,Matemática,Geometria Espacial,4.1,13
+3360,Geografia,Física,2.9,11
+3361,História,Moderna,4.1,16
+3362,História,Brasil República,1.8,9
+3363,Geografia,Física,2.5,6
+3364,Geografia,Física,4.4,17
+3365,Biologia,Botânica,2.3,8
+3366,Matemática,Estatística,1.3,2
+3367,Biologia,Fisiologia Humana,4.5,14
+3368,Física,Cinemática,3.7,12
+3369,Química,Físico-Química,4.0,10
+3370,Matemática,Geometria Espacial,1.0,2
+3371,História,Moderna,3.4,9
+3372,Física,Termodinâmica,4.7,12
+3373,História,Contemporânea,3.4,14
+3374,Biologia,Citologia,2.9,7
+3375,Matemática,Combinatória,3.0,13
+3376,Português,Interpretação de Texto,1.4,3
+3377,História,Antiga,2.7,8
+3378,Inglês,Vocabulary,3.8,31
+3379,Matemática,Estatística,2.1,5
+3380,Biologia,Evolução,1.2,7
+3381,Biologia,Genética,1.5,7
+3382,Inglês,Reading,3.5,25
+3383,História,Contemporânea,3.7,9
+3384,Química,Inorgânica,2.5,5
+3385,Química,Eletroquímica,4.4,11
+3386,Química,Físico-Química,1.3,4
+3387,Biologia,Evolução,4.3,14
+3388,Geografia,Cartografia,1.6,6
+3389,Biologia,Fisiologia Humana,2.7,12
+3390,Inglês,Grammar,2.3,9
+3391,Matemática,Geometria Plana,2.6,9
+3392,Inglês,Reading,4.5,16
+3393,Química,Atomística,1.9,9
+3394,Física,Eletromagnetismo,2.9,10
+3395,Química,Atomística,3.1,8
+3396,Química,Físico-Química,4.6,15
+3397,Física,Dinâmica,3.2,11
+3398,Física,Termodinâmica,2.0,10
+3399,Química,Atomística,2.7,7
+3400,Química,Físico-Química,3.8,10
+3401,Inglês,Reading,2.7,6
+3402,Geografia,Cartografia,1.7,9
+3403,Geografia,Física,1.1,23
+3404,Matemática,Combinatória,4.2,9
+3405,Física,Cinemática,3.8,15
+3406,Física,Óptica,4.1,12
+3407,Matemática,Combinatória,3.5,8
+3408,Química,Orgânica,2.3,10
+3409,História,Contemporânea,2.2,8
+3410,Química,Estequiometria,3.7,11
+3411,Inglês,Vocabulary,4.6,12
+3412,História,Brasil República,3.5,5
+3413,Matemática,Cálculo,2.7,18
+3414,História,Medieval,2.5,5
+3415,Geografia,Ambiental,2.1,7
+3416,Física,Dinâmica,2.7,10
+3417,Biologia,Ecologia,2.5,4
+3418,Português,Gramática,3.2,7
+3419,Português,Literatura Brasileira,2.0,8
+3420,Inglês,Vocabulary,2.4,11
+3421,Química,Físico-Química,1.3,2
+3422,Física,Moderna,2.6,5
+3423,Matemática,Geometria Espacial,3.5,14
+3424,Química,Estequiometria,4.8,13
+3425,Biologia,Fisiologia Humana,3.9,14
+3426,Física,Óptica,2.1,4
+3427,Química,Eletroquímica,2.6,10
+3428,Química,Estequiometria,3.3,12
+3429,História,Brasil Império,2.2,3
+3430,Geografia,Ambiental,2.7,12
+3431,História,Antiga,2.8,4
+3432,Português,Literatura Brasileira,2.4,11
+3433,História,Contemporânea,4.5,17
+3434,Biologia,Evolução,3.7,14
+3435,Química,Orgânica,1.8,8
+3436,Matemática,Estatística,1.3,4
+3437,História,Contemporânea,2.2,10
+3438,Matemática,Combinatória,1.9,4
+3439,Química,Orgânica,2.3,7
+3440,Matemática,Estatística,3.8,25
+3441,Biologia,Genética,4.7,18
+3442,Geografia,Humana,4.3,12
+3443,Física,Óptica,3.9,15
+3444,Física,Cinemática,1.4,6
+3445,Inglês,Vocabulary,4.5,11
+3446,Biologia,Genética,3.4,9
+3447,Inglês,Reading,1.5,3
+3448,Matemática,Trigonometria,4.4,11
+3449,Inglês,Grammar,5.0,17
+3450,Português,Redação,3.9,9
+3451,Matemática,Geometria Plana,1.8,24
+3452,Física,Termodinâmica,4.1,11
+3453,Matemática,Geometria Plana,3.8,14
+3454,Inglês,Grammar,3.9,13
+3455,Física,Ondulatória,4.6,15
+3456,Biologia,Fisiologia Humana,2.5,6
+3457,Matemática,Álgebra,2.2,4
+3458,História,Antiga,3.2,10
+3459,Inglês,Grammar,4.4,17
+3460,Português,Literatura Brasileira,1.7,4
+3461,Química,Atomística,2.0,6
+3462,Português,Gramática,1.4,7
+3463,História,Medieval,3.1,12
+3464,Matemática,Combinatória,2.5,4
+3465,Inglês,Grammar,2.7,11
+3466,Matemática,Cálculo,3.8,10
+3467,Português,Gramática,4.8,18
+3468,Matemática,Cálculo,4.5,14
+3469,Física,Moderna,4.5,33
+3470,Inglês,Reading,2.3,4
+3471,Química,Físico-Química,2.0,4
+3472,Português,Redação,3.2,7
+3473,Inglês,Vocabulary,4.4,15
+3474,Química,Estequiometria,1.8,5
+3475,História,Moderna,4.9,14
+3476,Matemática,Combinatória,3.1,8
+3477,Geografia,Geopolítica,1.9,7
+3478,Química,Inorgânica,1.2,3
+3479,Física,Cinemática,1.4,7
+3480,Matemática,Cálculo,4.3,14
+3481,Física,Moderna,2.2,4
+3482,Inglês,Grammar,3.3,13
+3483,Português,Redação,3.3,13
+3484,História,Contemporânea,3.2,11
+3485,Inglês,Reading,4.6,15
+3486,Geografia,Ambiental,2.5,6
+3487,Química,Orgânica,3.3,13
+3488,História,Brasil República,3.5,9
+3489,Química,Físico-Química,1.4,8
+3490,Biologia,Ecologia,4.1,13
+3491,Português,Redação,3.2,10
+3492,Matemática,Cálculo,2.9,6
+3493,Inglês,Grammar,4.9,11
+3494,Biologia,Ecologia,3.2,8
+3495,Biologia,Ecologia,3.7,11
+3496,Biologia,Botânica,1.6,8
+3497,Matemática,Combinatória,4.3,10
+3498,Geografia,Cartografia,4.5,12
+3499,Português,Interpretação de Texto,1.1,7
+3500,Química,Inorgânica,3.4,13
+3501,Química,Inorgânica,3.6,12
+3502,Português,Redação,2.5,5
+3503,Biologia,Citologia,3.2,7
+3504,Química,Físico-Química,4.2,12
+3505,Física,Termodinâmica,4.4,14
+3506,Química,Físico-Química,3.4,14
+3507,História,Moderna,4.6,17
+3508,Química,Inorgânica,4.0,7
+3509,Português,Gramática,5.0,19
+3510,Português,Redação,1.8,4
+3511,Geografia,Física,1.2,5
+3512,Matemática,Cálculo,3.6,13
+3513,Física,Moderna,4.0,13
+3514,Química,Eletroquímica,3.1,10
+3515,Português,Literatura Brasileira,1.2,6
+3516,História,Brasil Colônia,1.1,4
+3517,História,Brasil Império,1.6,5
+3518,Química,Eletroquímica,2.6,10
+3519,Química,Estequiometria,1.5,21
+3520,Inglês,Grammar,4.7,16
+3521,Física,Moderna,4.1,10
+3522,Biologia,Genética,1.8,4
+3523,Geografia,Geopolítica,3.9,11
+3524,Português,Gramática,2.9,9
+3525,Matemática,Geometria Plana,4.4,12
+3526,Física,Cinemática,3.4,23
+3527,Português,Literatura Brasileira,4.3,12
+3528,Química,Inorgânica,3.0,9
+3529,Português,Gramática,1.8,8
+3530,História,Brasil Colônia,2.1,25
+3531,Geografia,Física,1.6,6
+3532,Matemática,Combinatória,1.4,2
+3533,Biologia,Fisiologia Humana,1.8,3
+3534,Português,Semântica,3.1,10
+3535,Inglês,Vocabulary,3.1,7
+3536,Matemática,Combinatória,1.6,5
+3537,Química,Atomística,3.5,11
+3538,Química,Estequiometria,3.2,10
+3539,Inglês,Reading,4.0,11
+3540,Biologia,Citologia,4.4,16
+3541,Geografia,Cartografia,1.1,7
+3542,Inglês,Vocabulary,1.1,5
+3543,Português,Semântica,3.7,12
+3544,Inglês,Vocabulary,1.2,4
+3545,Biologia,Fisiologia Humana,3.1,13
+3546,Matemática,Geometria Espacial,4.1,11
+3547,Física,Ondulatória,4.4,16
+3548,Geografia,Geopolítica,3.7,12
+3549,Geografia,Física,4.1,13
+3550,Física,Ondulatória,2.1,9
+3551,Física,Eletromagnetismo,3.6,8
+3552,Química,Orgânica,3.3,13
+3553,Matemática,Cálculo,3.4,10
+3554,Biologia,Fisiologia Humana,3.5,14
+3555,Matemática,Geometria Plana,1.5,8
+3556,Geografia,Física,4.8,13
+3557,Português,Redação,3.9,11
+3558,Química,Orgânica,4.5,16
+3559,Física,Ondulatória,1.3,6
+3560,Inglês,Reading,3.8,11
+3561,Química,Físico-Química,4.6,14
+3562,Inglês,Reading,3.2,8
+3563,Matemática,Cálculo,2.8,6
+3564,Física,Ondulatória,3.5,11
+3565,Inglês,Grammar,3.2,11
+3566,Português,Redação,3.0,13
+3567,Química,Orgânica,3.1,12
+3568,Matemática,Combinatória,3.6,12
+3569,Matemática,Trigonometria,3.6,14
+3570,Biologia,Ecologia,1.2,2
+3571,Geografia,Cartografia,2.5,10
+3572,Inglês,Vocabulary,1.2,2
+3573,História,Brasil República,1.7,9
+3574,Geografia,Geopolítica,2.0,7
+3575,Inglês,Vocabulary,2.6,11
+3576,História,Medieval,3.6,9
+3577,História,Contemporânea,2.6,11
+3578,Biologia,Botânica,4.8,12
+3579,Geografia,Cartografia,1.7,8
+3580,Geografia,Humana,3.1,10
+3581,Química,Orgânica,2.6,6
+3582,Português,Redação,1.9,5
+3583,Geografia,Física,1.9,7
+3584,Física,Eletromagnetismo,3.8,9
+3585,Inglês,Vocabulary,2.1,10
+3586,Geografia,Física,3.4,14
+3587,História,Contemporânea,2.0,4
+3588,Física,Moderna,1.5,5
+3589,Química,Atomística,1.8,5
+3590,Biologia,Ecologia,4.2,12
+3591,Biologia,Fisiologia Humana,2.2,7
+3592,Física,Termodinâmica,4.3,11
+3593,Química,Orgânica,3.5,11
+3594,Inglês,Vocabulary,4.4,12
+3595,Português,Semântica,4.4,10
+3596,Física,Termodinâmica,4.8,12
+3597,Geografia,Humana,2.8,6
+3598,Inglês,Vocabulary,1.2,2
+3599,Inglês,Reading,2.1,10
+3600,Geografia,Cartografia,1.7,5
+3601,Português,Semântica,1.2,7
+3602,Português,Semântica,3.2,13
+3603,Química,Físico-Química,3.0,9
+3604,História,Brasil República,3.5,11
+3605,Geografia,Geopolítica,4.2,12
+3606,Química,Estequiometria,1.5,2
+3607,Física,Moderna,3.8,9
+3608,Química,Atomística,4.5,9
+3609,Biologia,Botânica,3.6,9
+3610,Química,Eletroquímica,4.5,17
+3611,Física,Moderna,2.3,5
+3612,Matemática,Geometria Espacial,2.4,27
+3613,Português,Redação,4.0,12
+3614,História,Brasil Colônia,4.4,14
+3615,Português,Redação,3.5,9
+3616,Inglês,Vocabulary,5.0,16
+3617,Inglês,Vocabulary,4.8,13
+3618,Matemática,Geometria Plana,2.5,10
+3619,Química,Orgânica,2.2,4
+3620,Biologia,Genética,3.8,9
+3621,Química,Físico-Química,4.3,14
+3622,Química,Eletroquímica,1.0,2
+3623,Matemática,Trigonometria,4.0,14
+3624,Biologia,Fisiologia Humana,2.0,9
+3625,Inglês,Grammar,1.1,4
+3626,Português,Redação,3.8,10
+3627,Química,Orgânica,2.9,11
+3628,Geografia,Ambiental,3.5,11
+3629,Química,Estequiometria,4.8,16
+3630,Física,Eletromagnetismo,4.3,15
+3631,Inglês,Grammar,4.6,16
+3632,Física,Óptica,1.2,6
+3633,Inglês,Reading,3.6,11
+3634,Biologia,Genética,2.8,7
+3635,Química,Atomística,2.3,8
+3636,Biologia,Evolução,2.6,5
+3637,Português,Interpretação de Texto,3.6,13
+3638,História,Medieval,3.2,8
+3639,Geografia,Geopolítica,3.8,13
+3640,Biologia,Ecologia,3.2,10
+3641,Física,Óptica,3.9,14
+3642,Inglês,Reading,1.6,3
+3643,Matemática,Cálculo,2.3,8
+3644,Inglês,Vocabulary,3.9,12
+3645,Inglês,Reading,1.7,3
+3646,Química,Atomística,2.3,8
+3647,Inglês,Vocabulary,4.6,12
+3648,Inglês,Vocabulary,4.6,15
+3649,Biologia,Genética,1.6,8
+3650,Física,Dinâmica,4.2,16
+3651,Matemática,Cálculo,1.8,19
+3652,Inglês,Vocabulary,4.2,13
+3653,Inglês,Grammar,3.7,14
+3654,Geografia,Ambiental,2.4,9
+3655,Português,Gramática,4.2,16
+3656,Matemática,Geometria Plana,1.1,2
+3657,Português,Gramática,4.3,14
+3658,Geografia,Física,2.8,12
+3659,Química,Físico-Química,4.5,17
+3660,Física,Cinemática,4.1,11
+3661,Geografia,Física,1.4,4
+3662,Biologia,Citologia,3.4,8
+3663,Português,Semântica,1.3,4
+3664,Física,Eletromagnetismo,4.9,12
+3665,Química,Eletroquímica,1.6,2
+3666,Inglês,Grammar,2.9,6
+3667,Física,Eletromagnetismo,4.1,10
+3668,Física,Óptica,2.6,6
+3669,Matemática,Álgebra,3.5,25
+3670,Inglês,Reading,1.8,8
+3671,Biologia,Citologia,2.2,7
+3672,Geografia,Humana,3.1,10
+3673,História,Contemporânea,3.1,13
+3674,História,Medieval,1.4,8
+3675,Português,Redação,1.6,2
+3676,Geografia,Humana,1.6,3
+3677,Matemática,Combinatória,4.3,16
+3678,Geografia,Geopolítica,3.9,9
+3679,Matemática,Combinatória,4.7,16
+3680,Geografia,Humana,4.1,16
+3681,Matemática,Combinatória,1.4,2
+3682,Química,Orgânica,1.8,7
+3683,Geografia,Ambiental,2.5,6
+3684,Biologia,Citologia,2.0,9
+3685,Química,Atomística,1.6,2
+3686,Português,Gramática,2.4,6
+3687,Inglês,Grammar,1.2,2
+3688,Inglês,Vocabulary,3.9,12
+3689,Matemática,Trigonometria,1.9,5
+3690,Física,Termodinâmica,2.3,5
+3691,Matemática,Geometria Plana,3.8,9
+3692,Biologia,Citologia,1.5,5
+3693,Inglês,Vocabulary,4.7,14
+3694,Português,Interpretação de Texto,3.5,12
+3695,Geografia,Geopolítica,2.1,5
+3696,História,Brasil Império,4.4,17
+3697,História,Brasil Império,2.7,10
+3698,Matemática,Combinatória,1.5,2
+3699,Matemática,Geometria Plana,1.1,7
+3700,Português,Redação,1.9,5
+3701,Física,Óptica,1.6,6
+3702,Matemática,Cálculo,1.4,4
+3703,Inglês,Reading,1.6,19
+3704,Matemática,Trigonometria,1.3,4
+3705,Inglês,Reading,2.0,5
+3706,Geografia,Física,4.9,14
+3707,Geografia,Ambiental,4.8,13
+3708,Português,Literatura Brasileira,1.5,2
+3709,Português,Literatura Brasileira,2.4,10
+3710,Geografia,Cartografia,2.7,8
+3711,Inglês,Reading,1.8,5
+3712,Biologia,Evolução,4.2,14
+3713,Português,Literatura Brasileira,4.3,13
+3714,História,Contemporânea,2.7,12
+3715,Química,Atomística,2.4,6
+3716,Química,Eletroquímica,4.4,27
+3717,Português,Semântica,2.7,8
+3718,Matemática,Combinatória,1.3,4
+3719,Inglês,Vocabulary,2.9,6
+3720,Matemática,Estatística,3.6,12
+3721,Física,Moderna,3.9,15
+3722,História,Brasil República,1.0,6
+3723,Física,Termodinâmica,4.1,31
+3724,História,Moderna,4.3,13
+3725,Inglês,Vocabulary,1.9,6
+3726,Inglês,Vocabulary,1.5,6
+3727,História,Antiga,2.6,5
+3728,Química,Físico-Química,2.9,9
+3729,Inglês,Vocabulary,2.1,5
+3730,Geografia,Cartografia,1.7,7
+3731,História,Brasil República,3.3,11
+3732,Inglês,Reading,1.3,3
+3733,Química,Inorgânica,4.4,12
+3734,Matemática,Geometria Plana,2.9,12
+3735,Química,Atomística,1.4,3
+3736,Matemática,Estatística,4.2,10
+3737,Física,Dinâmica,2.5,9
+3738,Inglês,Reading,4.6,14
+3739,Matemática,Estatística,4.3,14
+3740,História,Moderna,3.0,13
+3741,Física,Eletromagnetismo,4.7,14
+3742,Química,Físico-Química,4.0,12
+3743,Biologia,Botânica,4.9,14
+3744,Inglês,Reading,3.2,7
+3745,História,Brasil República,1.2,4
+3746,Física,Moderna,4.4,14
+3747,Física,Termodinâmica,3.4,13
+3748,Física,Dinâmica,3.0,13
+3749,História,Contemporânea,1.7,7
+3750,Química,Inorgânica,3.9,14
+3751,Inglês,Vocabulary,3.5,12
+3752,Geografia,Humana,3.9,15
+3753,Física,Moderna,3.3,10
+3754,Matemática,Trigonometria,4.6,12
+3755,Inglês,Grammar,3.7,13
+3756,Biologia,Ecologia,3.9,15
+3757,Inglês,Vocabulary,4.2,15
+3758,Português,Literatura Brasileira,2.2,2
+3759,Português,Semântica,3.2,11
+3760,Português,Gramática,2.1,5
+3761,Física,Óptica,1.0,2
+3762,Português,Literatura Brasileira,1.6,6
+3763,Biologia,Evolução,2.6,6
+3764,Matemática,Cálculo,4.9,18
+3765,Biologia,Ecologia,3.1,11
+3766,Biologia,Botânica,1.2,3
+3767,Português,Semântica,1.6,6
+3768,Inglês,Vocabulary,3.3,11
+3769,Física,Cinemática,2.2,10
+3770,Física,Eletromagnetismo,4.6,12
+3771,Geografia,Ambiental,3.6,14
+3772,Biologia,Evolução,2.6,8
+3773,Português,Gramática,2.4,5
+3774,História,Brasil Colônia,3.2,9
+3775,Matemática,Geometria Plana,2.4,11
+3776,História,Brasil Império,1.6,2
+3777,Português,Interpretação de Texto,3.6,13
+3778,História,Brasil Colônia,1.1,4
+3779,Física,Óptica,4.0,15
+3780,Física,Moderna,3.1,11
+3781,Matemática,Cálculo,3.2,7
+3782,Português,Semântica,4.3,12
+3783,Física,Óptica,2.1,4
+3784,Biologia,Ecologia,3.5,13
+3785,Português,Interpretação de Texto,3.2,11
+3786,Biologia,Evolução,4.9,16
+3787,Inglês,Grammar,4.7,14
+3788,Física,Termodinâmica,2.4,7
+3789,Matemática,Álgebra,1.5,6
+3790,Química,Atomística,4.4,13
+3791,Biologia,Evolução,4.7,12
+3792,Geografia,Física,1.3,6
+3793,Matemática,Geometria Plana,4.3,16
+3794,Português,Literatura Brasileira,2.7,11
+3795,Química,Atomística,3.1,9
+3796,Matemática,Trigonometria,2.9,5
+3797,História,Brasil República,4.9,12
+3798,História,Brasil Império,5.0,15
+3799,Português,Semântica,3.0,13
+3800,Português,Interpretação de Texto,1.6,4
+3801,Geografia,Cartografia,4.5,14
+3802,Geografia,Ambiental,4.6,17
+3803,História,Contemporânea,2.3,10
+3804,Matemática,Trigonometria,1.5,4
+3805,História,Contemporânea,2.6,6
+3806,Química,Inorgânica,2.3,4
+3807,Português,Interpretação de Texto,3.4,8
+3808,Matemática,Estatística,4.7,18
+3809,Química,Atomística,1.7,9
+3810,Inglês,Grammar,4.9,17
+3811,Inglês,Grammar,2.6,9
+3812,Física,Óptica,1.1,3
+3813,Física,Cinemática,2.5,9
+3814,História,Brasil República,4.2,10
+3815,Matemática,Combinatória,4.6,11
+3816,Inglês,Vocabulary,3.1,12
+3817,Inglês,Vocabulary,1.5,3
+3818,Geografia,Cartografia,4.7,18
+3819,História,Brasil Império,1.5,8
+3820,História,Contemporânea,1.7,3
+3821,Química,Eletroquímica,1.4,3
+3822,História,Medieval,3.9,11
+3823,Biologia,Fisiologia Humana,2.4,8
+3824,Matemática,Trigonometria,3.2,12
+3825,Química,Orgânica,4.9,13
+3826,História,Medieval,1.5,8
+3827,Biologia,Botânica,2.3,10
+3828,História,Antiga,1.1,3
+3829,História,Moderna,2.5,7
+3830,Química,Físico-Química,4.4,12
+3831,Biologia,Genética,4.7,14
+3832,Inglês,Vocabulary,4.8,12
+3833,Inglês,Grammar,4.6,12
+3834,Biologia,Evolução,2.2,9
+3835,Química,Inorgânica,1.7,9
+3836,Português,Literatura Brasileira,4.3,12
+3837,Matemática,Estatística,3.2,7
+3838,Português,Literatura Brasileira,4.3,15
+3839,Biologia,Citologia,2.5,6
+3840,Geografia,Ambiental,3.0,11
+3841,Biologia,Ecologia,4.4,11
+3842,Matemática,Combinatória,4.7,17
+3843,Física,Eletromagnetismo,1.3,4
+3844,Inglês,Vocabulary,2.1,10
+3845,Português,Interpretação de Texto,5.0,15
+3846,Geografia,Geopolítica,2.0,8
+3847,Biologia,Botânica,4.5,14
+3848,Biologia,Fisiologia Humana,3.8,9
+3849,Geografia,Humana,3.6,12
+3850,Inglês,Vocabulary,3.0,11
+3851,Português,Redação,3.3,11
+3852,Química,Eletroquímica,3.4,10
+3853,Inglês,Vocabulary,3.8,9
+3854,História,Contemporânea,2.8,9
+3855,Biologia,Citologia,4.2,14
+3856,Português,Interpretação de Texto,1.7,4
+3857,Biologia,Botânica,2.8,7
+3858,Física,Dinâmica,4.9,17
+3859,Inglês,Reading,2.6,9
+3860,Biologia,Genética,3.1,7
+3861,Biologia,Genética,1.6,14
+3862,Química,Físico-Química,1.7,23
+3863,Português,Semântica,2.7,6
+3864,Inglês,Vocabulary,2.5,21
+3865,Biologia,Ecologia,2.5,5
+3866,Biologia,Botânica,2.2,5
+3867,Física,Eletromagnetismo,3.0,5
+3868,Português,Redação,3.6,10
+3869,Português,Redação,2.3,4
+3870,Matemática,Álgebra,1.8,3
+3871,Inglês,Grammar,4.7,10
+3872,Português,Semântica,4.3,15
+3873,Matemática,Trigonometria,2.7,9
+3874,Português,Interpretação de Texto,1.4,1
+3875,História,Contemporânea,1.3,7
+3876,Biologia,Ecologia,1.0,3
+3877,Física,Óptica,3.5,12
+3878,História,Contemporânea,3.5,25
+3879,Biologia,Fisiologia Humana,2.7,10
+3880,Química,Inorgânica,3.1,11
+3881,Português,Literatura Brasileira,2.6,5
+3882,Biologia,Botânica,2.7,11
+3883,Física,Óptica,3.1,12
+3884,Inglês,Vocabulary,1.3,1
+3885,Geografia,Cartografia,4.4,14
+3886,Matemática,Estatística,3.4,8
+3887,Química,Inorgânica,4.5,13
+3888,Inglês,Vocabulary,3.1,13
+3889,Química,Inorgânica,1.1,5
+3890,Matemática,Combinatória,4.8,14
+3891,Química,Atomística,4.1,14
+3892,Geografia,Física,2.8,11
+3893,Física,Ondulatória,4.0,13
+3894,Química,Atomística,1.4,8
+3895,Química,Orgânica,1.4,5
+3896,Química,Inorgânica,2.1,8
+3897,Inglês,Grammar,3.0,7
+3898,História,Moderna,3.9,10
+3899,Física,Moderna,3.2,9
+3900,Inglês,Reading,2.3,5
+3901,Matemática,Combinatória,3.3,13
+3902,Geografia,Cartografia,4.3,10
+3903,Matemática,Álgebra,3.5,13
+3904,Geografia,Cartografia,2.1,5
+3905,Biologia,Genética,2.1,5
+3906,Química,Estequiometria,3.4,14
+3907,História,Antiga,1.2,6
+3908,Química,Físico-Química,3.8,10
+3909,Física,Dinâmica,5.0,17
+3910,Geografia,Física,2.9,8
+3911,Matemática,Álgebra,1.5,2
+3912,Química,Inorgânica,4.5,17
+3913,Física,Termodinâmica,1.7,3
+3914,Geografia,Humana,4.8,15
+3915,Matemática,Combinatória,3.3,7
+3916,Inglês,Reading,4.2,15
+3917,Matemática,Álgebra,4.8,17
+3918,Física,Eletromagnetismo,3.3,12
+3919,Geografia,Geopolítica,1.9,9
+3920,Inglês,Grammar,3.4,14
+3921,Português,Interpretação de Texto,1.5,5
+3922,Física,Óptica,4.3,14
+3923,Química,Inorgânica,1.8,7
+3924,Física,Dinâmica,4.6,11
+3925,Matemática,Geometria Espacial,2.3,10
+3926,Português,Literatura Brasileira,3.7,11
+3927,Biologia,Evolução,2.4,11
+3928,Biologia,Ecologia,4.5,15
+3929,Matemática,Trigonometria,4.4,14
+3930,Matemática,Estatística,2.7,10
+3931,Biologia,Evolução,5.0,17
+3932,Biologia,Botânica,2.2,10
+3933,Biologia,Fisiologia Humana,4.7,17
+3934,História,Brasil Império,4.7,14
+3935,Geografia,Física,2.8,8
+3936,Matemática,Trigonometria,2.4,7
+3937,Física,Termodinâmica,4.8,16
+3938,Química,Eletroquímica,4.3,14
+3939,Geografia,Geopolítica,1.4,7
+3940,História,Moderna,1.1,2
+3941,Biologia,Citologia,4.8,15
+3942,Português,Gramática,3.4,9
+3943,Geografia,Geopolítica,3.8,12
+3944,Matemática,Estatística,3.8,9
+3945,Português,Redação,2.5,11
+3946,História,Moderna,4.8,12
+3947,Física,Ondulatória,1.5,4
+3948,Geografia,Física,1.0,7
+3949,Matemática,Álgebra,2.3,10
+3950,Química,Orgânica,4.9,17
+3951,História,Brasil Império,3.5,8
+3952,Inglês,Grammar,1.2,2
+3953,Inglês,Vocabulary,1.8,7
+3954,Matemática,Geometria Espacial,3.8,11
+3955,Matemática,Geometria Plana,3.7,9
+3956,Matemática,Trigonometria,2.2,5
+3957,História,Contemporânea,3.9,13
+3958,Física,Cinemática,2.1,4
+3959,Biologia,Fisiologia Humana,1.2,7
+3960,História,Antiga,1.3,5
+3961,Física,Dinâmica,5.0,17
+3962,Química,Estequiometria,2.4,6
+3963,Geografia,Ambiental,2.4,5
+3964,Matemática,Álgebra,2.6,9
+3965,Matemática,Estatística,1.1,7
+3966,Matemática,Álgebra,3.2,10
+3967,História,Antiga,4.1,13
+3968,História,Moderna,3.7,10
+3969,Biologia,Botânica,4.4,16
+3970,Geografia,Humana,1.1,4
+3971,Português,Literatura Brasileira,2.3,26
+3972,Geografia,Física,1.3,4
+3973,Geografia,Geopolítica,1.5,4
+3974,Física,Óptica,3.1,7
+3975,Química,Eletroquímica,4.8,13
+3976,Biologia,Genética,2.2,4
+3977,Matemática,Estatística,4.1,15
+3978,Português,Gramática,2.4,3
+3979,Biologia,Citologia,1.6,2
+3980,Português,Semântica,2.8,10
+3981,Matemática,Geometria Espacial,4.6,14
+3982,Geografia,Ambiental,3.2,10
+3983,Geografia,Ambiental,4.4,15
+3984,Português,Interpretação de Texto,1.7,21
+3985,Química,Atomística,4.5,13
+3986,Geografia,Ambiental,1.7,6
+3987,Matemática,Estatística,3.4,8
+3988,Física,Moderna,2.4,10
+3989,Matemática,Geometria Plana,1.8,4
+3990,Física,Ondulatória,4.2,11
+3991,Física,Termodinâmica,4.6,11
+3992,Inglês,Vocabulary,1.0,2
+3993,Português,Gramática,4.1,11
+3994,Geografia,Geopolítica,3.2,11
+3995,Geografia,Ambiental,4.0,13
+3996,Química,Eletroquímica,3.8,13
+3997,Matemática,Estatística,1.2,3
+3998,Biologia,Fisiologia Humana,3.1,11
+3999,Biologia,Citologia,3.2,8
+4000,Inglês,Reading,4.2,12
+4001,Matemática,Estatística,1.4,3
+4002,Inglês,Reading,1.0,2
+4003,História,Brasil República,1.5,3
+4004,Química,Eletroquímica,4.8,12
+4005,História,Brasil Colônia,2.9,7
+4006,Química,Eletroquímica,4.4,11
+4007,Português,Interpretação de Texto,3.3,12
+4008,Matemática,Estatística,1.5,2
+4009,Química,Atomística,3.5,10
+4010,Química,Físico-Química,4.4,14
+4011,Inglês,Grammar,4.4,11
+4012,Biologia,Ecologia,3.9,29
+4013,Física,Óptica,2.3,1
+4014,Biologia,Citologia,3.7,11
+4015,Biologia,Fisiologia Humana,2.8,10
+4016,Física,Eletromagnetismo,3.1,7
+4017,Matemática,Estatística,1.6,5
+4018,Física,Óptica,2.2,4
+4019,Química,Estequiometria,4.0,10
+4020,Matemática,Geometria Espacial,2.0,8
+4021,História,Antiga,3.5,9
+4022,Física,Moderna,4.5,14
+4023,Inglês,Reading,3.0,11
+4024,Geografia,Cartografia,4.4,14
+4025,Matemática,Trigonometria,1.9,4
+4026,Física,Eletromagnetismo,3.0,9
+4027,Matemática,Geometria Espacial,3.3,13
+4028,História,Brasil Colônia,3.6,11
+4029,Português,Literatura Brasileira,3.7,10
+4030,Biologia,Botânica,2.7,5
+4031,Inglês,Reading,1.5,3
+4032,Português,Gramática,1.4,4
+4033,Biologia,Fisiologia Humana,3.7,14
+4034,Geografia,Ambiental,3.8,10
+4035,Física,Ondulatória,3.1,7
+4036,Inglês,Vocabulary,4.8,17
+4037,Português,Literatura Brasileira,3.6,14
+4038,Física,Ondulatória,3.4,10
+4039,Biologia,Genética,3.2,8
+4040,História,Brasil Império,4.9,14
+4041,Matemática,Geometria Espacial,3.1,9
+4042,Biologia,Citologia,4.2,10
+4043,Geografia,Ambiental,3.0,5
+4044,Inglês,Vocabulary,2.6,10
+4045,História,Brasil Império,2.3,8
+4046,História,Moderna,4.1,15
+4047,Geografia,Humana,2.4,7
+4048,Inglês,Grammar,2.6,9
+4049,Português,Gramática,2.7,7
+4050,Física,Dinâmica,2.4,9
+4051,Matemática,Cálculo,2.3,8
+4052,História,Brasil República,1.4,8
+4053,Português,Redação,1.6,4
+4054,Português,Semântica,2.2,4
+4055,Biologia,Citologia,2.8,7
+4056,Biologia,Ecologia,4.1,10
+4057,História,Medieval,2.5,7
+4058,Matemática,Estatística,4.8,16
+4059,Biologia,Genética,4.2,13
+4060,Física,Termodinâmica,4.1,11
+4061,Matemática,Trigonometria,3.3,13
+4062,Inglês,Reading,1.4,2
+4063,Matemática,Cálculo,3.6,11
+4064,Geografia,Humana,1.6,4
+4065,Inglês,Reading,4.7,14
+4066,Química,Físico-Química,2.5,7
+4067,Química,Inorgânica,4.6,14
+4068,História,Brasil Colônia,4.4,16
+4069,Inglês,Reading,1.4,3
+4070,Matemática,Estatística,3.1,12
+4071,Química,Físico-Química,4.6,12
+4072,Português,Semântica,3.7,10
+4073,Inglês,Reading,1.4,7
+4074,Matemática,Combinatória,3.5,9
+4075,Inglês,Vocabulary,1.3,3
+4076,Geografia,Ambiental,3.6,22
+4077,Inglês,Vocabulary,1.7,5
+4078,Química,Orgânica,2.9,7
+4079,Física,Óptica,1.1,5
+4080,Física,Moderna,4.7,16
+4081,Física,Óptica,5.0,14
+4082,Física,Dinâmica,2.5,10
+4083,Química,Estequiometria,4.1,15
+4084,Matemática,Cálculo,3.6,13
+4085,Inglês,Reading,2.4,9
+4086,Geografia,Humana,4.6,12
+4087,Inglês,Reading,3.8,13
+4088,Química,Atomística,2.1,9
+4089,Biologia,Ecologia,1.9,6
+4090,Física,Eletromagnetismo,2.4,5
+4091,Matemática,Cálculo,4.9,30
+4092,Inglês,Reading,4.1,16
+4093,Biologia,Fisiologia Humana,1.2,15
+4094,Português,Gramática,2.4,11
+4095,Biologia,Botânica,3.7,10
+4096,Física,Moderna,3.0,12
+4097,Português,Interpretação de Texto,3.1,10
+4098,Inglês,Reading,2.3,5
+4099,Química,Físico-Química,4.9,17
+4100,Química,Físico-Química,4.8,16
+4101,Matemática,Estatística,1.4,4
+4102,Química,Orgânica,3.2,12
+4103,Química,Eletroquímica,4.3,15
+4104,Química,Físico-Química,3.9,9
+4105,Português,Literatura Brasileira,4.3,12
+4106,Biologia,Ecologia,3.6,9
+4107,Inglês,Reading,1.3,5
+4108,Matemática,Geometria Espacial,2.6,7
+4109,Física,Moderna,1.9,5
+4110,Biologia,Botânica,4.8,17
+4111,Geografia,Humana,1.1,2
+4112,Português,Literatura Brasileira,2.6,11
+4113,História,Moderna,2.6,10
+4114,Inglês,Vocabulary,2.5,10
+4115,História,Contemporânea,2.9,8
+4116,Física,Moderna,1.7,3
+4117,Geografia,Física,2.7,6
+4118,Física,Eletromagnetismo,4.1,12
+4119,Português,Interpretação de Texto,1.1,2
+4120,Português,Redação,4.9,15
+4121,Inglês,Grammar,4.2,16
+4122,Matemática,Combinatória,1.5,5
+4123,Química,Eletroquímica,1.1,6
+4124,Inglês,Reading,1.5,3
+4125,História,Antiga,4.8,18
+4126,Português,Redação,2.6,10
+4127,Inglês,Grammar,1.1,4
+4128,Biologia,Citologia,1.7,6
+4129,Biologia,Citologia,4.2,11
+4130,Química,Inorgânica,3.6,8
+4131,Inglês,Grammar,3.8,13
+4132,Inglês,Vocabulary,3.2,13
+4133,Biologia,Evolução,3.7,14
+4134,História,Medieval,1.5,8
+4135,Português,Interpretação de Texto,2.2,3
+4136,Biologia,Citologia,1.6,6
+4137,Física,Termodinâmica,4.4,14
+4138,Português,Interpretação de Texto,5.0,16
+4139,História,Brasil Império,1.0,19
+4140,Inglês,Grammar,2.2,10
+4141,Português,Semântica,2.6,9
+4142,Inglês,Grammar,4.5,17
+4143,Biologia,Fisiologia Humana,4.6,11
+4144,História,Contemporânea,2.3,21
+4145,Geografia,Humana,2.9,4
+4146,Português,Redação,1.7,3
+4147,Física,Ondulatória,3.3,11
+4148,Português,Literatura Brasileira,2.3,1
+4149,Matemática,Geometria Plana,2.5,9
+4150,Química,Inorgânica,2.7,8
+4151,Biologia,Citologia,4.4,15
+4152,Geografia,Ambiental,2.6,8
+4153,Português,Literatura Brasileira,2.2,6
+4154,História,Moderna,1.9,9
+4155,Física,Moderna,4.6,14
+4156,Biologia,Botânica,2.0,10
+4157,História,Brasil Colônia,3.3,11
+4158,História,Brasil Império,2.1,9
+4159,Química,Físico-Química,1.9,7
+4160,Português,Literatura Brasileira,3.4,9
+4161,História,Antiga,2.0,4
+4162,Inglês,Reading,1.2,7
+4163,Inglês,Reading,2.9,12
+4164,Geografia,Humana,2.1,7
+4165,Geografia,Geopolítica,2.9,12
+4166,Química,Atomística,2.0,1
+4167,História,Brasil Império,4.7,16
+4168,Biologia,Botânica,1.2,1
+4169,Química,Atomística,1.8,5
+4170,Português,Interpretação de Texto,3.1,8
+4171,Geografia,Ambiental,2.3,7
+4172,Matemática,Cálculo,4.8,12
+4173,Biologia,Citologia,2.0,6
+4174,Biologia,Ecologia,3.8,10
+4175,Física,Cinemática,1.9,5
+4176,Matemática,Geometria Plana,2.2,10
+4177,Português,Literatura Brasileira,4.7,12
+4178,Biologia,Genética,2.2,6
+4179,Português,Literatura Brasileira,3.6,30
+4180,Inglês,Vocabulary,3.3,12
+4181,Português,Redação,4.3,9
+4182,História,Brasil Império,4.0,11
+4183,Física,Ondulatória,3.7,11
+4184,Física,Óptica,2.1,6
+4185,Biologia,Ecologia,1.2,7
+4186,Geografia,Física,1.7,7
+4187,História,Brasil Império,2.6,11
+4188,Geografia,Humana,1.8,4
+4189,Biologia,Citologia,1.5,5
+4190,Física,Dinâmica,1.8,18
+4191,Biologia,Ecologia,2.6,10
+4192,Física,Ondulatória,4.6,13
+4193,Matemática,Trigonometria,4.4,14
+4194,Geografia,Geopolítica,2.0,5
+4195,História,Moderna,2.5,6
+4196,Biologia,Evolução,3.3,13
+4197,Inglês,Reading,1.9,8
+4198,Química,Atomística,1.5,2
+4199,Matemática,Álgebra,2.8,7
+4200,Química,Orgânica,1.2,4
+4201,Português,Interpretação de Texto,3.6,13
+4202,Física,Moderna,4.7,17
+4203,Inglês,Grammar,4.3,14
+4204,Química,Orgânica,1.2,5
+4205,Biologia,Botânica,4.5,17
+4206,Inglês,Vocabulary,1.6,2
+4207,Química,Físico-Química,2.3,1
+4208,Português,Redação,2.1,8
+4209,Química,Físico-Química,2.9,9
+4210,Física,Moderna,1.7,3
+4211,Matemática,Álgebra,3.1,7
+4212,Biologia,Evolução,2.4,8
+4213,Matemática,Estatística,4.7,12
+4214,Inglês,Reading,4.5,16
+4215,Matemática,Combinatória,3.5,9
+4216,Geografia,Física,3.4,10
+4217,Geografia,Humana,3.4,14
+4218,Física,Óptica,1.4,5
+4219,Português,Interpretação de Texto,2.0,5
+4220,Química,Atomística,2.4,6
+4221,Física,Óptica,1.7,8
+4222,História,Brasil República,4.5,12
+4223,Biologia,Evolução,3.9,15
+4224,Biologia,Genética,4.9,15
+4225,Matemática,Geometria Espacial,3.0,11
+4226,Geografia,Física,2.1,16
+4227,Geografia,Ambiental,3.7,14
+4228,Geografia,Física,3.4,9
+4229,Inglês,Grammar,2.0,5
+4230,Português,Semântica,3.5,12
+4231,Geografia,Cartografia,1.9,6
+4232,Inglês,Grammar,4.2,12
+4233,Química,Atomística,2.7,8
+4234,Física,Dinâmica,4.2,15
+4235,Geografia,Ambiental,3.9,13
+4236,História,Antiga,1.3,7
+4237,Português,Literatura Brasileira,1.2,3
+4238,Português,Literatura Brasileira,2.7,11
+4239,Química,Eletroquímica,2.6,10
+4240,História,Moderna,4.1,13
+4241,Português,Gramática,2.3,8
+4242,Matemática,Estatística,3.7,10
+4243,Biologia,Evolução,1.4,8
+4244,Matemática,Álgebra,2.1,10
+4245,Biologia,Evolução,4.4,16
+4246,Física,Dinâmica,4.4,17
+4247,Química,Atomística,2.5,10
+4248,Física,Ondulatória,2.5,8
+4249,Português,Redação,3.0,7
+4250,Física,Moderna,3.3,9
+4251,Matemática,Trigonometria,2.2,5
+4252,Matemática,Álgebra,4.2,14
+4253,Inglês,Grammar,3.6,14
+4254,Geografia,Ambiental,2.3,7
+4255,Português,Interpretação de Texto,4.8,14
+4256,Física,Eletromagnetismo,2.7,8
+4257,Química,Atomística,3.4,11
+4258,Química,Físico-Química,1.3,3
+4259,Física,Cinemática,2.1,8
+4260,Biologia,Citologia,2.1,8
+4261,Física,Cinemática,2.9,7
+4262,Português,Redação,3.4,10
+4263,Física,Ondulatória,1.6,2
+4264,Matemática,Álgebra,1.9,6
+4265,Matemática,Estatística,3.8,9
+4266,Matemática,Álgebra,2.4,6
+4267,Geografia,Humana,3.2,7
+4268,Matemática,Geometria Espacial,3.5,9
+4269,História,Medieval,4.5,15
+4270,Matemática,Geometria Espacial,3.2,10
+4271,Química,Eletroquímica,4.1,10
+4272,Matemática,Trigonometria,2.6,6
+4273,Inglês,Grammar,4.7,13
+4274,Biologia,Botânica,3.4,14
+4275,Biologia,Genética,4.3,15
+4276,Física,Eletromagnetismo,2.3,9
+4277,Português,Literatura Brasileira,2.6,8
+4278,História,Contemporânea,1.4,3
+4279,Química,Eletroquímica,3.0,8
+4280,Química,Atomística,3.7,14
+4281,Biologia,Ecologia,4.6,15
+4282,Física,Eletromagnetismo,2.9,12
+4283,Matemática,Trigonometria,4.8,15
+4284,Física,Ondulatória,1.2,6
+4285,Geografia,Ambiental,1.7,7
+4286,Física,Moderna,3.6,14
+4287,Física,Eletromagnetismo,1.5,5
+4288,Física,Óptica,4.7,14
+4289,Português,Redação,4.4,15
+4290,História,Brasil Colônia,3.6,13
+4291,Matemática,Estatística,4.3,13
+4292,Português,Interpretação de Texto,3.8,13
+4293,Português,Literatura Brasileira,3.4,14
+4294,Física,Dinâmica,2.3,8
+4295,Química,Orgânica,2.3,9
+4296,Português,Gramática,4.1,11
+4297,Matemática,Trigonometria,2.1,10
+4298,Português,Semântica,3.4,8
+4299,Inglês,Vocabulary,3.5,12
+4300,Matemática,Cálculo,4.1,15
+4301,Inglês,Grammar,3.2,13
+4302,História,Brasil Império,2.1,5
+4303,História,Antiga,2.6,11
+4304,Inglês,Vocabulary,4.8,15
+4305,Física,Óptica,2.2,4
+4306,História,Brasil Colônia,2.3,5
+4307,Português,Gramática,2.3,10
+4308,Matemática,Geometria Plana,2.6,5
+4309,Português,Semântica,2.2,4
+4310,Matemática,Combinatória,3.2,13
+4311,História,Brasil Colônia,3.1,7
+4312,Biologia,Evolução,4.2,12
+4313,Biologia,Botânica,3.4,14
+4314,Física,Eletromagnetismo,2.4,6
+4315,Matemática,Geometria Plana,4.7,14
+4316,Matemática,Álgebra,1.0,1
+4317,Português,Gramática,3.4,12
+4318,Geografia,Humana,1.1,3
+4319,Português,Interpretação de Texto,1.4,6
+4320,Biologia,Fisiologia Humana,4.9,14
+4321,Português,Semântica,3.3,10
+4322,Matemática,Estatística,1.5,5
+4323,Matemática,Álgebra,1.5,5
+4324,Geografia,Física,1.2,3
+4325,História,Brasil Colônia,1.5,2
+4326,Português,Semântica,2.1,7
+4327,Português,Interpretação de Texto,1.7,6
+4328,Química,Físico-Química,1.5,6
+4329,Português,Semântica,1.5,8
+4330,Química,Físico-Química,4.8,16
+4331,Matemática,Geometria Espacial,1.9,8
+4332,História,Brasil Império,4.2,12
+4333,Inglês,Grammar,2.2,10
+4334,Geografia,Geopolítica,3.4,10
+4335,Química,Atomística,4.4,15
+4336,Biologia,Ecologia,1.0,2
+4337,História,Brasil Colônia,3.9,10
+4338,Matemática,Álgebra,4.0,15
+4339,Química,Atomística,4.7,17
+4340,Inglês,Reading,4.7,17
+4341,Inglês,Grammar,1.6,6
+4342,Biologia,Botânica,2.4,10
+4343,Geografia,Ambiental,2.3,9
+4344,História,Medieval,3.7,14
+4345,Geografia,Física,2.6,7
+4346,Inglês,Grammar,3.5,8
+4347,Geografia,Física,3.1,9
+4348,História,Brasil República,1.4,4
+4349,História,Brasil Império,1.9,4
+4350,Geografia,Humana,2.2,9
+4351,História,Antiga,4.3,10
+4352,Geografia,Ambiental,2.2,8
+4353,Inglês,Reading,2.0,8
+4354,Biologia,Citologia,2.3,8
+4355,Matemática,Geometria Plana,1.8,6
+4356,Física,Moderna,4.2,11
+4357,Química,Inorgânica,4.7,16
+4358,Química,Estequiometria,1.3,4
+4359,Inglês,Reading,1.0,4
+4360,Química,Orgânica,3.7,9
+4361,Inglês,Vocabulary,2.2,9
+4362,Biologia,Ecologia,3.9,15
+4363,Matemática,Álgebra,3.0,9
+4364,Português,Semântica,1.8,6
+4365,Inglês,Reading,3.9,12
+4366,Química,Estequiometria,4.2,10
+4367,História,Medieval,1.8,7
+4368,História,Brasil Império,3.5,10
+4369,Matemática,Cálculo,3.4,8
+4370,Matemática,Álgebra,1.2,3
+4371,Inglês,Reading,3.3,8
+4372,Geografia,Humana,1.4,6
+4373,Português,Redação,2.2,9
+4374,História,Brasil Império,2.1,10
+4375,História,Brasil República,4.0,15
+4376,Inglês,Vocabulary,2.5,7
+4377,Inglês,Grammar,3.5,14
+4378,Química,Estequiometria,4.0,10
+4379,Química,Físico-Química,1.3,4
+4380,Física,Moderna,1.6,3
+4381,Inglês,Reading,2.8,12
+4382,História,Brasil Colônia,4.7,18
+4383,História,Contemporânea,4.7,18
+4384,Química,Estequiometria,5.0,13
+4385,Física,Dinâmica,3.9,10
+4386,Geografia,Cartografia,4.4,11
+4387,Biologia,Botânica,4.9,16
+4388,Física,Termodinâmica,4.8,12
+4389,Matemática,Estatística,4.2,16
+4390,Química,Atomística,2.8,8
+4391,Geografia,Humana,3.2,10
+4392,Biologia,Genética,4.3,15
+4393,Geografia,Ambiental,3.2,7
+4394,Geografia,Humana,1.5,7
+4395,Física,Cinemática,3.3,7
+4396,Matemática,Geometria Plana,4.8,18
+4397,Inglês,Grammar,1.5,4
+4398,Física,Dinâmica,3.9,29
+4399,Geografia,Ambiental,4.2,15
+4400,Física,Cinemática,2.1,5
+4401,História,Medieval,3.9,9
+4402,Geografia,Ambiental,3.0,10
+4403,Química,Inorgânica,1.3,5
+4404,Português,Redação,2.0,10
+4405,Matemática,Estatística,1.0,3
+4406,Português,Gramática,2.5,8
+4407,Biologia,Citologia,3.6,14
+4408,Português,Literatura Brasileira,3.3,9
+4409,Geografia,Física,1.4,5
+4410,Matemática,Estatística,1.5,3
+4411,Inglês,Grammar,1.7,23
+4412,Português,Semântica,2.6,6
+4413,História,Medieval,3.1,9
+4414,História,Antiga,4.3,10
+4415,Matemática,Álgebra,3.5,10
+4416,Biologia,Ecologia,3.1,9
+4417,Português,Interpretação de Texto,1.2,2
+4418,Matemática,Geometria Plana,3.7,10
+4419,Inglês,Reading,1.0,4
+4420,Biologia,Fisiologia Humana,1.5,8
+4421,Física,Termodinâmica,3.5,11
+4422,Física,Eletromagnetismo,4.0,12
+4423,Biologia,Citologia,3.3,7
+4424,Português,Semântica,2.6,11
+4425,Matemática,Cálculo,1.7,9
+4426,História,Brasil República,3.0,13
+4427,Geografia,Geopolítica,1.4,8
+4428,Geografia,Ambiental,4.0,16
+4429,Inglês,Reading,2.8,6
+4430,Português,Redação,4.8,18
+4431,Física,Moderna,2.5,7
+4432,Matemática,Geometria Plana,2.2,8
+4433,Física,Eletromagnetismo,3.0,10
+4434,Geografia,Ambiental,1.9,6
+4435,História,Contemporânea,2.9,6
+4436,Biologia,Evolução,1.0,18
+4437,Biologia,Botânica,4.3,10
+4438,Química,Estequiometria,1.5,4
+4439,Química,Atomística,4.7,18
+4440,Química,Físico-Química,4.6,16
+4441,Geografia,Cartografia,2.8,6
+4442,Matemática,Álgebra,3.8,13
+4443,História,Antiga,3.3,9
+4444,Biologia,Botânica,3.6,11
+4445,História,Antiga,4.8,13
+4446,História,Brasil República,4.8,11
+4447,Português,Interpretação de Texto,4.5,12
+4448,Química,Físico-Química,2.5,11
+4449,História,Contemporânea,1.6,4
+4450,Biologia,Genética,2.7,12
+4451,Matemática,Álgebra,1.8,6
+4452,Física,Ondulatória,2.5,5
+4453,Química,Estequiometria,2.6,6
+4454,Matemática,Geometria Plana,4.1,9
+4455,Português,Semântica,3.9,11
+4456,Biologia,Fisiologia Humana,4.8,12
+4457,Geografia,Cartografia,2.9,6
+4458,Física,Óptica,2.0,10
+4459,Matemática,Álgebra,4.2,13
+4460,Física,Dinâmica,4.0,9
+4461,Química,Atomística,1.4,5
+4462,Matemática,Estatística,3.0,12
+4463,Português,Semântica,1.6,8
+4464,História,Brasil Colônia,4.5,13
+4465,Português,Gramática,5.0,14
+4466,Física,Óptica,4.3,12
+4467,Biologia,Fisiologia Humana,1.2,7
+4468,Biologia,Ecologia,2.2,5
+4469,Química,Orgânica,1.6,2
+4470,Química,Orgânica,1.7,5
+4471,Física,Dinâmica,4.8,17
+4472,Matemática,Cálculo,2.1,7
+4473,Inglês,Reading,2.5,23
+4474,Geografia,Geopolítica,1.4,5
+4475,Português,Gramática,3.6,10
+4476,Matemática,Estatística,1.5,8
+4477,Geografia,Ambiental,3.2,7
+4478,Química,Atomística,1.4,4
+4479,Física,Dinâmica,4.2,13
+4480,História,Moderna,3.4,11
+4481,História,Brasil Império,3.2,11
+4482,Português,Literatura Brasileira,1.9,3
+4483,Matemática,Cálculo,3.1,9
+4484,Matemática,Cálculo,4.0,15
+4485,Física,Eletromagnetismo,1.4,1
+4486,Física,Óptica,2.2,8
+4487,Biologia,Fisiologia Humana,3.4,9
+4488,Biologia,Ecologia,4.9,14
+4489,Português,Interpretação de Texto,2.8,10
+4490,Química,Atomística,1.9,6
+4491,Geografia,Geopolítica,2.7,12
+4492,Matemática,Geometria Plana,1.3,6
+4493,Inglês,Vocabulary,4.8,12
+4494,Geografia,Geopolítica,1.0,2
+4495,Matemática,Álgebra,1.1,4
+4496,Biologia,Ecologia,4.0,13
+4497,Biologia,Botânica,1.4,15
+4498,História,Antiga,2.6,23
+4499,Química,Físico-Química,1.6,5
+4500,Inglês,Vocabulary,3.9,29
+4501,Geografia,Geopolítica,3.2,7
+4502,Português,Semântica,5.0,13
+4503,Matemática,Álgebra,4.7,16
+4504,História,Moderna,1.9,3
+4505,Biologia,Fisiologia Humana,1.3,2
+4506,Geografia,Física,3.6,10
+4507,História,Brasil Colônia,3.0,13
+4508,História,Medieval,4.9,14
+4509,Matemática,Álgebra,2.5,6
+4510,História,Brasil Império,2.6,8
+4511,História,Brasil Colônia,3.3,13
+4512,Português,Semântica,2.8,6
+4513,Matemática,Cálculo,1.6,7
+4514,Matemática,Combinatória,1.6,2
+4515,Química,Físico-Química,3.6,12
+4516,História,Antiga,1.6,3
+4517,Matemática,Cálculo,2.4,8
+4518,História,Moderna,2.3,5
+4519,Geografia,Humana,2.6,6
+4520,Geografia,Cartografia,1.1,2
+4521,Física,Moderna,3.2,12
+4522,Geografia,Física,3.2,7
+4523,Química,Eletroquímica,4.9,12
+4524,História,Moderna,4.5,11
+4525,Matemática,Trigonometria,3.4,10
+4526,Português,Semântica,1.1,5
+4527,Biologia,Botânica,1.6,2
+4528,Química,Físico-Química,4.9,17
+4529,Português,Gramática,2.4,10
+4530,História,Brasil República,3.9,6
+4531,Geografia,Humana,4.8,17
+4532,História,Brasil Colônia,2.5,4
+4533,Química,Inorgânica,2.7,11
+4534,História,Brasil Império,4.3,27
+4535,Biologia,Citologia,2.5,11
+4536,Biologia,Evolução,2.2,6
+4537,Biologia,Ecologia,3.2,10
+4538,Português,Redação,1.7,9
+4539,Física,Ondulatória,3.7,14
+4540,Química,Inorgânica,2.8,3
+4541,Português,Interpretação de Texto,4.7,13
+4542,Química,Orgânica,4.9,16
+4543,Inglês,Grammar,4.4,17
+4544,História,Contemporânea,3.5,14
+4545,Física,Ondulatória,1.6,3
+4546,Geografia,Física,1.1,2
+4547,História,Brasil República,3.3,8
+4548,Química,Físico-Química,2.3,5
+4549,História,Antiga,2.2,9
+4550,Português,Redação,1.6,2
+4551,Geografia,Cartografia,4.4,17
+4552,Geografia,Humana,2.4,6
+4553,Matemática,Trigonometria,3.6,10
+4554,Física,Moderna,1.5,6
+4555,Inglês,Reading,3.2,8
+4556,Inglês,Reading,1.0,2
+4557,História,Medieval,2.3,6
+4558,Química,Eletroquímica,1.3,5
+4559,Português,Redação,1.1,3
+4560,Matemática,Geometria Espacial,4.4,11
+4561,Química,Atomística,1.6,4
+4562,Biologia,Evolução,4.0,15
+4563,Química,Físico-Química,4.5,14
+4564,Matemática,Geometria Espacial,3.4,11
+4565,Matemática,Combinatória,4.8,12
+4566,Português,Gramática,4.9,12
+4567,Biologia,Citologia,3.4,12
+4568,Matemática,Álgebra,1.4,2
+4569,Biologia,Ecologia,4.7,12
+4570,Biologia,Citologia,4.0,10
+4571,Inglês,Vocabulary,3.2,29
+4572,Português,Literatura Brasileira,4.0,15
+4573,Matemática,Estatística,3.0,12
+4574,História,Contemporânea,4.9,16
+4575,Geografia,Geopolítica,4.7,12
+4576,Biologia,Fisiologia Humana,2.4,6
+4577,Física,Cinemática,2.9,10
+4578,Inglês,Vocabulary,4.0,16
+4579,Inglês,Vocabulary,4.0,13
+4580,Física,Óptica,1.4,23
+4581,Inglês,Reading,1.5,6
+4582,Português,Interpretação de Texto,2.9,10
+4583,Biologia,Fisiologia Humana,2.4,8
+4584,Português,Redação,4.5,11
+4585,Química,Orgânica,3.2,12
+4586,Geografia,Geopolítica,2.9,6
+4587,Matemática,Geometria Plana,3.6,10
+4588,Biologia,Genética,1.9,4
+4589,Química,Atomística,2.6,2
+4590,Geografia,Cartografia,2.0,4
+4591,Português,Semântica,3.7,12
+4592,Física,Dinâmica,3.3,9
+4593,Química,Atomística,2.3,10
+4594,Português,Interpretação de Texto,4.3,10
+4595,Inglês,Reading,1.9,9
+4596,História,Contemporânea,1.6,7
+4597,Física,Eletromagnetismo,3.2,8
+4598,História,Brasil República,4.4,12
+4599,Matemática,Álgebra,2.2,7
+4600,Física,Moderna,1.1,2
+4601,Química,Atomística,2.5,8
+4602,Geografia,Ambiental,5.0,16
+4603,Biologia,Genética,3.7,15
+4604,Geografia,Humana,2.2,4
+4605,Geografia,Física,4.3,12
+4606,Inglês,Grammar,2.0,7
+4607,Português,Gramática,2.3,6
+4608,Geografia,Física,1.5,5
+4609,Inglês,Grammar,4.2,14
+4610,Geografia,Ambiental,3.0,9
+4611,História,Medieval,2.5,5
+4612,Inglês,Reading,1.9,4
+4613,História,Contemporânea,2.2,10
+4614,Geografia,Geopolítica,2.7,7
+4615,Matemática,Geometria Espacial,1.3,4
+4616,Biologia,Citologia,4.3,12
+4617,Português,Interpretação de Texto,4.0,15
+4618,Biologia,Fisiologia Humana,3.7,9
+4619,Inglês,Grammar,2.2,4
+4620,Química,Inorgânica,2.2,6
+4621,Geografia,Cartografia,3.7,10
+4622,Química,Orgânica,2.0,9
+4623,Português,Literatura Brasileira,4.6,15
+4624,História,Antiga,2.8,7
+4625,Matemática,Trigonometria,3.6,9
+4626,Química,Inorgânica,4.8,17
+4627,Biologia,Ecologia,1.8,6
+4628,Inglês,Grammar,3.8,10
+4629,Biologia,Botânica,2.7,9
+4630,Matemática,Trigonometria,4.6,17
+4631,História,Brasil República,4.7,15
+4632,Biologia,Genética,1.2,3
+4633,Biologia,Ecologia,1.0,6
+4634,Química,Inorgânica,1.8,3
+4635,Geografia,Ambiental,4.4,13
+4636,Matemática,Geometria Espacial,1.8,5
+4637,Português,Semântica,1.2,5
+4638,Inglês,Grammar,3.8,10
+4639,Português,Gramática,3.3,8
+4640,História,Medieval,4.4,17
+4641,Português,Literatura Brasileira,2.8,6
+4642,Química,Físico-Química,4.8,12
+4643,Física,Moderna,1.3,3
+4644,Inglês,Grammar,3.4,8
+4645,Português,Literatura Brasileira,1.2,5
+4646,Geografia,Física,2.2,7
+4647,Biologia,Citologia,2.5,11
+4648,Português,Redação,1.0,7
+4649,Química,Físico-Química,1.1,4
+4650,Matemática,Álgebra,5.0,14
+4651,Português,Interpretação de Texto,3.0,10
+4652,Matemática,Combinatória,1.3,7
+4653,Matemática,Geometria Plana,4.2,11
+4654,Inglês,Reading,4.6,11
+4655,História,Brasil República,1.8,9
+4656,Inglês,Reading,2.0,8
+4657,Biologia,Citologia,4.5,15
+4658,História,Contemporânea,2.8,10
+4659,Matemática,Cálculo,1.9,8
+4660,Português,Interpretação de Texto,2.0,6
+4661,Geografia,Física,3.8,13
+4662,Biologia,Genética,2.8,12
+4663,Inglês,Reading,3.2,11
+4664,Física,Moderna,2.6,5
+4665,História,Contemporânea,3.3,8
+4666,Português,Semântica,2.8,12
+4667,Química,Inorgânica,4.5,13
+4668,Geografia,Humana,3.4,13
+4669,Geografia,Física,2.8,4
+4670,Matemática,Trigonometria,4.0,16
+4671,Português,Gramática,1.7,8
+4672,Física,Eletromagnetismo,4.8,16
+4673,Matemática,Geometria Plana,1.7,5
+4674,História,Contemporânea,2.0,4
+4675,Biologia,Genética,4.6,12
+4676,Biologia,Genética,1.7,4
+4677,Geografia,Física,1.2,6
+4678,Geografia,Geopolítica,4.4,15
+4679,Biologia,Ecologia,2.1,9
+4680,Matemática,Geometria Plana,4.4,17
+4681,História,Moderna,4.1,16
+4682,Biologia,Genética,4.5,12
+4683,Português,Literatura Brasileira,3.4,14
+4684,Matemática,Geometria Espacial,3.3,12
+4685,Biologia,Citologia,1.5,4
+4686,História,Antiga,1.6,5
+4687,Geografia,Ambiental,2.6,9
+4688,Química,Atomística,1.5,5
+4689,Português,Literatura Brasileira,1.3,5
+4690,Geografia,Geopolítica,1.6,5
+4691,Química,Estequiometria,4.1,10
+4692,Biologia,Fisiologia Humana,2.4,5
+4693,Química,Físico-Química,2.6,6
+4694,Física,Óptica,2.5,6
+4695,Português,Interpretação de Texto,2.9,12
+4696,Português,Interpretação de Texto,2.5,6
+4697,Matemática,Cálculo,2.7,12
+4698,Biologia,Citologia,1.0,6
+4699,História,Brasil Colônia,4.5,12
+4700,Química,Eletroquímica,1.4,3
+4701,Geografia,Geopolítica,1.0,2
+4702,Química,Atomística,3.3,8
+4703,Matemática,Cálculo,4.4,15
+4704,Inglês,Vocabulary,1.6,3
+4705,Geografia,Geopolítica,4.4,11
+4706,Biologia,Evolução,4.3,15
+4707,Geografia,Ambiental,4.2,15
+4708,Matemática,Geometria Espacial,4.1,10
+4709,Português,Semântica,3.5,9
+4710,Biologia,Genética,4.0,14
+4711,Português,Interpretação de Texto,1.4,2
+4712,Química,Orgânica,2.9,8
+4713,Português,Interpretação de Texto,1.2,6
+4714,Geografia,Ambiental,3.1,11
+4715,Química,Orgânica,3.8,12
+4716,Química,Inorgânica,4.2,7
+4717,Inglês,Reading,3.6,10
+4718,História,Medieval,4.4,13
+4719,Geografia,Física,4.1,14
+4720,Química,Físico-Química,1.7,9
+4721,Física,Eletromagnetismo,1.7,8
+4722,Português,Literatura Brasileira,4.0,13
+4723,Química,Estequiometria,2.6,7
+4724,Química,Eletroquímica,1.1,2
+4725,Química,Físico-Química,4.7,16
+4726,Química,Estequiometria,1.0,1
+4727,Química,Eletroquímica,2.8,9
+4728,Matemática,Geometria Espacial,4.7,18
+4729,Matemática,Cálculo,2.4,5
+4730,Inglês,Grammar,3.6,29
+4731,Física,Cinemática,3.9,10
+4732,Biologia,Ecologia,4.1,11
+4733,Química,Físico-Química,2.2,4
+4734,Biologia,Fisiologia Humana,4.4,14
+4735,Matemática,Cálculo,1.6,2
+4736,Geografia,Cartografia,2.1,9
+4737,Português,Gramática,2.9,7
+4738,Português,Interpretação de Texto,1.9,5
+4739,Matemática,Álgebra,3.3,8
+4740,Biologia,Ecologia,2.7,9
+4741,Química,Físico-Química,3.7,15
+4742,Biologia,Fisiologia Humana,1.5,8
+4743,História,Brasil Colônia,3.9,11
+4744,Química,Físico-Química,3.9,11
+4745,História,Antiga,4.7,13
+4746,Inglês,Grammar,3.6,10
+4747,Inglês,Grammar,4.6,14
+4748,Biologia,Ecologia,3.4,8
+4749,História,Brasil Império,4.2,16
+4750,Geografia,Física,3.0,7
+4751,Inglês,Vocabulary,3.5,10
+4752,Química,Atomística,4.5,12
+4753,Inglês,Grammar,2.1,10
+4754,Inglês,Reading,1.9,9
+4755,Geografia,Humana,3.0,9
+4756,Inglês,Vocabulary,4.0,8
+4757,Geografia,Humana,2.5,8
+4758,Matemática,Geometria Espacial,3.8,13
+4759,Português,Interpretação de Texto,1.3,22
+4760,Geografia,Humana,3.0,9
+4761,Inglês,Vocabulary,4.8,15
+4762,História,Medieval,2.3,4
+4763,Matemática,Cálculo,4.1,10
+4764,História,Moderna,2.7,12
+4765,Português,Gramática,2.2,8
+4766,História,Brasil Colônia,1.8,8
+4767,Português,Gramática,3.2,12
+4768,Geografia,Cartografia,2.0,7
+4769,Química,Eletroquímica,4.5,14
+4770,Física,Termodinâmica,3.6,8
+4771,Geografia,Ambiental,4.0,10
+4772,Química,Inorgânica,2.9,10
+4773,Física,Cinemática,4.1,10
+4774,Inglês,Vocabulary,4.4,11
+4775,História,Medieval,2.5,8
+4776,Matemática,Geometria Espacial,4.6,12
+4777,Inglês,Grammar,4.7,13
+4778,Biologia,Citologia,2.6,10
+4779,Biologia,Citologia,4.3,16
+4780,Física,Eletromagnetismo,4.7,13
+4781,Português,Semântica,4.6,15
+4782,História,Contemporânea,1.3,1
+4783,Geografia,Humana,3.0,11
+4784,Matemática,Trigonometria,2.9,9
+4785,Biologia,Ecologia,3.7,13
+4786,Inglês,Grammar,1.1,7
+4787,Geografia,Física,4.4,15
+4788,Química,Físico-Química,4.3,10
+4789,História,Moderna,4.4,16
+4790,Física,Eletromagnetismo,4.5,14
+4791,Matemática,Trigonometria,2.6,5
+4792,Física,Óptica,4.1,15
+4793,Matemática,Trigonometria,1.8,7
+4794,Química,Estequiometria,4.4,15
+4795,Química,Inorgânica,1.5,7
+4796,Geografia,Humana,4.1,10
+4797,Inglês,Vocabulary,4.7,10
+4798,História,Medieval,2.6,5
+4799,Biologia,Evolução,3.8,14
+4800,Biologia,Citologia,3.7,11
+4801,História,Moderna,5.0,13
+4802,Física,Termodinâmica,2.4,8
+4803,Inglês,Reading,5.0,13
+4804,Geografia,Ambiental,2.8,5
+4805,História,Medieval,3.2,13
+4806,História,Moderna,4.1,15
+4807,Química,Eletroquímica,3.7,12
+4808,Física,Óptica,2.9,6
+4809,Português,Semântica,4.8,13
+4810,Física,Termodinâmica,4.5,17
+4811,Matemática,Álgebra,2.5,11
+4812,Química,Eletroquímica,3.0,8
+4813,Inglês,Reading,1.5,6
+4814,Química,Inorgânica,3.5,23
+4815,Matemática,Cálculo,3.5,27
+4816,Química,Inorgânica,1.6,5
+4817,Química,Eletroquímica,4.5,13
+4818,Geografia,Física,3.6,28
+4819,Geografia,Ambiental,1.7,8
+4820,História,Antiga,1.3,4
+4821,Física,Ondulatória,3.4,14
+4822,Física,Dinâmica,4.2,11
+4823,Matemática,Cálculo,1.1,2
+4824,Biologia,Botânica,1.5,8
+4825,Química,Inorgânica,1.8,5
+4826,História,Brasil Colônia,1.9,6
+4827,Química,Eletroquímica,2.0,9
+4828,Inglês,Reading,1.3,1
+4829,História,Medieval,3.6,11
+4830,Matemática,Cálculo,1.4,3
+4831,Inglês,Grammar,2.0,6
+4832,Inglês,Grammar,4.3,10
+4833,Biologia,Botânica,2.5,5
+4834,Química,Orgânica,2.0,10
+4835,História,Antiga,2.4,11
+4836,Português,Interpretação de Texto,3.0,11
+4837,Inglês,Grammar,4.1,10
+4838,Biologia,Fisiologia Humana,4.3,14
+4839,Química,Atomística,2.4,8
+4840,Inglês,Reading,3.1,12
+4841,Português,Semântica,1.6,3
+4842,Biologia,Fisiologia Humana,1.2,4
+4843,Português,Interpretação de Texto,3.3,11
+4844,História,Brasil República,4.3,16
+4845,Química,Físico-Química,4.0,11
+4846,Português,Literatura Brasileira,1.7,7
+4847,Química,Atomística,2.5,8
+4848,Português,Literatura Brasileira,1.8,7
+4849,Química,Estequiometria,4.7,17
+4850,Biologia,Genética,2.3,7
+4851,Português,Redação,3.1,10
+4852,Química,Orgânica,4.7,14
+4853,Física,Dinâmica,2.0,8
+4854,História,Brasil República,4.3,11
+4855,Biologia,Botânica,1.3,4
+4856,Matemática,Álgebra,1.0,3
+4857,Matemática,Estatística,4.9,15
+4858,Química,Estequiometria,3.9,15
+4859,História,Moderna,3.6,8
+4860,História,Moderna,4.7,14
+4861,Física,Cinemática,1.8,6
+4862,Geografia,Humana,4.6,14
+4863,Química,Atomística,3.4,13
+4864,Geografia,Cartografia,2.2,9
+4865,Química,Orgânica,4.6,16
+4866,Química,Atomística,3.1,13
+4867,Biologia,Citologia,3.3,10
+4868,Português,Redação,4.8,14
+4869,Português,Literatura Brasileira,4.7,18
+4870,Matemática,Estatística,5.0,17
+4871,Química,Atomística,1.3,2
+4872,Matemática,Trigonometria,3.5,12
+4873,Português,Redação,2.3,10
+4874,História,Contemporânea,4.4,17
+4875,História,Brasil Império,2.0,6
+4876,Biologia,Citologia,3.6,12
+4877,Geografia,Cartografia,1.4,5
+4878,Inglês,Reading,3.6,10
+4879,Matemática,Geometria Plana,2.7,12
+4880,Química,Atomística,1.6,6
+4881,Física,Eletromagnetismo,1.8,4
+4882,Inglês,Reading,1.8,9
+4883,História,Contemporânea,5.0,16
+4884,História,Brasil República,3.4,11
+4885,Português,Gramática,2.8,9
+4886,Química,Físico-Química,2.3,4
+4887,Inglês,Grammar,2.3,8
+4888,Física,Moderna,2.9,6
+4889,Inglês,Vocabulary,2.0,10
+4890,Geografia,Física,2.1,6
+4891,Matemática,Cálculo,4.3,12
+4892,Matemática,Geometria Espacial,2.4,10
+4893,Física,Termodinâmica,4.6,13
+4894,Português,Interpretação de Texto,2.0,7
+4895,Matemática,Estatística,3.0,7
+4896,História,Antiga,3.4,14
+4897,Matemática,Estatística,2.2,4
+4898,História,Antiga,5.0,19
+4899,Química,Físico-Química,1.3,6
+4900,Biologia,Botânica,2.5,11
+4901,Matemática,Geometria Plana,3.1,11
+4902,Português,Interpretação de Texto,3.5,8
+4903,Inglês,Vocabulary,3.2,9
+4904,Química,Estequiometria,3.8,12
+4905,História,Moderna,2.7,12
+4906,Biologia,Evolução,1.9,4
+4907,Biologia,Citologia,4.7,15
+4908,História,Brasil Colônia,4.4,15
+4909,Matemática,Combinatória,4.1,10
+4910,Inglês,Reading,3.4,29
+4911,Física,Eletromagnetismo,4.4,16
+4912,História,Contemporânea,1.9,8
+4913,Química,Inorgânica,2.5,9
+4914,História,Brasil República,2.4,23
+4915,Biologia,Genética,3.6,13
+4916,Português,Gramática,2.2,9
+4917,Química,Físico-Química,1.1,4
+4918,Matemática,Trigonometria,2.9,11
+4919,História,Brasil Colônia,2.9,12
+4920,Matemática,Combinatória,3.1,13
+4921,Química,Eletroquímica,4.6,17
+4922,Física,Termodinâmica,2.6,9
+4923,Geografia,Humana,3.3,13
+4924,Inglês,Grammar,5.0,16
+4925,Química,Físico-Química,2.3,7
+4926,Matemática,Geometria Espacial,1.9,3
+4927,História,Antiga,1.5,6
+4928,Inglês,Reading,1.9,6
+4929,Matemática,Geometria Espacial,4.7,13
+4930,Matemática,Trigonometria,2.6,5
+4931,Geografia,Física,1.5,7
+4932,Física,Ondulatória,3.5,8
+4933,Física,Cinemática,4.4,15
+4934,Física,Dinâmica,1.2,6
+4935,Matemática,Geometria Plana,2.5,3
+4936,Química,Eletroquímica,1.8,9
+4937,Geografia,Ambiental,2.9,7
+4938,Física,Eletromagnetismo,3.6,11
+4939,Matemática,Álgebra,3.5,8
+4940,Química,Inorgânica,2.4,8
+4941,História,Moderna,2.3,9
+4942,Química,Atomística,2.3,8
+4943,História,Moderna,2.1,8
+4944,Física,Cinemática,3.2,7
+4945,Português,Interpretação de Texto,3.5,10
+4946,História,Contemporânea,2.3,5
+4947,Química,Estequiometria,4.2,10
+4948,Inglês,Vocabulary,3.0,10
+4949,Português,Gramática,1.9,3
+4950,Português,Literatura Brasileira,2.2,7
+4951,Matemática,Geometria Espacial,2.8,12
+4952,Português,Semântica,1.1,7
+4953,Física,Termodinâmica,3.0,6
+4954,Matemática,Álgebra,2.8,11
+4955,Física,Óptica,3.0,10
+4956,Matemática,Geometria Espacial,3.1,9
+4957,Química,Físico-Química,2.0,5
+4958,Geografia,Geopolítica,2.8,11
+4959,Português,Interpretação de Texto,3.9,9
+4960,Geografia,Cartografia,3.3,10
+4961,Física,Eletromagnetismo,4.7,17
+4962,Português,Semântica,4.9,18
+4963,Português,Redação,1.9,3
+4964,Biologia,Genética,4.5,14
+4965,História,Moderna,3.7,13
+4966,Matemática,Geometria Espacial,3.7,24
+4967,Inglês,Grammar,4.2,12
+4968,Biologia,Citologia,4.2,11
+4969,Química,Atomística,3.4,9
+4970,Biologia,Genética,4.4,16
+4971,Inglês,Reading,4.1,14
+4972,Português,Interpretação de Texto,2.0,8
+4973,Química,Orgânica,2.0,7
+4974,Inglês,Grammar,3.5,9
+4975,História,Medieval,2.8,10
+4976,Química,Físico-Química,3.9,14
+4977,Química,Atomística,1.5,2
+4978,Física,Termodinâmica,3.8,8
+4979,Biologia,Genética,3.1,8
+4980,História,Brasil Império,3.6,12
+4981,Química,Estequiometria,1.0,3
+4982,Geografia,Física,2.3,6
+4983,Química,Inorgânica,1.2,3
+4984,Português,Redação,3.8,10
+4985,Biologia,Citologia,1.1,4
+4986,História,Medieval,1.9,9
+4987,Português,Literatura Brasileira,4.7,15
+4988,Inglês,Reading,1.8,8
+4989,Matemática,Trigonometria,2.6,8
+4990,Matemática,Combinatória,2.8,8
+4991,Matemática,Geometria Plana,2.5,4
+4992,História,Medieval,3.5,14
+4993,Matemática,Estatística,2.9,11
+4994,Matemática,Geometria Plana,4.6,16
+4995,Português,Semântica,4.1,11
+4996,Português,Semântica,2.7,6
+4997,Português,Literatura Brasileira,1.1,1
+4998,Geografia,Cartografia,4.5,14
+4999,Física,Termodinâmica,3.3,11

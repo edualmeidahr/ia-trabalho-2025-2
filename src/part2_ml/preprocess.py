@@ -4,7 +4,7 @@ import os
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
-RAW_PATH = 'data/raw/adult.csv'
+RAW_PATH = 'data/raw/adult.data'
 PROCESSED_PATH = 'data/processed/'
 
 COLUMNS = [
