@@ -95,7 +95,7 @@ O projeto foi validado nas seguintes configurações de hardware:
 
 Para uma compreensão aprofundada dos fundamentos teóricos, análise detalhada dos resultados experimentais e discussões sobre o desempenho de cada algoritmo, acesse o documento completo:
 
-* ### [➡️ Visualizar Relatório Técnico (PDF)](./EC_IA_Trabalho_02_2025.pdf)
+* ### [➡️ Visualizar Relatório Técnico (PDF)](./Algoritmos_Aprendizagem.pdf)
 
 O relatório abrange:
 * **Fundamentação Teórica**: Detalhamento matemático e biológico dos algoritmos.
