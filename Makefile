@@ -24,7 +24,6 @@ part1:
 part2: preprocess
 	$(PYTHON) $(SRC_DIR)/part2_ml/train_knn.py
 	$(PYTHON) $(SRC_DIR)/part2_ml/train_svm.py
-	$(PYTHON) $(SRC_DIR)/part2_ml/train_svm_optimized.py
 	$(PYTHON) $(SRC_DIR)/part2_ml/train_tree.py
 
 # Parte 3: Algoritmos Genéticos
